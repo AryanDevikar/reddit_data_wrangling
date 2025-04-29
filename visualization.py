@@ -35,14 +35,27 @@ def generate_analysis_report(dataframes):
     report.append(f"- Total Posts: {len(all_posts)}")
     report.append(f"- Total Comments: {len(all_comments) if all_comments is not None else 0}")
     report.append(f"- Subreddits: {', '.join(all_posts['subreddit'].unique())}")
-    report.append(f"- Date Range: {all_posts['created_datetime'].min().strftime('%Y-%m-%d')} to {all_posts['created_datetime'].max().strftime('%Y-%m-%d')}")
     
-    # Sentiment distribution
-    report.append("\n## Sentiment Analysis")
-    sentiment_dist = all_posts['sentiment_category'].value_counts()
-    report.append("### Post Sentiment Distribution")
-    for category, count in sentiment_dist.items():
-        report.append(f"- {category.capitalize()}: {count} posts ({count/len(all_posts)*100:.1f}%)")
+    # Safely get date range
+    try:
+        # Make sure created_datetime has only datetime objects by dropping NaT values
+        valid_dates = all_posts['created_datetime'].dropna()
+        if len(valid_dates) > 0:
+            report.append(f"- Date Range: {valid_dates.min().strftime('%Y-%m-%d')} to {valid_dates.max().strftime('%Y-%m-%d')}")
+        else:
+            report.append("- Date Range: Not available (no valid dates)")
+    except (TypeError, AttributeError) as e:
+        report.append(f"- Date Range: Not available (error: {str(e)})")
+    
+    # Sentiment distribution (if available)
+    if 'sentiment_category' in all_posts.columns:
+        report.append("\n## Sentiment Analysis")
+        sentiment_dist = all_posts['sentiment_category'].value_counts()
+        report.append("### Post Sentiment Distribution")
+        for category, count in sentiment_dist.items():
+            report.append(f"- {category.capitalize()}: {count} posts ({count/len(all_posts)*100:.1f}%)")
+    else:
+        report.append("\n## Sentiment Analysis not available (missing sentiment_category column)")
     
     # Category statistics
     report.append("\n## Category Statistics")
@@ -55,19 +68,23 @@ def generate_analysis_report(dataframes):
                 report.append(f"- Average Score: {cat_posts['score'].mean():.1f}")
                 report.append(f"- Average Comments: {cat_posts['num_comments'].mean():.1f}")
                 
-                # Sentiment distribution within category
-                cat_sentiment = cat_posts['sentiment_category'].value_counts()
-                report.append("- Sentiment Distribution:")
-                for sentiment, count in cat_sentiment.items():
-                    report.append(f"  - {sentiment.capitalize()}: {count} posts ({count/len(cat_posts)*100:.1f}%)")
+                # Sentiment distribution within category (if available)
+                if 'sentiment_category' in cat_posts.columns:
+                    cat_sentiment = cat_posts['sentiment_category'].value_counts()
+                    report.append("- Sentiment Distribution:")
+                    for sentiment, count in cat_sentiment.items():
+                        report.append(f"  - {sentiment.capitalize()}: {count} posts ({count/len(cat_posts)*100:.1f}%)")
                 
                 # Most upvoted post in category
                 if not cat_posts.empty:
-                    top_post = cat_posts.loc[cat_posts['score'].idxmax()]
-                    title = top_post.get('title', 'Untitled')
-                    # Replace or remove problematic characters
-                    title = ''.join(c if ord(c) < 128 else '?' for c in title)
-                    report.append(f"- Top Post: '{title}' in r/{top_post['subreddit']} (Score: {top_post['score']})")
+                    try:
+                        top_post = cat_posts.loc[cat_posts['score'].idxmax()]
+                        title = top_post.get('title', 'Untitled')
+                        # Replace or remove problematic characters
+                        title = ''.join(c if ord(c) < 128 else '?' for c in title)
+                        report.append(f"- Top Post: '{title}' in r/{top_post['subreddit']} (Score: {top_post['score']})")
+                    except Exception as e:
+                        report.append(f"- Top Post: Unable to determine (error: {str(e)})")
     
     # Subreddit statistics within categories
     report.append("\n## Subreddit Statistics")
@@ -83,18 +100,22 @@ def generate_analysis_report(dataframes):
                 
                 # Most upvoted post
                 if not sub_posts.empty:
-                    top_post = sub_posts.loc[sub_posts['score'].idxmax()]
-                    title = top_post.get('title', 'Untitled')
-                    # Replace or remove problematic characters
-                    title = ''.join(c if ord(c) < 128 else '?' for c in title)
-                    report.append(f"- Top Post: '{title}' (Score: {top_post['score']})")
+                    try:
+                        top_post = sub_posts.loc[sub_posts['score'].idxmax()]
+                        title = top_post.get('title', 'Untitled')
+                        # Replace or remove problematic characters
+                        title = ''.join(c if ord(c) < 128 else '?' for c in title)
+                        report.append(f"- Top Post: '{title}' (Score: {top_post['score']})")
+                    except Exception as e:
+                        report.append(f"- Top Post: Unable to determine (error: {str(e)})")
     
     # Temporal patterns
     if 'hour_of_day' in all_posts.columns:
         report.append("\n## Temporal Patterns")
         hour_counts = all_posts['hour_of_day'].value_counts().sort_index()
-        peak_hour = hour_counts.idxmax()
-        report.append(f"- Peak Posting Hour: {peak_hour}:00 ({hour_counts[peak_hour]} posts)")
+        if not hour_counts.empty:
+            peak_hour = hour_counts.idxmax()
+            report.append(f"- Peak Posting Hour: {peak_hour}:00 ({hour_counts[peak_hour]} posts)")
         
         if 'day_of_week' in all_posts.columns:
             day_counts = all_posts['day_of_week'].value_counts()
@@ -103,17 +124,18 @@ def generate_analysis_report(dataframes):
                 report.append(f"  - {day}: {count} posts")
             
         # Temporal patterns by category
-        report.append("\n### Posting Patterns by Category")
-        for category in SUBREDDIT_CATEGORIES.keys():
-            cat_posts = all_posts[all_posts['category'] == category]
-            if len(cat_posts) > 0:
-                cat_hour_counts = cat_posts['hour_of_day'].value_counts().sort_index()
-                cat_peak_hour = cat_hour_counts.idxmax() if not cat_hour_counts.empty else 0
-                report.append(f"\n#### {category}")
-                report.append(f"- Peak Posting Hour: {cat_peak_hour}:00 ({cat_hour_counts.get(cat_peak_hour, 0)} posts)")
-                if 'day_of_week' in cat_posts.columns:
-                    cat_day_counts = cat_posts['day_of_week'].value_counts()
-                    report.append("- Most Active Day: " + (cat_day_counts.idxmax() if not cat_day_counts.empty else "N/A"))
+        if 'category' in all_posts.columns:
+            report.append("\n### Posting Patterns by Category")
+            for category in SUBREDDIT_CATEGORIES.keys():
+                cat_posts = all_posts[all_posts['category'] == category]
+                if len(cat_posts) > 0:
+                    cat_hour_counts = cat_posts['hour_of_day'].value_counts().sort_index()
+                    cat_peak_hour = cat_hour_counts.idxmax() if not cat_hour_counts.empty else 0
+                    report.append(f"\n#### {category}")
+                    report.append(f"- Peak Posting Hour: {cat_peak_hour}:00 ({cat_hour_counts.get(cat_peak_hour, 0)} posts)")
+                    if 'day_of_week' in cat_posts.columns:
+                        cat_day_counts = cat_posts['day_of_week'].value_counts()
+                        report.append("- Most Active Day: " + (cat_day_counts.idxmax() if not cat_day_counts.empty else "N/A"))
     
     # Save report
     try:
