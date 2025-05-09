@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Reddit Data Analysis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: reddit_summary.ipynb
+        text: Reddit Report
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
