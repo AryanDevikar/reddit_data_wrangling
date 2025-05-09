@@ -1,0 +1,3059 @@
+date,category,post_count,score,sentiment_compound,num_comments
+2013-03-06,Health & Psychology,1,4386.0,0.9588,1351.0
+2013-04-05,Health & Psychology,1,5120.0,-0.5022,2344.0
+2013-08-22,Finance & Business,1,1949.0,0.0,165.0
+2013-09-19,Health & Psychology,1,4261.0,0.9945,752.0
+2014-02-27,Health & Psychology,1,4252.0,0.9788,714.0
+2014-03-04,Health & Psychology,1,4617.0,0.6746,789.0
+2014-08-04,Finance & Business,1,1441.0,0.9995,136.0
+2014-08-11,Entertainment & Pop Culture,1,110980.0,-0.6486,12631.0
+2014-08-24,Health & Psychology,1,4583.0,0.9979,539.0
+2014-09-21,Finance & Business,1,1747.0,0.9997,1213.0
+2014-10-28,General Discussion & Trends,1,21365.0,-0.8481,1234.0
+2014-11-09,Health & Psychology,1,6072.0,0.1154,1223.0
+2014-11-12,Tech & Programming,1,6517.0,0.0,1817.0
+2014-11-25,Health & Psychology,1,6789.0,0.0,1517.0
+2014-12-01,Health & Psychology,1,6862.0,0.9964,1121.0
+2014-12-18,Health & Psychology,1,5686.0,0.5719,1038.0
+2014-12-31,Health & Psychology,1,4792.0,0.9984,1298.0
+2015-01-01,Health & Psychology,1,4466.0,0.9986,698.0
+2015-01-10,Health & Psychology,1,5061.0,-0.9975,490.0
+2015-01-22,Health & Psychology,1,5572.0,0.9925,334.0
+2015-01-29,Health & Psychology,1,9855.0,0.7906,1188.0
+2015-01-30,Health & Psychology,1,5584.0,0.9878,684.0
+2015-02-03,Health & Psychology,1,6246.0,0.9814,1336.0
+2015-02-04,Health & Psychology,1,4369.0,0.8485,637.0
+2015-02-08,Health & Psychology,1,4158.0,-0.9986,493.0
+2015-02-18,Health & Psychology,1,7579.0,0.9993,1080.0
+2015-02-20,Health & Psychology,1,4477.0,0.998,703.0
+2015-03-02,Tech & Programming,1,5057.0,0.5106,555.0
+2015-03-06,Finance & Business,1,1469.0,0.9954,183.0
+2015-03-11,Health & Psychology,1,3990.0,0.9978,416.0
+2015-03-18,Health & Psychology,1,5083.0,0.9996,722.0
+2015-03-27,Health & Psychology,1,3900.0,0.9595,309.0
+2015-03-28,Health & Psychology,1,4679.0,0.9987,654.0
+2015-04-05,Health & Psychology,1,4330.0,0.999,610.0
+2015-04-11,Health & Psychology,1,4760.0,0.9939,1522.0
+2015-04-16,Entertainment & Pop Culture,1,70829.0,-0.5574,10305.0
+2015-04-16,Tech & Programming,1,4597.0,0.0,627.0
+2015-04-29,Finance & Business,1,2159.0,0.9679,294.0
+2015-05-01,Health & Psychology,1,4111.0,0.4019,1369.0
+2015-05-08,Health & Psychology,1,4751.0,0.7096,358.0
+2015-05-11,Health & Psychology,1,5224.0,0.9961,1312.0
+2015-05-15,Tech & Programming,1,4903.0,0.0,422.0
+2015-05-17,Health & Psychology,1,3978.0,0.9995,572.0
+2015-05-20,Health & Psychology,1,3987.0,0.8853,1145.0
+2015-05-21,Finance & Business,1,13609.0,0.9997,2473.0
+2015-05-21,Health & Psychology,1,5396.0,0.8442,195.0
+2015-05-27,Health & Psychology,1,4806.0,0.988,708.0
+2015-05-27,Tech & Programming,1,7485.0,0.0,975.0
+2015-05-31,Health & Psychology,1,6333.0,0.9999,1621.0
+2015-06-03,Health & Psychology,1,3880.0,0.9936,547.0
+2015-06-11,Entertainment & Pop Culture,1,76530.0,0.0,3183.0
+2015-06-11,Health & Psychology,1,6064.0,0.9731,1628.0
+2015-06-20,News & Politics,1,106043.0,-0.2023,3762.0
+2015-06-22,Health & Psychology,1,4118.0,0.9493,169.0
+2015-06-26,News & Politics,1,107603.0,0.5574,16470.0
+2015-07-02,Health & Psychology,1,3997.0,-0.6523,571.0
+2015-07-04,Health & Psychology,1,9114.0,0.9897,688.0
+2015-07-08,Health & Psychology,2,7988.0,0.9026000000000001,985.5
+2015-07-11,Tech & Programming,1,5581.0,0.0,612.0
+2015-07-30,Health & Psychology,1,11978.0,0.4436,1338.0
+2015-07-31,Finance & Business,1,12348.0,0.9662,904.0
+2015-07-31,Health & Psychology,1,4378.0,0.9442,823.0
+2015-08-02,Health & Psychology,1,4361.0,0.9961,385.0
+2015-08-10,Health & Psychology,1,4660.0,-0.9586,1056.0
+2015-08-17,Health & Psychology,1,7867.0,-0.775,1010.0
+2015-09-08,Health & Psychology,1,4388.0,0.9932,625.0
+2015-09-10,Tech & Programming,1,19803.0,-0.0258,492.0
+2015-09-19,Finance & Business,1,1585.0,0.9994,480.0
+2015-10-08,Health & Psychology,1,3962.0,0.8807,1998.0
+2015-10-27,Health & Psychology,1,13341.0,-0.9988,1215.0
+2015-11-02,Finance & Business,1,1467.0,0.9997,427.0
+2015-11-04,Health & Psychology,1,7261.0,0.6735,695.0
+2015-11-18,General Discussion & Trends,1,19696.0,-0.2263,1524.0
+2015-11-18,Health & Psychology,1,8599.0,0.999,385.0
+2015-12-08,Health & Psychology,1,4333.0,-0.6743,265.0
+2015-12-19,Finance & Business,1,1409.0,0.9906,230.0
+2015-12-22,Health & Psychology,1,4982.0,0.9188,328.0
+2015-12-24,Health & Psychology,1,6914.0,0.9319,1168.0
+2015-12-26,Health & Psychology,1,4543.0,-0.9616,736.0
+2015-12-27,Health & Psychology,1,6126.0,0.9931,608.0
+2015-12-29,Health & Psychology,1,4145.0,-0.989,551.0
+2015-12-30,Tech & Programming,1,9178.0,-0.5574,831.0
+2015-12-31,Health & Psychology,1,6096.0,0.9912,559.0
+2016-01-03,Health & Psychology,1,5030.0,0.9993,148.0
+2016-01-11,Entertainment & Pop Culture,1,67548.0,0.0,5922.0
+2016-01-11,Finance & Business,1,13705.0,-0.8441,793.0
+2016-01-14,Health & Psychology,1,4162.0,0.923,544.0
+2016-01-15,Health & Psychology,1,5933.0,0.9955,759.0
+2016-01-21,Health & Psychology,1,4084.0,0.9953,1443.0
+2016-02-01,Finance & Business,1,1826.0,0.9992,413.0
+2016-02-07,Health & Psychology,1,4096.0,-0.6198,503.0
+2016-02-13,Health & Psychology,1,4025.0,0.9987,356.0
+2016-02-18,Health & Psychology,1,6720.0,0.9957,1767.0
+2016-02-23,Health & Psychology,1,5091.0,0.0,245.0
+2016-02-29,Entertainment & Pop Culture,1,144236.0,0.0,14673.0
+2016-03-05,Health & Psychology,1,3929.0,0.9981,159.0
+2016-03-07,Health & Psychology,1,4230.0,0.9955,467.0
+2016-03-10,Health & Psychology,1,6378.0,0.9799,455.0
+2016-03-14,Health & Psychology,1,7532.0,0.9772,324.0
+2016-03-15,Health & Psychology,1,12639.0,0.9991,188.0
+2016-03-16,Health & Psychology,1,8203.0,0.9985,274.0
+2016-03-20,Finance & Business,1,15282.0,0.9994,1241.0
+2016-03-22,Health & Psychology,1,5439.0,0.5106,687.0
+2016-03-28,Tech & Programming,1,10793.0,0.5994,545.0
+2016-03-29,Health & Psychology,1,4165.0,0.9691,322.0
+2016-03-30,Tech & Programming,1,5529.0,0.0,1160.0
+2016-04-01,Health & Psychology,1,4394.0,0.9827,970.0
+2016-04-03,News & Politics,1,154766.0,-0.6369,11969.0
+2016-04-04,General Discussion & Trends,1,31770.0,-0.0258,2649.0
+2016-04-07,Health & Psychology,1,5955.0,0.7069,912.0
+2016-04-15,Health & Psychology,1,5600.0,-0.7013,204.0
+2016-04-18,Health & Psychology,1,4832.0,0.9679,428.0
+2016-04-23,Health & Psychology,1,4275.0,0.408,116.0
+2016-04-24,Health & Psychology,1,4552.0,0.997,166.0
+2016-04-28,Entertainment & Pop Culture,1,45585.0,-0.4588,5160.0
+2016-04-30,Health & Psychology,1,4558.0,0.9898,168.0
+2016-05-04,Entertainment & Pop Culture,1,43336.0,0.9568,2508.0
+2016-05-21,Tech & Programming,1,7059.0,0.0,349.0
+2016-05-26,Tech & Programming,1,21401.0,0.7184,1262.0
+2016-06-02,Health & Psychology,1,3850.0,0.9995,307.0
+2016-06-09,Health & Psychology,1,4060.0,0.9993,443.0
+2016-06-11,Tech & Programming,1,7439.0,-0.7964,528.0
+2016-06-12,General Discussion & Trends,1,94451.0,-0.5709,39245.0
+2016-06-17,Health & Psychology,1,4226.0,0.8074,213.0
+2016-06-22,Finance & Business,1,18459.0,0.9926,1393.0
+2016-06-24,Health & Psychology,1,19491.0,0.9998,653.0
+2016-06-30,Health & Psychology,1,3841.0,0.9883,498.0
+2016-07-04,Tech & Programming,1,9033.0,0.0,392.0
+2016-07-05,Health & Psychology,1,3929.0,0.9983,648.0
+2016-07-09,Health & Psychology,1,3963.0,-0.7227,948.0
+2016-07-10,Tech & Programming,1,6034.0,0.3612,422.0
+2016-07-13,Health & Psychology,1,4469.0,-0.8102,201.0
+2016-07-19,Finance & Business,1,16193.0,0.9998,1375.0
+2016-08-01,Health & Psychology,1,5721.0,0.9841,625.0
+2016-08-04,Tech & Programming,1,1311.0,0.9821,791.0
+2016-08-05,Finance & Business,1,4295.0,1.0,628.0
+2016-08-06,Health & Psychology,1,6894.0,0.9967,1684.0
+2016-08-06,Tech & Programming,1,5649.0,0.0,436.0
+2016-08-07,Health & Psychology,1,4199.0,-0.34,277.0
+2016-08-10,Tech & Programming,1,6919.0,-0.5106,455.0
+2016-08-19,Health & Psychology,1,4159.0,0.9973,356.0
+2016-08-23,Health & Psychology,1,4132.0,0.943,935.0
+2016-08-26,Tech & Programming,1,7524.0,-0.34,830.0
+2016-08-29,Entertainment & Pop Culture,1,79987.0,-0.6486,3741.0
+2016-09-06,Health & Psychology,1,7178.0,0.9986,972.0
+2016-09-10,Finance & Business,1,13831.0,0.9534,1143.0
+2016-09-13,Finance & Business,1,13911.0,0.5994,1419.0
+2016-09-25,Health & Psychology,1,6591.0,0.9932,399.0
+2016-09-26,Health & Psychology,1,3319.0,-0.3612,119.0
+2016-10-06,General Discussion & Trends,1,28484.0,-0.5994,1087.0
+2016-10-07,Entertainment & Pop Culture,1,69972.0,0.9875,7097.0
+2016-10-11,Finance & Business,1,1785.0,0.9996,401.0
+2016-10-12,Tech & Programming,1,5987.0,0.0,439.0
+2016-10-20,Health & Psychology,1,4330.0,0.9826,843.0
+2016-10-24,Health & Psychology,1,4467.0,0.9542,481.0
+2016-11-05,Finance & Business,1,14926.0,0.9519,921.0
+2016-11-07,Finance & Business,1,13937.0,0.9962,1774.0
+2016-11-09,Entertainment & Pop Culture,1,52049.0,-0.5106,1403.0
+2016-11-10,Finance & Business,1,12825.0,0.8271,2464.0
+2016-11-13,Finance & Business,1,15966.0,0.8055,397.0
+2016-11-14,Health & Psychology,1,4436.0,0.9777,499.0
+2016-11-15,Tech & Programming,1,4616.0,-0.4767,800.0
+2016-11-18,Finance & Business,1,15222.0,-0.9506,1459.0
+2016-11-20,Finance & Business,1,2199.0,0.296,270.0
+2016-11-20,Tech & Programming,1,5280.0,-0.6808,1211.0
+2016-11-21,Entertainment & Pop Culture,1,129598.0,-0.5574,2360.0
+2016-11-22,Entertainment & Pop Culture,1,44237.0,0.5859,2390.0
+2016-11-29,Finance & Business,1,1850.0,0.9999,464.0
+2016-12-05,Health & Psychology,1,5984.0,0.4558,654.0
+2016-12-08,Entertainment & Pop Culture,1,64565.0,-0.5574,2450.0
+2016-12-11,Entertainment & Pop Culture,1,64872.0,0.0,2511.0
+2016-12-16,Entertainment & Pop Culture,1,74903.0,-0.5574,3446.0
+2016-12-26,General Discussion & Trends,1,23577.0,0.0,901.0
+2016-12-27,Entertainment & Pop Culture,1,97595.0,-0.6486,5916.0
+2016-12-27,General Discussion & Trends,1,115183.0,-0.8481,1867.0
+2016-12-27,Health & Psychology,1,4692.0,0.1548,142.0
+2017-01-01,Finance & Business,2,11171.0,0.9992000000000001,628.0
+2017-01-02,Health & Psychology,1,4091.0,-0.9614,220.0
+2017-01-03,Health & Psychology,1,6941.0,0.9914,239.0
+2017-01-04,Finance & Business,1,3825.0,0.9892,486.0
+2017-01-08,Finance & Business,1,12636.0,0.8638,1385.0
+2017-01-09,Finance & Business,1,15043.0,0.9875,1744.0
+2017-01-10,Finance & Business,1,18227.0,0.872,381.0
+2017-01-12,Health & Psychology,1,5433.0,0.9812,413.0
+2017-01-13,Entertainment & Pop Culture,1,60041.0,0.9738,2851.0
+2017-01-14,Finance & Business,1,14488.0,0.9555,275.0
+2017-01-16,Finance & Business,1,6571.0,0.9999,1431.0
+2017-01-17,Finance & Business,1,2417.0,0.1531,1610.0
+2017-01-19,Finance & Business,1,27034.0,-0.9523,1930.0
+2017-01-22,Finance & Business,1,26305.0,0.9015,2143.0
+2017-01-24,Health & Psychology,1,8638.0,0.9975,510.0
+2017-01-25,Tech & Programming,1,4923.0,-0.3182,523.0
+2017-01-31,General Discussion & Trends,1,35008.0,0.1779,2420.0
+2017-01-31,Health & Psychology,1,4505.0,0.9989,314.0
+2017-01-31,News & Politics,1,121538.0,-0.6124,16309.0
+2017-02-05,Health & Psychology,1,14755.0,-0.7845,1115.0
+2017-02-17,Finance & Business,1,22719.0,0.9977,936.0
+2017-02-18,Entertainment & Pop Culture,1,51769.0,0.25,2449.0
+2017-02-18,Health & Psychology,1,4152.0,0.8943,187.0
+2017-02-22,Health & Psychology,1,3923.0,-0.8591,214.0
+2017-02-23,Entertainment & Pop Culture,1,71282.0,0.9612,3595.0
+2017-02-23,Finance & Business,1,2915.0,1.0,192.0
+2017-02-23,Tech & Programming,1,4933.0,-0.7351,661.0
+2017-02-26,Health & Psychology,1,4885.0,0.9759,468.0
+2017-02-28,Health & Psychology,1,2723.0,0.0258,158.0
+2017-03-01,General Discussion & Trends,1,27232.0,0.4019,1898.0
+2017-03-01,Health & Psychology,1,8011.0,-0.8976,236.0
+2017-03-04,Entertainment & Pop Culture,1,72010.0,-0.0772,2790.0
+2017-03-10,Tech & Programming,1,7656.0,-0.5859,1364.0
+2017-03-13,Tech & Programming,1,2596.0,0.0045,304.0
+2017-03-18,Tech & Programming,1,5450.0,0.0,422.0
+2017-03-22,General Discussion & Trends,1,28111.0,-0.4284,2154.0
+2017-03-30,Finance & Business,1,29420.0,0.9961,1875.0
+2017-04-01,Entertainment & Pop Culture,1,438624.0,0.0,5172.0
+2017-04-06,General Discussion & Trends,1,22623.0,0.7264,1250.0
+2017-04-06,Health & Psychology,1,3836.0,-0.5994,156.0
+2017-04-09,Health & Psychology,1,7033.0,0.9947,293.0
+2017-04-11,Health & Psychology,1,3872.0,0.9881,265.0
+2017-04-13,Finance & Business,1,14595.0,0.835,1101.0
+2017-04-13,Tech & Programming,1,15015.0,0.0,836.0
+2017-04-14,Entertainment & Pop Culture,1,87035.0,-0.6808,8735.0
+2017-04-18,General Discussion & Trends,1,21091.0,0.6057,1359.0
+2017-04-21,Finance & Business,1,15749.0,0.4588,1471.0
+2017-04-22,Entertainment & Pop Culture,1,43081.0,0.2023,1780.0
+2017-04-25,Finance & Business,1,14527.0,0.9991,913.0
+2017-04-28,Entertainment & Pop Culture,1,46147.0,0.962,8928.0
+2017-04-28,Tech & Programming,1,4660.0,-0.25,471.0
+2017-04-29,Entertainment & Pop Culture,1,72144.0,-0.7003,2979.0
+2017-05-01,Tech & Programming,1,4866.0,0.0,388.0
+2017-05-03,Tech & Programming,1,1689.0,0.0,119.0
+2017-05-05,Finance & Business,1,15492.0,0.9808,1380.0
+2017-05-07,News & Politics,1,116598.0,0.6808,21081.0
+2017-05-09,General Discussion & Trends,1,21140.0,0.965,1304.0
+2017-05-09,News & Politics,1,110058.0,0.0,22768.0
+2017-05-11,Finance & Business,1,13408.0,0.8413,1203.0
+2017-05-14,Finance & Business,1,12967.0,0.9254,1451.0
+2017-05-15,News & Politics,1,99353.0,0.0,20598.0
+2017-05-18,Entertainment & Pop Culture,1,51619.0,-0.5574,6945.0
+2017-05-19,Finance & Business,1,28448.0,0.9748,2866.0
+2017-05-20,Entertainment & Pop Culture,1,50087.0,-0.6486,3093.0
+2017-05-21,Entertainment & Pop Culture,1,91077.0,0.0595,6148.0
+2017-05-23,Tech & Programming,1,9149.0,0.296,1071.0
+2017-05-24,Finance & Business,1,3236.0,0.9935,1009.0
+2017-05-25,Health & Psychology,1,4957.0,0.9977,420.0
+2017-05-26,General Discussion & Trends,2,19603.5,0.3825,1994.0
+2017-05-29,General Discussion & Trends,1,19292.0,-0.7003,1144.0
+2017-05-29,Health & Psychology,1,5218.0,0.9892,320.0
+2017-05-30,Finance & Business,1,13798.0,0.9985,885.0
+2017-05-31,General Discussion & Trends,1,45783.0,-0.0754,547.0
+2017-05-31,Tech & Programming,1,6084.0,0.6249,479.0
+2017-06-01,Entertainment & Pop Culture,1,145514.0,0.0,2101.0
+2017-06-03,General Discussion & Trends,1,136512.0,-0.2755,2648.0
+2017-06-05,Finance & Business,1,12327.0,0.981,837.0
+2017-06-06,Entertainment & Pop Culture,1,96645.0,0.0,998.0
+2017-06-06,Health & Psychology,1,4467.0,0.9776,400.0
+2017-06-08,Finance & Business,1,15626.0,0.9978,689.0
+2017-06-09,News & Politics,1,107261.0,-0.2732,3156.0
+2017-06-09,Tech & Programming,1,4872.0,0.0,589.0
+2017-06-10,Entertainment & Pop Culture,1,99100.0,0.0,2756.0
+2017-06-10,Tech & Programming,1,5333.0,0.3182,493.0
+2017-06-12,Tech & Programming,1,9211.0,-0.296,479.0
+2017-06-14,Entertainment & Pop Culture,2,92593.5,0.148,1854.5
+2017-06-15,Tech & Programming,1,8017.0,0.0,2027.0
+2017-06-16,Finance & Business,1,13052.0,0.9998,272.0
+2017-06-18,Finance & Business,2,18474.0,0.40954999999999997,1190.0
+2017-06-18,General Discussion & Trends,1,20668.0,-0.1779,3951.0
+2017-06-19,General Discussion & Trends,1,29608.0,-0.2732,3296.0
+2017-06-20,General Discussion & Trends,1,116469.0,-0.101,4293.0
+2017-06-21,General Discussion & Trends,1,32972.0,-0.1531,1649.0
+2017-06-22,Finance & Business,1,13853.0,-0.9698,1852.0
+2017-06-23,Entertainment & Pop Culture,1,58565.0,0.296,1119.0
+2017-06-24,Tech & Programming,1,10481.0,0.0,849.0
+2017-06-26,General Discussion & Trends,1,40152.0,-0.4818,1338.0
+2017-06-28,Finance & Business,1,12483.0,0.999,825.0
+2017-06-28,General Discussion & Trends,1,86299.0,0.886,5788.0
+2017-06-28,Tech & Programming,1,8665.0,-0.5106,1732.0
+2017-06-29,Finance & Business,1,17740.0,0.9997,1648.0
+2017-07-03,Tech & Programming,1,1660.0,-0.8473,471.0
+2017-07-04,Entertainment & Pop Culture,1,43282.0,-0.3182,1342.0
+2017-07-05,General Discussion & Trends,1,19145.0,0.9801,1415.0
+2017-07-05,Health & Psychology,1,3864.0,0.9998,413.0
+2017-07-06,Entertainment & Pop Culture,1,73502.0,0.4215,2515.0
+2017-07-06,Finance & Business,1,1900.0,0.9897,162.0
+2017-07-07,General Discussion & Trends,1,19424.0,0.0,1222.0
+2017-07-07,Tech & Programming,1,4742.0,0.7003,471.0
+2017-07-09,General Discussion & Trends,1,20841.0,0.872,936.0
+2017-07-12,Finance & Business,1,1454.0,0.8916,136.0
+2017-07-12,Health & Psychology,1,5761.0,0.9642,447.0
+2017-07-13,Finance & Business,1,27384.0,0.8439,1953.0
+2017-07-14,Finance & Business,1,21260.0,-0.5443,2673.0
+2017-07-16,Entertainment & Pop Culture,1,71762.0,-0.6486,2738.0
+2017-07-16,Finance & Business,2,19194.0,-0.07989999999999997,2145.5
+2017-07-18,General Discussion & Trends,1,30523.0,0.6249,3068.0
+2017-07-19,General Discussion & Trends,1,22650.0,0.8381,870.0
+2017-07-20,Entertainment & Pop Culture,1,92341.0,0.0,7505.0
+2017-07-20,General Discussion & Trends,1,84451.0,0.6597,12006.0
+2017-07-20,News & Politics,1,123962.0,-0.6597,15487.0
+2017-07-21,Finance & Business,1,22068.0,0.9995,4113.0
+2017-07-22,Health & Psychology,1,2393.0,0.0,50.0
+2017-07-24,General Discussion & Trends,1,28586.0,0.0,2521.0
+2017-07-24,Tech & Programming,1,14017.0,-0.4767,803.0
+2017-07-25,Finance & Business,1,1562.0,1.0,295.0
+2017-07-25,Tech & Programming,1,11545.0,0.0,1324.0
+2017-07-31,Health & Psychology,1,4619.0,0.9967,534.0
+2017-08-01,Finance & Business,1,12531.0,0.6124,2496.0
+2017-08-03,Health & Psychology,1,3978.0,0.9974,323.0
+2017-08-04,Entertainment & Pop Culture,1,94585.0,0.8271,3690.0
+2017-08-06,General Discussion & Trends,1,18793.0,0.9813,2063.0
+2017-08-07,Entertainment & Pop Culture,1,103047.0,0.0,4453.0
+2017-08-08,Tech & Programming,1,1043.0,0.0,186.0
+2017-08-10,Finance & Business,1,17680.0,0.4939,2698.0
+2017-08-11,Tech & Programming,1,8140.0,-0.4019,513.0
+2017-08-12,Entertainment & Pop Culture,1,63186.0,-0.8316,1233.0
+2017-08-14,Entertainment & Pop Culture,1,60122.0,-0.34,1640.0
+2017-08-14,Health & Psychology,1,2598.0,-0.802,85.0
+2017-08-16,Entertainment & Pop Culture,1,123591.0,0.0,2173.0
+2017-08-16,General Discussion & Trends,1,21827.0,0.431,1176.0
+2017-08-16,Tech & Programming,1,5586.0,0.3182,823.0
+2017-08-19,General Discussion & Trends,1,104871.0,0.9423,3053.0
+2017-08-27,Finance & Business,1,12389.0,0.9929,1223.0
+2017-08-28,Finance & Business,1,17646.0,0.997,3233.0
+2017-08-28,Tech & Programming,1,6108.0,0.0,291.0
+2017-08-29,General Discussion & Trends,1,105821.0,-0.9652,4229.0
+2017-08-31,General Discussion & Trends,1,19540.0,0.5499,2180.0
+2017-09-01,General Discussion & Trends,1,128266.0,0.718,3181.0
+2017-09-01,Tech & Programming,1,15314.0,-0.296,851.0
+2017-09-05,General Discussion & Trends,1,25720.0,-0.6124,1068.0
+2017-09-06,Entertainment & Pop Culture,1,88100.0,0.6124,1938.0
+2017-09-06,Finance & Business,1,26691.0,0.978,1208.0
+2017-09-07,Entertainment & Pop Culture,1,155135.0,-0.4767,6198.0
+2017-09-07,Health & Psychology,1,9544.0,0.0,795.0
+2017-09-08,Finance & Business,1,12948.0,0.9988,4293.0
+2017-09-09,Tech & Programming,1,1026.0,0.9861,522.0
+2017-09-11,General Discussion & Trends,1,28707.0,0.0408,2017.0
+2017-09-13,Finance & Business,1,30756.0,0.9972,1946.0
+2017-09-13,News & Politics,1,107253.0,0.0,3871.0
+2017-09-15,Entertainment & Pop Culture,1,174092.0,0.0,2221.0
+2017-09-16,General Discussion & Trends,1,124621.0,0.0,10395.0
+2017-09-18,Health & Psychology,1,6236.0,0.9969,1035.0
+2017-09-21,Entertainment & Pop Culture,1,62884.0,0.0201,2704.0
+2017-09-21,Tech & Programming,1,7183.0,0.4019,250.0
+2017-09-24,Tech & Programming,1,6529.0,0.5574,380.0
+2017-09-28,Finance & Business,1,21291.0,0.9983,1339.0
+2017-09-28,News & Politics,1,108361.0,-0.5574,6852.0
+2017-10-01,Tech & Programming,1,5147.0,0.4588,321.0
+2017-10-02,Entertainment & Pop Culture,1,56533.0,-0.4939,5064.0
+2017-10-02,Finance & Business,1,46160.0,0.9987,4177.0
+2017-10-03,Entertainment & Pop Culture,1,76768.0,0.8337,2854.0
+2017-10-04,Entertainment & Pop Culture,1,125848.0,0.2732,2529.0
+2017-10-04,Tech & Programming,1,2461.0,0.0,90.0
+2017-10-05,Finance & Business,1,19285.0,0.902,1649.0
+2017-10-05,General Discussion & Trends,1,18950.0,0.0,2080.0
+2017-10-06,Finance & Business,1,15931.0,0.7312,485.0
+2017-10-07,Tech & Programming,1,7229.0,0.0,377.0
+2017-10-09,General Discussion & Trends,1,20046.0,0.9393,1030.0
+2017-10-11,Entertainment & Pop Culture,2,100252.5,0.5719,1999.0
+2017-10-11,General Discussion & Trends,1,116874.0,-0.2551,4794.0
+2017-10-12,Entertainment & Pop Culture,1,49039.0,-0.8074,1773.0
+2017-10-14,Entertainment & Pop Culture,1,71241.0,-0.25,6442.0
+2017-10-15,Health & Psychology,1,5170.0,0.8208,276.0
+2017-10-16,Tech & Programming,1,13454.0,-0.3818,1078.0
+2017-10-19,Entertainment & Pop Culture,2,117309.0,0.7201,3503.5
+2017-10-21,Finance & Business,1,16266.0,0.8763,2565.0
+2017-10-22,Entertainment & Pop Culture,1,151911.0,-0.4767,3705.0
+2017-10-24,Finance & Business,1,13715.0,0.9912,835.0
+2017-10-24,News & Politics,1,119867.0,0.0,2404.0
+2017-10-25,News & Politics,1,118174.0,0.0,5053.0
+2017-10-26,Health & Psychology,1,707.0,0.1695,10.0
+2017-10-29,Entertainment & Pop Culture,1,82783.0,0.0,2757.0
+2017-10-31,News & Politics,1,126713.0,0.4019,4854.0
+2017-11-01,Entertainment & Pop Culture,1,78397.0,0.0,7128.0
+2017-11-02,Entertainment & Pop Culture,1,71034.0,-0.6124,4325.0
+2017-11-02,Finance & Business,1,1823.0,0.9999,93.0
+2017-11-03,Health & Psychology,1,4688.0,0.8834,268.0
+2017-11-05,News & Politics,1,107830.0,0.7184,7224.0
+2017-11-06,Tech & Programming,1,1049.0,0.743,75.0
+2017-11-09,Finance & Business,1,19477.0,0.9973,1627.0
+2017-11-09,Health & Psychology,1,6159.0,0.9856,427.0
+2017-11-12,Health & Psychology,1,3860.0,0.9532,198.0
+2017-11-13,Entertainment & Pop Culture,1,182130.0,-0.9818,12017.0
+2017-11-14,Entertainment & Pop Culture,1,175245.0,0.0,9450.0
+2017-11-15,Entertainment & Pop Culture,2,113303.0,-0.273,6138.0
+2017-11-16,General Discussion & Trends,2,64195.5,0.08285000000000001,2907.5
+2017-11-16,Health & Psychology,1,4667.0,0.9995,345.0
+2017-11-17,Finance & Business,1,41966.0,0.4767,3509.0
+2017-11-18,Entertainment & Pop Culture,2,76044.5,0.0,3302.0
+2017-11-19,Entertainment & Pop Culture,1,134233.0,-0.7506,2385.0
+2017-11-19,General Discussion & Trends,1,20514.0,-0.4215,1152.0
+2017-11-20,Finance & Business,1,16640.0,0.2023,796.0
+2017-11-21,Entertainment & Pop Culture,2,155685.5,0.7706,3107.5
+2017-11-21,Finance & Business,2,15229.0,0.8996500000000001,758.0
+2017-11-21,News & Politics,2,158716.5,-0.2294,9124.0
+2017-11-22,News & Politics,1,145861.0,-0.6597,3996.0
+2017-11-25,Health & Psychology,1,10924.0,0.9876,459.0
+2017-11-27,News & Politics,1,116779.0,0.3182,3452.0
+2017-11-27,Tech & Programming,1,1125.0,0.0258,85.0
+2017-11-28,News & Politics,1,115827.0,-0.2263,4488.0
+2017-11-29,Entertainment & Pop Culture,1,42300.0,0.0,1200.0
+2017-11-29,General Discussion & Trends,1,101567.0,-0.1779,3414.0
+2017-11-30,Finance & Business,1,1731.0,-0.6124,206.0
+2017-11-30,Tech & Programming,1,1125.0,0.0,89.0
+2017-12-01,General Discussion & Trends,1,24707.0,0.3327,1900.0
+2017-12-02,General Discussion & Trends,1,27727.0,-0.1779,1091.0
+2017-12-03,Entertainment & Pop Culture,1,128173.0,0.6908,4444.0
+2017-12-04,Tech & Programming,1,5446.0,0.4215,372.0
+2017-12-05,News & Politics,1,139839.0,-0.4588,7417.0
+2017-12-07,Entertainment & Pop Culture,1,53333.0,0.4019,1396.0
+2017-12-07,News & Politics,1,119299.0,0.128,5147.0
+2017-12-08,Entertainment & Pop Culture,1,66823.0,-0.9589,7381.0
+2017-12-09,General Discussion & Trends,2,64147.0,0.4316,2795.5
+2017-12-10,Entertainment & Pop Culture,1,147874.0,0.7783,2667.0
+2017-12-10,General Discussion & Trends,1,107220.0,-0.9153,4066.0
+2017-12-13,Finance & Business,1,1539.0,0.999,246.0
+2017-12-14,Health & Psychology,1,796.0,-0.4588,11.0
+2017-12-14,News & Politics,1,147349.0,0.0,18033.0
+2017-12-15,Entertainment & Pop Culture,1,97249.0,-0.5994,6857.0
+2017-12-16,General Discussion & Trends,1,27356.0,-0.0516,1060.0
+2017-12-17,General Discussion & Trends,1,133344.0,-0.0516,2950.0
+2017-12-18,Finance & Business,1,16041.0,0.0258,3160.0
+2017-12-18,General Discussion & Trends,1,22167.0,-0.3174,529.0
+2017-12-18,Tech & Programming,1,5111.0,0.0,229.0
+2017-12-20,Entertainment & Pop Culture,1,49585.0,0.0,2441.0
+2017-12-20,General Discussion & Trends,1,19055.0,0.3291,589.0
+2017-12-20,News & Politics,1,149913.0,0.296,12872.0
+2017-12-21,Entertainment & Pop Culture,1,142225.0,0.3182,1550.0
+2017-12-21,Finance & Business,1,18885.0,0.9952,1170.0
+2017-12-23,Health & Psychology,1,3284.0,-0.7845,155.0
+2017-12-24,Finance & Business,1,16256.0,0.9884,655.0
+2017-12-24,General Discussion & Trends,1,107878.0,0.2484,6290.0
+2017-12-25,Entertainment & Pop Culture,1,175353.0,0.0,4904.0
+2017-12-26,Entertainment & Pop Culture,1,89116.0,0.875,4365.0
+2017-12-26,General Discussion & Trends,1,30581.0,-0.5859,2041.0
+2017-12-26,Tech & Programming,1,20658.0,0.4019,331.0
+2017-12-27,Entertainment & Pop Culture,1,135794.0,0.0,3381.0
+2017-12-27,Finance & Business,1,12691.0,0.9854,686.0
+2017-12-27,General Discussion & Trends,1,20358.0,0.8834,972.0
+2017-12-28,General Discussion & Trends,1,108096.0,0.765,2411.0
+2017-12-30,General Discussion & Trends,1,113287.0,0.0,5008.0
+2017-12-31,Entertainment & Pop Culture,1,92958.0,0.2023,4808.0
+2017-12-31,Health & Psychology,1,4623.0,0.999,368.0
+2018-01-01,Finance & Business,1,62177.0,0.9983,2373.0
+2018-01-03,Finance & Business,1,20522.0,0.4759,1421.0
+2018-01-03,General Discussion & Trends,1,118266.0,-0.8779,6140.0
+2018-01-03,Health & Psychology,1,12989.0,0.9916,539.0
+2018-01-03,Tech & Programming,1,5920.0,0.0,1091.0
+2018-01-04,Tech & Programming,1,18240.0,0.0352,1547.0
+2018-01-05,Finance & Business,1,2338.0,0.9493,124.0
+2018-01-05,News & Politics,1,111605.0,-0.8689,7746.0
+2018-01-06,Entertainment & Pop Culture,1,62255.0,-0.7268,3959.0
+2018-01-06,Tech & Programming,1,6815.0,0.3818,599.0
+2018-01-07,Finance & Business,1,13642.0,0.982,1729.0
+2018-01-10,General Discussion & Trends,2,127695.5,-0.22455,10342.0
+2018-01-11,Finance & Business,1,37084.0,0.9491,1991.0
+2018-01-12,General Discussion & Trends,1,19393.0,0.1027,1233.0
+2018-01-13,Entertainment & Pop Culture,1,41825.0,0.0,2234.0
+2018-01-14,Finance & Business,1,18208.0,0.9477,1556.0
+2018-01-15,Entertainment & Pop Culture,2,68840.0,-0.5574,3466.0
+2018-01-16,General Discussion & Trends,1,121896.0,-0.5719,2704.0
+2018-01-17,Finance & Business,1,1435.0,0.9144,258.0
+2018-01-17,News & Politics,1,107743.0,0.3612,5144.0
+2018-01-18,General Discussion & Trends,1,83485.0,0.6908,7425.0
+2018-01-20,Finance & Business,1,22274.0,0.7243,909.0
+2018-01-21,Finance & Business,1,24990.0,-0.7639,1772.0
+2018-01-22,General Discussion & Trends,1,30685.0,0.0,1756.0
+2018-01-23,Finance & Business,1,20933.0,0.9875,926.0
+2018-01-23,Tech & Programming,1,5281.0,0.0,1336.0
+2018-01-25,Entertainment & Pop Culture,1,60918.0,0.0772,1880.0
+2018-01-26,Entertainment & Pop Culture,1,122753.0,0.4019,1191.0
+2018-01-26,General Discussion & Trends,1,23425.0,-0.1045,704.0
+2018-01-29,Entertainment & Pop Culture,1,83847.0,0.6808,2653.0
+2018-01-29,Health & Psychology,1,4096.0,0.9905,481.0
+2018-01-31,Finance & Business,1,25973.0,0.7273,1993.0
+2018-01-31,Health & Psychology,1,4159.0,0.9227,313.0
+2018-02-01,News & Politics,1,129163.0,-0.6597,4550.0
+2018-02-02,Tech & Programming,1,5045.0,0.0,396.0
+2018-02-03,Entertainment & Pop Culture,1,62651.0,-0.1027,2225.0
+2018-02-03,Finance & Business,1,13861.0,0.9991,2025.0
+2018-02-05,Entertainment & Pop Culture,1,72952.0,-0.0772,4100.0
+2018-02-06,Entertainment & Pop Culture,4,68576.25,-0.039725,1876.25
+2018-02-06,Finance & Business,1,16584.0,-0.4871,1984.0
+2018-02-07,Tech & Programming,1,1253.0,0.0,84.0
+2018-02-08,Health & Psychology,1,4123.0,0.9537,531.0
+2018-02-11,Entertainment & Pop Culture,1,122381.0,0.0,1724.0
+2018-02-11,Finance & Business,1,4328.0,-0.8957,506.0
+2018-02-13,Entertainment & Pop Culture,1,132574.0,-0.2263,3955.0
+2018-02-13,Finance & Business,1,12895.0,-0.8469,615.0
+2018-02-15,Finance & Business,1,20787.0,0.5284,1227.0
+2018-02-17,Entertainment & Pop Culture,1,75783.0,0.4019,1468.0
+2018-02-17,Tech & Programming,1,1290.0,0.0,55.0
+2018-02-18,Finance & Business,1,13324.0,0.9426,1655.0
+2018-02-18,Health & Psychology,1,14134.0,0.9857,514.0
+2018-02-18,Tech & Programming,1,7240.0,0.7184,1111.0
+2018-02-19,General Discussion & Trends,2,80352.0,0.39135,2148.0
+2018-02-20,Finance & Business,1,29912.0,0.91,1441.0
+2018-02-20,General Discussion & Trends,1,106654.0,0.0,2035.0
+2018-02-21,Finance & Business,1,24461.0,-0.8858,1852.0
+2018-02-21,Health & Psychology,1,687.0,-0.296,68.0
+2018-02-22,Entertainment & Pop Culture,1,70302.0,0.0,4040.0
+2018-02-22,General Discussion & Trends,1,124057.0,-0.2263,11026.0
+2018-02-26,Entertainment & Pop Culture,1,122794.0,0.0,3343.0
+2018-02-27,General Discussion & Trends,1,139506.0,-0.5106,20918.0
+2018-02-28,Finance & Business,1,14395.0,-0.6057,4233.0
+2018-02-28,Tech & Programming,1,4985.0,0.0,948.0
+2018-03-02,Tech & Programming,1,5365.0,0.6908,236.0
+2018-03-05,Entertainment & Pop Culture,2,76524.5,0.4417,2979.0
+2018-03-06,News & Politics,1,113126.0,0.2023,5438.0
+2018-03-08,Finance & Business,1,44447.0,0.9427,3627.0
+2018-03-09,News & Politics,1,108116.0,-0.5267,8559.0
+2018-03-10,Entertainment & Pop Culture,1,86487.0,-0.8658,4256.0
+2018-03-13,Finance & Business,1,13691.0,0.1548,2075.0
+2018-03-13,Health & Psychology,1,958.0,-0.0516,75.0
+2018-03-13,Tech & Programming,1,5086.0,0.4019,353.0
+2018-03-14,General Discussion & Trends,1,117201.0,0.9313,2690.0
+2018-03-14,News & Politics,1,188179.0,-0.5574,6791.0
+2018-03-15,Health & Psychology,1,654.0,0.0,12.0
+2018-03-16,Health & Psychology,1,5923.0,-0.8022,715.0
+2018-03-17,Tech & Programming,1,19165.0,0.3182,236.0
+2018-03-19,News & Politics,1,117336.0,0.0,7249.0
+2018-03-20,News & Politics,1,124443.0,0.0258,6683.0
+2018-03-21,Finance & Business,1,20436.0,0.6219,1413.0
+2018-03-23,Tech & Programming,1,5683.0,0.0,219.0
+2018-03-24,General Discussion & Trends,1,28444.0,0.8316,1561.0
+2018-03-26,News & Politics,1,111797.0,-0.3182,6465.0
+2018-03-27,General Discussion & Trends,1,20673.0,-0.2732,1008.0
+2018-03-27,News & Politics,1,138672.0,-0.3182,3782.0
+2018-03-29,General Discussion & Trends,1,103575.0,-0.34,2953.0
+2018-03-30,Finance & Business,1,13487.0,-0.4939,2596.0
+2018-03-30,General Discussion & Trends,1,19627.0,0.8481,1228.0
+2018-04-01,Finance & Business,1,56224.0,0.2989,2299.0
+2018-04-03,Tech & Programming,1,8025.0,-0.4055,596.0
+2018-04-04,Health & Psychology,1,5774.0,0.997,581.0
+2018-04-10,Health & Psychology,1,636.0,0.2732,4.0
+2018-04-14,General Discussion & Trends,1,21733.0,-0.5777,1201.0
+2018-04-14,Health & Psychology,1,657.0,0.0,15.0
+2018-04-16,Health & Psychology,1,1133.0,0.0,20.0
+2018-04-16,Tech & Programming,1,5482.0,-0.128,369.0
+2018-04-17,Finance & Business,2,8069.5,0.9574,1493.0
+2018-04-20,Entertainment & Pop Culture,1,66100.0,-0.6486,5495.0
+2018-04-21,Entertainment & Pop Culture,1,104301.0,0.0,3304.0
+2018-04-26,News & Politics,1,116517.0,-0.8271,8811.0
+2018-04-26,Tech & Programming,1,26847.0,-0.7783,1077.0
+2018-04-28,Entertainment & Pop Culture,1,61138.0,-0.6705,4607.0
+2018-04-28,Health & Psychology,1,3499.0,-0.4215,218.0
+2018-04-29,Health & Psychology,1,4360.0,0.9965,81.0
+2018-04-30,Finance & Business,1,13219.0,0.9927,2013.0
+2018-05-01,Entertainment & Pop Culture,1,73264.0,0.4215,2477.0
+2018-05-01,Finance & Business,1,2061.0,0.5162,345.0
+2018-05-03,Health & Psychology,1,5048.0,-0.9857,649.0
+2018-05-06,Health & Psychology,1,834.0,0.4767,31.0
+2018-05-06,Tech & Programming,1,1086.0,0.0,51.0
+2018-05-07,Health & Psychology,2,2786.0,-0.2801,165.0
+2018-05-08,Tech & Programming,1,4616.0,0.4019,689.0
+2018-05-10,Entertainment & Pop Culture,1,44340.0,-0.296,5114.0
+2018-05-10,General Discussion & Trends,1,161911.0,0.1531,5399.0
+2018-05-13,General Discussion & Trends,1,109099.0,-0.2732,4877.0
+2018-05-14,General Discussion & Trends,1,111253.0,0.6808,1321.0
+2018-05-14,Health & Psychology,1,7812.0,-0.1027,1311.0
+2018-05-17,Finance & Business,1,12727.0,0.7769,1450.0
+2018-05-18,Tech & Programming,2,5484.5,0.5989,558.5
+2018-05-22,Health & Psychology,1,4912.0,0.9997,408.0
+2018-05-22,Tech & Programming,1,1312.0,0.0,76.0
+2018-05-23,Finance & Business,1,17667.0,-0.7895,1773.0
+2018-05-24,Entertainment & Pop Culture,1,145158.0,0.5423,5420.0
+2018-05-25,General Discussion & Trends,1,106309.0,-0.0772,2114.0
+2018-05-27,Entertainment & Pop Culture,1,123313.0,0.3182,2088.0
+2018-05-28,Health & Psychology,1,3169.0,0.8834,178.0
+2018-05-29,Tech & Programming,1,1726.0,0.0,128.0
+2018-05-31,Finance & Business,1,12896.0,-0.5267,7143.0
+2018-05-31,General Discussion & Trends,1,109908.0,0.6705,3119.0
+2018-06-03,Tech & Programming,1,8645.0,0.2732,1826.0
+2018-06-04,Health & Psychology,1,10031.0,0.9998,646.0
+2018-06-05,Entertainment & Pop Culture,1,163181.0,0.8537,1111.0
+2018-06-06,Tech & Programming,1,1196.0,-0.0516,118.0
+2018-06-08,General Discussion & Trends,2,109612.0,0.56635,9466.5
+2018-06-10,Tech & Programming,1,18055.0,0.0,817.0
+2018-06-12,Tech & Programming,1,926.0,0.0,57.0
+2018-06-13,Tech & Programming,1,5615.0,-0.296,430.0
+2018-06-15,Tech & Programming,1,1071.0,0.7184,103.0
+2018-06-17,Health & Psychology,1,4218.0,0.9975,306.0
+2018-06-18,Health & Psychology,1,4184.0,-0.0834,228.0
+2018-06-20,Health & Psychology,1,10466.0,0.3408,599.0
+2018-06-21,Entertainment & Pop Culture,1,127332.0,0.9984,4669.0
+2018-06-29,Entertainment & Pop Culture,1,86075.0,0.0,4432.0
+2018-07-06,Entertainment & Pop Culture,1,63516.0,-0.6486,2957.0
+2018-07-09,Entertainment & Pop Culture,2,61167.5,0.0963,3037.5
+2018-07-10,Finance & Business,1,2170.0,-0.7414,238.0
+2018-07-10,News & Politics,1,107844.0,0.7184,4024.0
+2018-07-13,Entertainment & Pop Culture,1,101955.0,0.0,2785.0
+2018-07-16,Finance & Business,1,39524.0,0.6098,1885.0
+2018-07-19,Entertainment & Pop Culture,1,89614.0,0.0,2227.0
+2018-07-19,Finance & Business,1,14988.0,0.7245,4490.0
+2018-07-19,News & Politics,1,189355.0,0.5233,17976.0
+2018-07-20,Entertainment & Pop Culture,1,129518.0,-0.4939,3826.0
+2018-07-21,Finance & Business,1,12743.0,0.9324,547.0
+2018-07-21,Tech & Programming,1,6935.0,0.5423,532.0
+2018-07-22,Entertainment & Pop Culture,1,78089.0,0.0,12501.0
+2018-07-22,General Discussion & Trends,1,20984.0,0.0,791.0
+2018-07-23,Finance & Business,1,55461.0,-0.9911,831.0
+2018-07-24,Tech & Programming,1,23691.0,0.0,1849.0
+2018-07-25,Entertainment & Pop Culture,2,76093.0,-0.032049999999999995,1883.0
+2018-07-27,Health & Psychology,1,14059.0,0.9974,327.0
+2018-07-28,Finance & Business,1,1867.0,0.9994,370.0
+2018-07-29,Entertainment & Pop Culture,1,48250.0,0.0,1194.0
+2018-07-30,Entertainment & Pop Culture,1,79744.0,0.0,9609.0
+2018-07-31,General Discussion & Trends,1,139836.0,0.4019,3686.0
+2018-08-04,Finance & Business,1,13089.0,-0.9211,680.0
+2018-08-11,General Discussion & Trends,1,112297.0,0.0,1969.0
+2018-08-13,Entertainment & Pop Culture,1,47584.0,0.296,990.0
+2018-08-16,Finance & Business,1,12913.0,0.9993,1436.0
+2018-08-18,Finance & Business,1,14877.0,0.9931,977.0
+2018-08-18,General Discussion & Trends,1,127167.0,-0.362,1439.0
+2018-08-21,General Discussion & Trends,1,93414.0,0.0,4118.0
+2018-08-22,Entertainment & Pop Culture,1,53151.0,-0.1027,3146.0
+2018-08-22,General Discussion & Trends,2,85580.0,0.10115,13589.0
+2018-08-22,News & Politics,1,115793.0,0.0,13967.0
+2018-08-22,Tech & Programming,1,5404.0,0.2023,670.0
+2018-08-23,Entertainment & Pop Culture,1,72299.0,0.0,1779.0
+2018-08-26,News & Politics,1,154795.0,0.0,11328.0
+2018-08-28,Finance & Business,1,36853.0,0.9492,1566.0
+2018-08-30,General Discussion & Trends,1,102057.0,-0.9486,6027.0
+2018-08-31,Entertainment & Pop Culture,1,80197.0,0.0,5242.0
+2018-09-01,Finance & Business,2,6885.0,0.8975500000000001,384.0
+2018-09-03,Entertainment & Pop Culture,1,47819.0,0.34,4070.0
+2018-09-03,General Discussion & Trends,1,105953.0,0.0,4802.0
+2018-09-06,Finance & Business,1,26159.0,-0.4404,1516.0
+2018-09-06,News & Politics,1,109510.0,0.0,3084.0
+2018-09-07,Entertainment & Pop Culture,2,46724.5,-0.28569999999999995,2633.5
+2018-09-07,General Discussion & Trends,1,26063.0,0.5922,1747.0
+2018-09-09,Health & Psychology,1,5019.0,-0.9104,552.0
+2018-09-10,Entertainment & Pop Culture,1,137003.0,0.0,2376.0
+2018-09-13,Entertainment & Pop Culture,1,129047.0,0.0,1126.0
+2018-09-14,Entertainment & Pop Culture,1,50590.0,0.0,6817.0
+2018-09-15,Tech & Programming,1,4796.0,0.0,886.0
+2018-09-18,General Discussion & Trends,1,160339.0,0.2023,6728.0
+2018-09-20,General Discussion & Trends,1,87103.0,-0.3612,18273.0
+2018-09-21,Finance & Business,1,13091.0,0.9993,788.0
+2018-09-24,Entertainment & Pop Culture,1,153443.0,0.2023,3467.0
+2018-09-27,Entertainment & Pop Culture,1,115669.0,0.4939,2452.0
+2018-09-28,Entertainment & Pop Culture,1,95103.0,0.0,2575.0
+2018-09-29,General Discussion & Trends,1,101930.0,-0.3818,1856.0
+2018-10-02,Entertainment & Pop Culture,1,129237.0,-0.3182,5676.0
+2018-10-03,Tech & Programming,1,6960.0,0.0772,689.0
+2018-10-04,Entertainment & Pop Culture,1,88458.0,0.8658,1987.0
+2018-10-08,Finance & Business,1,28430.0,0.918,633.0
+2018-10-09,General Discussion & Trends,1,18983.0,0.5739,1326.0
+2018-10-10,Finance & Business,1,23197.0,0.885,1159.0
+2018-10-11,Finance & Business,1,2402.0,0.9983,400.0
+2018-10-12,General Discussion & Trends,1,104778.0,0.5358,2445.0
+2018-10-12,News & Politics,1,111102.0,-0.8442,5944.0
+2018-10-16,General Discussion & Trends,1,125147.0,-0.4939,2272.0
+2018-10-18,Finance & Business,1,4775.0,0.6073,614.0
+2018-10-19,Health & Psychology,1,671.0,0.7662,57.0
+2018-10-25,Tech & Programming,1,4816.0,0.5859,153.0
+2018-10-30,Health & Psychology,1,835.0,-0.0176,59.0
+2018-10-31,Entertainment & Pop Culture,1,162556.0,-0.4215,2137.0
+2018-11-03,Entertainment & Pop Culture,1,132221.0,-0.4404,5283.0
+2018-11-03,Tech & Programming,1,4645.0,0.4754,1306.0
+2018-11-04,Entertainment & Pop Culture,1,129259.0,0.0,4983.0
+2018-11-05,General Discussion & Trends,1,103483.0,-0.9153,1159.0
+2018-11-07,News & Politics,1,102000.0,-0.5423,2713.0
+2018-11-10,News & Politics,1,150304.0,-0.926,7922.0
+2018-11-12,Entertainment & Pop Culture,1,123873.0,0.4215,2942.0
+2018-11-12,General Discussion & Trends,1,175368.0,0.8002,27642.0
+2018-11-12,News & Politics,1,155793.0,-0.6486,6237.0
+2018-11-14,Tech & Programming,1,5894.0,-0.7351,1156.0
+2018-11-18,Finance & Business,1,12796.0,-0.731,631.0
+2018-11-19,News & Politics,1,121588.0,0.0,3022.0
+2018-11-20,General Discussion & Trends,1,124217.0,0.5106,2311.0
+2018-11-21,General Discussion & Trends,1,131621.0,-0.4159,1673.0
+2018-11-21,Health & Psychology,1,3364.0,-0.7717,207.0
+2018-11-23,Finance & Business,1,33784.0,0.9775,1221.0
+2018-11-26,Finance & Business,1,16437.0,0.592,1005.0
+2018-11-27,Finance & Business,1,17099.0,0.9961,1692.0
+2018-11-27,General Discussion & Trends,1,87555.0,0.5574,13115.0
+2018-11-28,Entertainment & Pop Culture,2,136496.5,0.0,5540.5
+2018-11-28,Finance & Business,1,12660.0,0.9073,1523.0
+2018-11-28,General Discussion & Trends,1,129386.0,-0.9199,2308.0
+2018-11-29,Entertainment & Pop Culture,1,131792.0,0.0,2336.0
+2018-12-01,Entertainment & Pop Culture,1,227169.0,-0.8126,2187.0
+2018-12-01,Finance & Business,1,13397.0,-0.2905,1194.0
+2018-12-01,News & Politics,2,132067.5,-0.28595,9063.5
+2018-12-04,Entertainment & Pop Culture,1,127147.0,0.5859,1907.0
+2018-12-04,General Discussion & Trends,2,131257.0,-0.08289999999999997,2081.0
+2018-12-06,Entertainment & Pop Culture,1,163783.0,0.0,2542.0
+2018-12-06,Tech & Programming,1,5763.0,-0.5574,777.0
+2018-12-07,Entertainment & Pop Culture,1,82054.0,0.4215,9605.0
+2018-12-09,Entertainment & Pop Culture,1,193380.0,-0.0772,1432.0
+2018-12-10,General Discussion & Trends,1,119505.0,-0.296,1942.0
+2018-12-10,Health & Psychology,1,4797.0,0.9997,258.0
+2018-12-12,Finance & Business,1,2475.0,0.9992,311.0
+2018-12-12,General Discussion & Trends,1,120735.0,-0.6369,2574.0
+2018-12-13,General Discussion & Trends,1,22467.0,0.0,1824.0
+2018-12-15,Entertainment & Pop Culture,1,122216.0,0.0,2645.0
+2018-12-18,News & Politics,1,142121.0,0.0,3490.0
+2018-12-19,Entertainment & Pop Culture,1,133795.0,-0.3182,2759.0
+2018-12-21,Tech & Programming,1,1004.0,0.0,32.0
+2018-12-22,General Discussion & Trends,2,72725.5,-0.18745,3128.5
+2018-12-24,Entertainment & Pop Culture,2,111482.5,0.1806,1855.5
+2018-12-27,News & Politics,1,116626.0,0.0,6966.0
+2018-12-28,General Discussion & Trends,1,128444.0,-0.3182,2565.0
+2018-12-29,Entertainment & Pop Culture,1,137731.0,0.34,1617.0
+2018-12-30,Tech & Programming,1,917.0,0.5859,24.0
+2018-12-31,Tech & Programming,1,958.0,0.4767,56.0
+2019-01-01,Entertainment & Pop Culture,1,162500.0,0.0,1483.0
+2019-01-01,Finance & Business,1,13297.0,0.973,1405.0
+2019-01-01,General Discussion & Trends,1,221990.0,-0.5574,7925.0
+2019-01-02,Entertainment & Pop Culture,1,128567.0,0.34,1692.0
+2019-01-02,Finance & Business,1,16439.0,-0.5574,522.0
+2019-01-02,General Discussion & Trends,1,102323.0,0.4404,2113.0
+2019-01-02,Health & Psychology,1,6418.0,0.9989,498.0
+2019-01-02,News & Politics,1,117438.0,0.5267,2327.0
+2019-01-03,Finance & Business,1,15296.0,-0.9766,1356.0
+2019-01-03,General Discussion & Trends,2,78927.0,0.1591,8882.0
+2019-01-04,General Discussion & Trends,1,135799.0,-0.7269,2257.0
+2019-01-05,Entertainment & Pop Culture,1,158190.0,0.0,1682.0
+2019-01-07,Entertainment & Pop Culture,1,102372.0,0.836,3429.0
+2019-01-07,Finance & Business,1,17312.0,-0.5994,889.0
+2019-01-07,General Discussion & Trends,1,25195.0,0.1779,553.0
+2019-01-07,Tech & Programming,1,15699.0,0.5106,1009.0
+2019-01-09,Entertainment & Pop Culture,1,132042.0,0.0,1826.0
+2019-01-10,Entertainment & Pop Culture,1,153921.0,0.2878,4435.0
+2019-01-10,Tech & Programming,1,974.0,0.0,78.0
+2019-01-11,News & Politics,1,105785.0,0.2732,3488.0
+2019-01-11,Tech & Programming,1,7499.0,0.0,1361.0
+2019-01-12,General Discussion & Trends,1,94516.0,0.6369,20356.0
+2019-01-13,Entertainment & Pop Culture,1,41856.0,-0.0772,891.0
+2019-01-13,Finance & Business,2,11020.0,-0.00025,451.5
+2019-01-14,General Discussion & Trends,2,111969.5,0.42335,6170.5
+2019-01-15,Entertainment & Pop Culture,2,114088.5,-0.125,6540.0
+2019-01-15,Finance & Business,1,14789.0,0.9898,732.0
+2019-01-15,Health & Psychology,1,808.0,0.9826,105.0
+2019-01-15,News & Politics,1,111569.0,-0.4767,18096.0
+2019-01-16,Finance & Business,2,10934.5,0.42405,438.5
+2019-01-17,Tech & Programming,1,1994.0,0.0,83.0
+2019-01-18,Entertainment & Pop Culture,2,104570.0,0.31845,3013.5
+2019-01-21,Entertainment & Pop Culture,2,95248.0,-0.2202,3557.0
+2019-01-21,General Discussion & Trends,1,137171.0,0.6365,10392.0
+2019-01-22,Entertainment & Pop Culture,1,70349.0,0.0,1590.0
+2019-01-22,Finance & Business,1,14784.0,0.9991,1251.0
+2019-01-22,General Discussion & Trends,2,107336.5,0.7341500000000001,2176.0
+2019-01-24,Tech & Programming,1,1169.0,0.9702,1003.0
+2019-01-26,General Discussion & Trends,1,20105.0,0.8126,918.0
+2019-01-27,General Discussion & Trends,2,103976.0,-0.43895,21010.5
+2019-01-28,Finance & Business,2,9058.5,0.8085,1167.5
+2019-01-29,Entertainment & Pop Culture,1,83295.0,0.0,2460.0
+2019-01-30,General Discussion & Trends,1,108421.0,0.7832,1742.0
+2019-02-03,Finance & Business,1,20093.0,0.9273,823.0
+2019-02-04,Entertainment & Pop Culture,1,57485.0,0.5994,3009.0
+2019-02-04,Health & Psychology,1,934.0,0.5722,43.0
+2019-02-06,Entertainment & Pop Culture,1,131861.0,0.0,1166.0
+2019-02-08,Entertainment & Pop Culture,1,65736.0,-0.3182,2636.0
+2019-02-08,Health & Psychology,1,4726.0,0.9514,433.0
+2019-02-09,Health & Psychology,1,4786.0,0.9998,278.0
+2019-02-09,Tech & Programming,1,5353.0,0.0,152.0
+2019-02-10,Entertainment & Pop Culture,1,44429.0,0.7717,2145.0
+2019-02-11,Finance & Business,1,1896.0,0.6428,203.0
+2019-02-13,General Discussion & Trends,1,133748.0,-0.128,1174.0
+2019-02-15,News & Politics,1,107084.0,-0.3182,5575.0
+2019-02-19,Finance & Business,2,11311.5,0.005750000000000033,2274.5
+2019-02-19,General Discussion & Trends,1,106603.0,0.128,1643.0
+2019-02-20,General Discussion & Trends,1,114573.0,-0.3064,3502.0
+2019-02-20,Health & Psychology,1,737.0,0.7115,53.0
+2019-02-21,Health & Psychology,1,5005.0,0.9859,368.0
+2019-02-21,Tech & Programming,1,1027.0,0.0,172.0
+2019-02-22,General Discussion & Trends,1,104986.0,0.6486,15732.0
+2019-02-23,Entertainment & Pop Culture,1,81609.0,-0.4215,1860.0
+2019-02-25,Entertainment & Pop Culture,1,143729.0,0.5994,1835.0
+2019-02-26,Entertainment & Pop Culture,2,142220.5,-0.5999,2350.0
+2019-02-26,General Discussion & Trends,1,19855.0,0.5574,2723.0
+2019-02-26,Health & Psychology,1,4979.0,0.9865,996.0
+2019-03-01,General Discussion & Trends,1,103143.0,0.0,2764.0
+2019-03-01,News & Politics,1,124875.0,-0.2732,10565.0
+2019-03-02,General Discussion & Trends,1,107370.0,-0.8779,5663.0
+2019-03-03,Entertainment & Pop Culture,1,139359.0,-0.5267,2830.0
+2019-03-04,Entertainment & Pop Culture,1,44707.0,-0.6486,3330.0
+2019-03-04,General Discussion & Trends,1,19554.0,0.0,1136.0
+2019-03-05,General Discussion & Trends,1,121815.0,0.0,2789.0
+2019-03-07,Finance & Business,1,14708.0,0.999,1578.0
+2019-03-07,General Discussion & Trends,1,24958.0,0.0516,193.0
+2019-03-07,News & Politics,1,123608.0,-0.0258,3266.0
+2019-03-08,Finance & Business,1,3292.0,0.9971,373.0
+2019-03-08,General Discussion & Trends,1,28170.0,0.6858,1371.0
+2019-03-08,Tech & Programming,1,4761.0,0.25,639.0
+2019-03-09,Finance & Business,1,2304.0,0.9281,400.0
+2019-03-11,General Discussion & Trends,3,79147.66666666667,-0.22863333333333333,1956.6666666666667
+2019-03-12,Entertainment & Pop Culture,1,131173.0,0.0,6092.0
+2019-03-12,Health & Psychology,1,702.0,-0.0242,97.0
+2019-03-12,News & Politics,2,121808.5,0.0,3269.0
+2019-03-13,Finance & Business,1,12807.0,0.8225,923.0
+2019-03-13,General Discussion & Trends,1,146314.0,-0.6597,1476.0
+2019-03-14,Entertainment & Pop Culture,1,73729.0,0.4215,11749.0
+2019-03-14,General Discussion & Trends,1,101875.0,0.0,1175.0
+2019-03-14,News & Politics,1,106482.0,-0.296,4138.0
+2019-03-15,Entertainment & Pop Culture,1,158633.0,0.0,11064.0
+2019-03-17,Finance & Business,1,12790.0,0.9869,860.0
+2019-03-17,General Discussion & Trends,1,20254.0,0.6486,1452.0
+2019-03-18,Tech & Programming,1,1009.0,0.0,66.0
+2019-03-19,News & Politics,1,108982.0,0.0772,4571.0
+2019-03-20,Finance & Business,1,14482.0,0.9178,1715.0
+2019-03-21,Finance & Business,1,15471.0,0.9819,2281.0
+2019-03-22,General Discussion & Trends,1,106734.0,-0.4215,2028.0
+2019-03-25,Entertainment & Pop Culture,1,69316.0,0.0,3525.0
+2019-03-26,Entertainment & Pop Culture,1,54124.0,-0.4019,1262.0
+2019-03-26,Finance & Business,1,21476.0,0.9974,1887.0
+2019-03-27,Health & Psychology,1,996.0,-0.957,83.0
+2019-03-28,Finance & Business,1,17007.0,0.9964,1816.0
+2019-03-28,General Discussion & Trends,1,21039.0,0.5719,1216.0
+2019-03-29,Entertainment & Pop Culture,1,132512.0,0.2023,4094.0
+2019-03-30,Tech & Programming,1,9210.0,-0.128,768.0
+2019-04-01,General Discussion & Trends,1,106878.0,-0.3182,1566.0
+2019-04-08,Health & Psychology,1,642.0,0.3182,69.0
+2019-04-10,Health & Psychology,1,5631.0,0.9988,233.0
+2019-04-10,Tech & Programming,1,974.0,0.0,84.0
+2019-04-11,Entertainment & Pop Culture,1,139612.0,0.0,2346.0
+2019-04-11,General Discussion & Trends,1,94242.0,-0.3182,7502.0
+2019-04-13,Health & Psychology,1,4533.0,0.9011,597.0
+2019-04-15,Health & Psychology,1,2976.0,0.0,116.0
+2019-04-18,General Discussion & Trends,1,101384.0,0.6124,20174.0
+2019-04-19,General Discussion & Trends,1,28532.0,0.0,2209.0
+2019-04-22,Finance & Business,1,27668.0,-0.9496,888.0
+2019-04-22,General Discussion & Trends,2,20975.0,-0.05259999999999998,1647.0
+2019-04-24,Finance & Business,1,16650.0,0.9997,366.0
+2019-04-25,General Discussion & Trends,1,87900.0,0.7902,10168.0
+2019-04-25,Tech & Programming,1,963.0,0.4215,34.0
+2019-04-26,General Discussion & Trends,1,113808.0,0.3492,4709.0
+2019-04-30,Entertainment & Pop Culture,1,83239.0,0.34,1751.0
+2019-05-02,Entertainment & Pop Culture,1,110455.0,-0.5574,1923.0
+2019-05-02,Tech & Programming,1,7518.0,0.7506,1075.0
+2019-05-05,Health & Psychology,1,822.0,-0.8519,39.0
+2019-05-06,Finance & Business,1,16964.0,0.9386,1432.0
+2019-05-06,Tech & Programming,1,5847.0,0.0,1079.0
+2019-05-07,Health & Psychology,1,1963.0,0.5927,187.0
+2019-05-08,Finance & Business,1,21907.0,0.5859,67.0
+2019-05-08,Health & Psychology,1,5254.0,0.9885,563.0
+2019-05-09,Entertainment & Pop Culture,1,83270.0,0.4215,3417.0
+2019-05-09,Health & Psychology,1,5912.0,0.9886,496.0
+2019-05-10,General Discussion & Trends,1,82960.0,-0.1646,6200.0
+2019-05-11,General Discussion & Trends,1,27199.0,0.6696,1216.0
+2019-05-13,News & Politics,1,126879.0,-0.2755,10315.0
+2019-05-15,Finance & Business,1,50764.0,0.9363,1605.0
+2019-05-17,Entertainment & Pop Culture,1,71224.0,0.4939,1654.0
+2019-05-20,Finance & Business,1,27682.0,0.9344,1336.0
+2019-05-20,Health & Psychology,1,788.0,0.6486,52.0
+2019-05-22,News & Politics,1,111289.0,-0.4588,5509.0
+2019-05-24,General Discussion & Trends,1,21942.0,0.6015,2593.0
+2019-05-30,Tech & Programming,1,5703.0,-0.3818,1260.0
+2019-06-02,Tech & Programming,1,1162.0,0.0,202.0
+2019-06-03,General Discussion & Trends,1,113723.0,-0.5574,2848.0
+2019-06-05,Entertainment & Pop Culture,1,107179.0,0.0,4834.0
+2019-06-05,Finance & Business,2,7244.5,0.7744500000000001,620.5
+2019-06-07,Entertainment & Pop Culture,2,100813.5,0.1591,2176.5
+2019-06-07,Finance & Business,1,20551.0,0.9126,914.0
+2019-06-08,Finance & Business,1,12405.0,0.9838,591.0
+2019-06-10,Entertainment & Pop Culture,1,135515.0,0.3182,1581.0
+2019-06-11,Health & Psychology,1,7840.0,0.9997,440.0
+2019-06-11,News & Politics,1,93529.0,0.0,6350.0
+2019-06-13,Finance & Business,1,14961.0,0.9869,1238.0
+2019-06-14,Entertainment & Pop Culture,1,127045.0,-0.8689,1985.0
+2019-06-15,Health & Psychology,1,643.0,0.7579,50.0
+2019-06-16,Entertainment & Pop Culture,1,77000.0,-0.4215,1316.0
+2019-06-18,Finance & Business,1,12753.0,0.988,1456.0
+2019-06-19,General Discussion & Trends,1,22139.0,-0.9784,1434.0
+2019-06-20,General Discussion & Trends,1,27957.0,0.9169,1249.0
+2019-06-21,Finance & Business,1,12386.0,0.9328,1017.0
+2019-06-25,News & Politics,1,114132.0,-0.3612,9461.0
+2019-06-26,Entertainment & Pop Culture,1,64635.0,-0.3818,1950.0
+2019-06-27,Finance & Business,1,17846.0,0.7002,2178.0
+2019-06-28,Health & Psychology,1,794.0,-0.5719,72.0
+2019-06-30,Tech & Programming,1,986.0,0.5859,22.0
+2019-07-06,Health & Psychology,1,9520.0,0.9989,450.0
+2019-07-09,Finance & Business,1,14457.0,0.9788,580.0
+2019-07-09,Tech & Programming,1,1696.0,-0.3182,95.0
+2019-07-10,General Discussion & Trends,1,85910.0,-0.3818,14826.0
+2019-07-12,Health & Psychology,1,634.0,-0.995,179.0
+2019-07-13,Entertainment & Pop Culture,1,269758.0,0.0,3556.0
+2019-07-15,News & Politics,1,112158.0,-0.5994,2906.0
+2019-07-15,Tech & Programming,1,6658.0,-0.5994,338.0
+2019-07-16,Health & Psychology,1,6877.0,0.9992,1044.0
+2019-07-17,General Discussion & Trends,1,143536.0,-0.765,2897.0
+2019-07-17,Health & Psychology,1,4430.0,0.9986,229.0
+2019-07-17,Tech & Programming,1,6135.0,0.0,386.0
+2019-07-19,Health & Psychology,1,2509.0,-0.5859,192.0
+2019-07-21,Entertainment & Pop Culture,2,75630.0,0.17215,4317.5
+2019-07-22,Entertainment & Pop Culture,1,97551.0,0.0,4550.0
+2019-07-22,Health & Psychology,2,8958.5,0.99695,492.5
+2019-07-23,Entertainment & Pop Culture,1,75372.0,0.0,2724.0
+2019-07-23,Finance & Business,1,15690.0,-0.2306,588.0
+2019-07-25,General Discussion & Trends,1,92101.0,0.5371,6770.0
+2019-07-27,General Discussion & Trends,1,134257.0,-0.5994,2758.0
+2019-07-28,General Discussion & Trends,1,20117.0,0.6597,1971.0
+2019-07-29,General Discussion & Trends,1,116805.0,0.7906,4095.0
+2019-07-30,Entertainment & Pop Culture,1,135051.0,0.25,1006.0
+2019-07-30,Health & Psychology,2,1727.5,-0.29300000000000004,93.0
+2019-07-31,Entertainment & Pop Culture,1,50516.0,0.2023,2450.0
+2019-08-01,Entertainment & Pop Culture,1,134298.0,0.8402,2716.0
+2019-08-05,Tech & Programming,1,1037.0,-0.4767,100.0
+2019-08-06,Finance & Business,1,34140.0,0.0945,1646.0
+2019-08-08,General Discussion & Trends,1,100607.0,0.0,11460.0
+2019-08-09,Finance & Business,1,14600.0,0.9005,536.0
+2019-08-09,General Discussion & Trends,1,89449.0,-0.1779,6778.0
+2019-08-09,Health & Psychology,1,700.0,0.8102,130.0
+2019-08-10,News & Politics,1,170196.0,-0.7717,32129.0
+2019-08-12,Entertainment & Pop Culture,1,73595.0,0.0,1220.0
+2019-08-13,Finance & Business,1,12549.0,-0.7353,644.0
+2019-08-13,General Discussion & Trends,1,84089.0,0.4215,27325.0
+2019-08-14,Tech & Programming,1,1781.0,0.0,93.0
+2019-08-15,Finance & Business,1,16408.0,-0.9822,1462.0
+2019-08-16,Finance & Business,1,13980.0,0.7184,532.0
+2019-08-19,General Discussion & Trends,1,21865.0,0.0,2305.0
+2019-08-20,Entertainment & Pop Culture,1,123010.0,0.0,9800.0
+2019-08-20,Finance & Business,1,14992.0,0.9961,2485.0
+2019-08-20,General Discussion & Trends,1,21247.0,0.0,1167.0
+2019-08-21,Finance & Business,1,16577.0,0.5572,638.0
+2019-08-21,General Discussion & Trends,1,108948.0,0.296,1752.0
+2019-08-22,Finance & Business,1,12419.0,0.8792,1425.0
+2019-08-22,Tech & Programming,1,1570.0,0.0,167.0
+2019-08-23,Entertainment & Pop Culture,1,149569.0,0.0,5012.0
+2019-08-23,General Discussion & Trends,1,91387.0,0.25,19058.0
+2019-08-24,Health & Psychology,1,1364.0,0.9262,31.0
+2019-08-24,Tech & Programming,1,6719.0,-0.4019,929.0
+2019-08-25,Entertainment & Pop Culture,1,65997.0,0.5719,2277.0
+2019-08-26,General Discussion & Trends,1,22492.0,0.0042,1219.0
+2019-08-27,Finance & Business,1,13722.0,0.7579,1236.0
+2019-08-27,General Discussion & Trends,1,116010.0,-0.461,2726.0
+2019-08-28,Entertainment & Pop Culture,1,71341.0,0.128,6887.0
+2019-08-28,Finance & Business,1,14577.0,0.8321,2319.0
+2019-08-28,General Discussion & Trends,1,128931.0,-0.296,3542.0
+2019-08-28,Health & Psychology,1,4706.0,0.9971,516.0
+2019-08-30,General Discussion & Trends,1,41134.0,0.0,3389.0
+2019-09-03,Tech & Programming,1,7173.0,0.0516,786.0
+2019-09-06,General Discussion & Trends,1,113253.0,0.0,23118.0
+2019-09-09,General Discussion & Trends,1,24283.0,0.0,1283.0
+2019-09-10,Entertainment & Pop Culture,1,123557.0,0.6369,2992.0
+2019-09-11,Tech & Programming,1,6044.0,0.4754,556.0
+2019-09-13,Entertainment & Pop Culture,1,97247.0,-0.5719,1268.0
+2019-09-14,Entertainment & Pop Culture,1,122830.0,0.0,3287.0
+2019-09-15,General Discussion & Trends,1,28550.0,-0.1531,1037.0
+2019-09-18,General Discussion & Trends,1,96154.0,-0.5267,8710.0
+2019-09-18,News & Politics,1,117491.0,0.8816,7140.0
+2019-09-19,Tech & Programming,1,1603.0,0.3612,29.0
+2019-09-20,General Discussion & Trends,1,21702.0,-0.7003,2168.0
+2019-09-20,Health & Psychology,1,987.0,0.8847,52.0
+2019-09-21,Tech & Programming,1,1354.0,0.9648,468.0
+2019-09-22,Entertainment & Pop Culture,1,119094.0,-0.296,3328.0
+2019-09-26,General Discussion & Trends,1,93496.0,-0.0772,12503.0
+2019-09-27,Entertainment & Pop Culture,1,89190.0,0.4215,4223.0
+2019-09-27,Tech & Programming,1,1835.0,0.0,42.0
+2019-10-01,News & Politics,1,114205.0,-0.2263,5043.0
+2019-10-03,General Discussion & Trends,1,150819.0,-0.5267,10980.0
+2019-10-04,Health & Psychology,1,742.0,0.8337,44.0
+2019-10-06,Health & Psychology,1,802.0,0.8316,40.0
+2019-10-07,Finance & Business,1,15056.0,0.9405,1233.0
+2019-10-07,General Discussion & Trends,1,97467.0,-0.8316,16715.0
+2019-10-08,Entertainment & Pop Culture,2,136940.0,0.1591,5061.5
+2019-10-08,Finance & Business,1,26832.0,0.9859,2544.0
+2019-10-08,News & Politics,1,119969.0,0.2023,7407.0
+2019-10-09,News & Politics,1,226326.0,-0.6486,9400.0
+2019-10-10,News & Politics,2,128394.5,-0.4588,3985.0
+2019-10-11,Entertainment & Pop Culture,1,43067.0,-0.0772,1383.0
+2019-10-12,Entertainment & Pop Culture,1,129264.0,-0.0404,2315.0
+2019-10-12,News & Politics,1,109471.0,-0.0772,4076.0
+2019-10-12,Tech & Programming,1,2567.0,0.6115,451.0
+2019-10-13,General Discussion & Trends,1,90847.0,0.6369,16409.0
+2019-10-15,Entertainment & Pop Culture,1,42857.0,0.3976,3993.0
+2019-10-15,Tech & Programming,1,919.0,0.9909,251.0
+2019-10-16,Health & Psychology,1,1024.0,-0.7783,51.0
+2019-10-16,Tech & Programming,1,1144.0,0.4404,34.0
+2019-10-20,Entertainment & Pop Culture,1,80709.0,0.565,2617.0
+2019-10-20,Health & Psychology,1,2028.0,0.0772,160.0
+2019-10-21,Finance & Business,1,1515.0,0.9991,224.0
+2019-10-21,Health & Psychology,1,8810.0,0.9979,779.0
+2019-10-22,General Discussion & Trends,1,18986.0,0.1265,1670.0
+2019-10-23,News & Politics,2,109450.5,-0.6367,2871.5
+2019-10-24,Entertainment & Pop Culture,1,56680.0,0.0,2285.0
+2019-10-24,Finance & Business,1,14124.0,0.3201,1698.0
+2019-10-25,Entertainment & Pop Culture,1,74686.0,0.0516,4086.0
+2019-10-25,Health & Psychology,1,677.0,0.8339,76.0
+2019-10-26,Entertainment & Pop Culture,1,119940.0,0.0,2478.0
+2019-10-28,News & Politics,1,107469.0,-0.9118,6803.0
+2019-10-29,Entertainment & Pop Culture,1,78549.0,-0.5574,9007.0
+2019-10-30,Finance & Business,1,36704.0,0.9914,1225.0
+2019-10-30,News & Politics,1,186243.0,-0.6705,9849.0
+2019-11-01,Entertainment & Pop Culture,1,76275.0,0.0,1704.0
+2019-11-03,News & Politics,1,123306.0,0.3182,3178.0
+2019-11-04,General Discussion & Trends,2,138793.0,0.1591,8353.0
+2019-11-07,Entertainment & Pop Culture,1,86367.0,0.0,3797.0
+2019-11-07,Health & Psychology,1,690.0,-0.8591,38.0
+2019-11-08,General Discussion & Trends,1,124371.0,0.0,8345.0
+2019-11-10,General Discussion & Trends,1,88136.0,0.0,43039.0
+2019-11-10,Tech & Programming,1,2911.0,0.0,92.0
+2019-11-11,Finance & Business,1,2180.0,-0.7302,348.0
+2019-11-12,Entertainment & Pop Culture,1,86224.0,0.0,7593.0
+2019-11-12,Tech & Programming,1,1155.0,-0.5994,34.0
+2019-11-14,General Discussion & Trends,1,84472.0,-0.3612,24762.0
+2019-11-15,Entertainment & Pop Culture,1,115879.0,-0.3818,4748.0
+2019-11-15,Finance & Business,1,14076.0,0.9759,1824.0
+2019-11-15,General Discussion & Trends,1,86624.0,0.431,19199.0
+2019-11-15,News & Politics,1,106957.0,-0.3612,4201.0
+2019-11-17,News & Politics,1,109628.0,-0.3182,6896.0
+2019-11-18,Entertainment & Pop Culture,1,142514.0,0.1027,14959.0
+2019-11-22,Entertainment & Pop Culture,1,51105.0,0.0,2426.0
+2019-11-23,Tech & Programming,1,1279.0,0.0,50.0
+2019-11-25,General Discussion & Trends,2,93543.5,0.3953,26448.0
+2019-11-26,Entertainment & Pop Culture,1,91093.0,-0.3612,1963.0
+2019-11-26,News & Politics,1,107191.0,0.0,5732.0
+2019-11-26,Tech & Programming,1,1131.0,-0.9608,191.0
+2019-11-27,News & Politics,1,117127.0,-0.6369,7046.0
+2019-11-29,Health & Psychology,1,646.0,0.9638,47.0
+2019-11-30,General Discussion & Trends,1,128758.0,-0.25,6621.0
+2019-12-02,Tech & Programming,1,7420.0,0.0,269.0
+2019-12-05,Tech & Programming,1,3213.0,-0.4019,133.0
+2019-12-06,Health & Psychology,1,811.0,-0.5719,31.0
+2019-12-07,General Discussion & Trends,1,89862.0,-0.3612,16717.0
+2019-12-08,Entertainment & Pop Culture,1,44097.0,-0.4767,5918.0
+2019-12-09,News & Politics,1,117517.0,-0.4588,4874.0
+2019-12-11,Finance & Business,1,1638.0,1.0,143.0
+2019-12-11,General Discussion & Trends,1,88261.0,0.3359,35652.0
+2019-12-11,News & Politics,1,134857.0,0.4767,6269.0
+2019-12-11,Tech & Programming,1,1682.0,0.4588,232.0
+2019-12-13,Health & Psychology,1,3501.0,0.0,177.0
+2019-12-15,General Discussion & Trends,1,153577.0,-0.2732,2757.0
+2019-12-15,Tech & Programming,1,2343.0,-0.2755,73.0
+2019-12-16,General Discussion & Trends,1,103019.0,-0.5574,4088.0
+2019-12-17,General Discussion & Trends,2,109922.0,0.5712999999999999,8838.0
+2019-12-18,General Discussion & Trends,1,92967.0,0.4404,14485.0
+2019-12-19,General Discussion & Trends,2,124638.0,0.05824999999999997,8113.5
+2019-12-19,News & Politics,3,168304.66666666666,-0.5446666666666666,29213.666666666668
+2019-12-21,Tech & Programming,1,4778.0,0.0,771.0
+2019-12-23,Tech & Programming,1,1281.0,-0.2874,173.0
+2019-12-24,Health & Psychology,1,688.0,0.7165,43.0
+2019-12-25,Health & Psychology,1,654.0,0.9149,61.0
+2019-12-26,Health & Psychology,1,4595.0,0.9964,244.0
+2019-12-26,Tech & Programming,1,929.0,0.9081,50.0
+2019-12-28,News & Politics,2,127003.0,-0.36345,4481.5
+2020-01-01,General Discussion & Trends,2,97223.5,-0.349,9463.0
+2020-01-01,Tech & Programming,1,1905.0,0.0,49.0
+2020-01-02,Entertainment & Pop Culture,1,128445.0,-0.3612,2275.0
+2020-01-03,General Discussion & Trends,1,123053.0,-0.5994,12745.0
+2020-01-04,General Discussion & Trends,3,92494.0,0.20520000000000002,5032.666666666667
+2020-01-04,News & Politics,1,112169.0,0.6908,8055.0
+2020-01-04,Tech & Programming,1,2656.0,0.4215,218.0
+2020-01-06,Entertainment & Pop Culture,1,123478.0,0.0,1471.0
+2020-01-06,News & Politics,2,111648.0,-0.04165000000000002,8113.0
+2020-01-07,Finance & Business,1,1634.0,0.9928,209.0
+2020-01-07,News & Politics,1,116523.0,0.0,32044.0
+2020-01-08,Entertainment & Pop Culture,1,127919.0,0.0,1148.0
+2020-01-08,Finance & Business,1,3209.0,0.9966,459.0
+2020-01-08,General Discussion & Trends,1,29802.0,0.3919,3399.0
+2020-01-09,Entertainment & Pop Culture,1,125151.0,0.5994,1608.0
+2020-01-10,Entertainment & Pop Culture,1,81389.0,0.0,4081.0
+2020-01-10,General Discussion & Trends,1,84177.0,0.9501,5620.0
+2020-01-13,Health & Psychology,1,1490.0,0.6679,66.0
+2020-01-18,Entertainment & Pop Culture,1,144975.0,0.0,2341.0
+2020-01-21,Entertainment & Pop Culture,1,47054.0,0.0,1690.0
+2020-01-21,News & Politics,1,119140.0,0.5574,2560.0
+2020-01-24,Entertainment & Pop Culture,1,72462.0,0.5095,2590.0
+2020-01-24,General Discussion & Trends,1,92653.0,-0.4215,24988.0
+2020-01-24,News & Politics,1,132967.0,-0.5267,5577.0
+2020-01-26,News & Politics,1,213689.0,-0.802,20144.0
+2020-01-26,Tech & Programming,1,1113.0,0.891,50.0
+2020-01-27,General Discussion & Trends,2,100685.5,-0.148,15244.5
+2020-01-27,Health & Psychology,1,659.0,-0.872,95.0
+2020-01-28,Entertainment & Pop Culture,2,107096.0,0.014600000000000002,2468.5
+2020-01-30,General Discussion & Trends,2,123136.0,0.5328999999999999,5499.5
+2020-01-30,News & Politics,1,123394.0,-0.3818,6944.0
+2020-02-01,Tech & Programming,1,1183.0,-0.6724,142.0
+2020-02-03,Finance & Business,1,15979.0,-0.868,1282.0
+2020-02-03,Tech & Programming,1,1690.0,0.3612,97.0
+2020-02-04,Finance & Business,1,7981.0,0.9942,513.0
+2020-02-05,General Discussion & Trends,1,110738.0,-0.9732,3129.0
+2020-02-05,Health & Psychology,1,4014.0,0.9624,317.0
+2020-02-06,Entertainment & Pop Culture,1,73764.0,0.0,1206.0
+2020-02-06,Finance & Business,1,16082.0,0.6325,1245.0
+2020-02-06,General Discussion & Trends,1,92652.0,-0.4767,4453.0
+2020-02-06,News & Politics,1,98686.0,-0.5267,5127.0
+2020-02-07,General Discussion & Trends,1,197597.0,-0.3818,13327.0
+2020-02-07,News & Politics,1,94230.0,0.7184,5179.0
+2020-02-10,Entertainment & Pop Culture,1,96840.0,0.8979,6552.0
+2020-02-10,General Discussion & Trends,1,99270.0,-0.5423,15015.0
+2020-02-10,Tech & Programming,1,1300.0,0.0,48.0
+2020-02-11,Tech & Programming,1,1426.0,0.0,9.0
+2020-02-12,General Discussion & Trends,1,92393.0,-0.5574,17465.0
+2020-02-12,News & Politics,1,123366.0,-0.6124,6436.0
+2020-02-13,Entertainment & Pop Culture,1,42040.0,0.0,2076.0
+2020-02-13,General Discussion & Trends,2,99847.5,-0.34154999999999996,7795.5
+2020-02-16,General Discussion & Trends,2,111949.0,0.79015,7223.5
+2020-02-17,Finance & Business,1,21404.0,0.9994,1981.0
+2020-02-18,General Discussion & Trends,1,120839.0,0.1027,7034.0
+2020-02-19,General Discussion & Trends,1,19980.0,0.0,1144.0
+2020-02-19,Tech & Programming,1,5964.0,0.0516,529.0
+2020-02-20,Tech & Programming,1,2244.0,0.5106,190.0
+2020-02-23,News & Politics,1,101077.0,0.765,4805.0
+2020-02-24,Entertainment & Pop Culture,1,96816.0,-0.8979,4134.0
+2020-02-25,Entertainment & Pop Culture,1,72399.0,0.8979,7209.0
+2020-02-25,General Discussion & Trends,1,102897.0,-0.296,13216.0
+2020-02-25,Tech & Programming,1,899.0,0.4404,48.0
+2020-02-26,Health & Psychology,1,2875.0,-0.1372,149.0
+2020-02-27,Finance & Business,1,24305.0,0.872,565.0
+2020-03-01,General Discussion & Trends,1,103946.0,-0.1027,2260.0
+2020-03-01,News & Politics,1,142950.0,0.5267,2419.0
+2020-03-02,Entertainment & Pop Culture,1,134658.0,0.0,5007.0
+2020-03-03,General Discussion & Trends,1,103870.0,0.6486,17942.0
+2020-03-04,Finance & Business,1,75465.0,0.9495,597.0
+2020-03-04,General Discussion & Trends,1,87419.0,0.0,9474.0
+2020-03-04,News & Politics,1,124176.0,0.0,2492.0
+2020-03-05,General Discussion & Trends,1,85618.0,-0.7469,16330.0
+2020-03-05,Health & Psychology,1,766.0,0.6908,51.0
+2020-03-06,Tech & Programming,1,9955.0,-0.296,382.0
+2020-03-07,General Discussion & Trends,1,92161.0,0.6956,3502.0
+2020-03-08,General Discussion & Trends,1,83460.0,0.4329,0.0
+2020-03-08,Tech & Programming,1,1037.0,0.5742,107.0
+2020-03-09,Finance & Business,1,27439.0,0.3354,1748.0
+2020-03-10,Entertainment & Pop Culture,1,153728.0,0.0,1971.0
+2020-03-10,General Discussion & Trends,1,83841.0,0.4404,17595.0
+2020-03-10,Tech & Programming,1,3413.0,0.0,67.0
+2020-03-11,General Discussion & Trends,1,111236.0,-0.34,1263.0
+2020-03-11,News & Politics,2,119071.5,-0.401,7697.0
+2020-03-12,Finance & Business,2,8159.5,-0.19350000000000003,687.5
+2020-03-12,News & Politics,2,124915.0,0.2787,7724.5
+2020-03-15,Finance & Business,1,15363.0,0.296,868.0
+2020-03-16,News & Politics,3,120869.33333333333,-0.20156666666666667,3765.3333333333335
+2020-03-16,Tech & Programming,1,9569.0,-0.5106,512.0
+2020-03-17,News & Politics,1,108649.0,0.296,5583.0
+2020-03-18,Entertainment & Pop Culture,1,84797.0,-0.3818,3069.0
+2020-03-18,General Discussion & Trends,1,104048.0,-0.6293,2027.0
+2020-03-18,News & Politics,1,117167.0,-0.9337,3985.0
+2020-03-19,Health & Psychology,1,734.0,-0.4988,123.0
+2020-03-20,General Discussion & Trends,1,104232.0,-0.5777,3386.0
+2020-03-20,News & Politics,1,99233.0,0.5927,3793.0
+2020-03-20,Tech & Programming,1,988.0,0.9655,157.0
+2020-03-21,General Discussion & Trends,1,101474.0,0.0258,3808.0
+2020-03-21,News & Politics,1,93832.0,-0.6908,6198.0
+2020-03-22,Entertainment & Pop Culture,1,138273.0,-0.296,2765.0
+2020-03-22,General Discussion & Trends,1,115442.0,0.5719,1340.0
+2020-03-23,Health & Psychology,1,3948.0,0.9991,331.0
+2020-03-23,Tech & Programming,1,1103.0,0.9899,226.0
+2020-03-24,News & Politics,1,92200.0,0.3182,3390.0
+2020-03-25,General Discussion & Trends,2,112314.0,0.5009,11969.5
+2020-03-25,News & Politics,2,96496.5,0.0,4392.0
+2020-03-26,General Discussion & Trends,1,83651.0,-0.2263,2325.0
+2020-03-26,Health & Psychology,1,1049.0,0.4588,141.0
+2020-03-26,News & Politics,1,115106.0,0.4767,3098.0
+2020-03-27,News & Politics,1,135545.0,0.5574,10539.0
+2020-03-30,News & Politics,2,102000.5,-0.17,4343.5
+2020-03-30,Tech & Programming,1,2574.0,0.0,41.0
+2020-03-31,Entertainment & Pop Culture,1,86368.0,0.4215,1999.0
+2020-03-31,Finance & Business,1,2535.0,0.6948,278.0
+2020-03-31,General Discussion & Trends,1,21105.0,0.0,1264.0
+2020-03-31,News & Politics,2,112281.0,0.2292,3255.5
+2020-04-02,News & Politics,1,110738.0,-0.5574,6554.0
+2020-04-03,Entertainment & Pop Culture,1,54738.0,0.5859,1527.0
+2020-04-04,General Discussion & Trends,1,25129.0,-0.7269,2025.0
+2020-04-04,News & Politics,1,134229.0,-0.5574,5240.0
+2020-04-05,General Discussion & Trends,1,20793.0,-0.2732,1192.0
+2020-04-06,Tech & Programming,2,1539.5,0.65715,119.5
+2020-04-07,Entertainment & Pop Culture,1,48267.0,-0.7351,808.0
+2020-04-07,General Discussion & Trends,2,71556.5,-0.45204999999999995,1502.0
+2020-04-07,News & Politics,1,114960.0,0.0,4450.0
+2020-04-08,Entertainment & Pop Culture,1,122040.0,0.6249,3458.0
+2020-04-08,Health & Psychology,1,861.0,-0.6369,182.0
+2020-04-08,News & Politics,2,99694.5,0.0,16387.5
+2020-04-09,General Discussion & Trends,1,129212.0,0.0,2456.0
+2020-04-09,Health & Psychology,1,872.0,0.8951,38.0
+2020-04-11,General Discussion & Trends,1,114840.0,-0.0972,2587.0
+2020-04-12,Finance & Business,1,1871.0,0.999,292.0
+2020-04-12,General Discussion & Trends,1,25590.0,0.7845,1747.0
+2020-04-12,News & Politics,1,124072.0,0.4767,4074.0
+2020-04-13,Entertainment & Pop Culture,1,131768.0,0.6908,830.0
+2020-04-13,General Discussion & Trends,1,21151.0,0.0,1659.0
+2020-04-14,Tech & Programming,1,1008.0,0.6369,80.0
+2020-04-16,Entertainment & Pop Culture,1,100887.0,0.0,2706.0
+2020-04-16,Finance & Business,1,1436.0,0.9201,484.0
+2020-04-16,General Discussion & Trends,2,64225.0,-0.06745000000000001,3997.0
+2020-04-16,News & Politics,1,108271.0,-0.5574,4691.0
+2020-04-17,Finance & Business,1,3428.0,0.7199,503.0
+2020-04-19,Entertainment & Pop Culture,1,140649.0,-0.25,1331.0
+2020-04-20,Tech & Programming,1,2007.0,0.0,64.0
+2020-04-21,General Discussion & Trends,1,146437.0,0.7096,5685.0
+2020-04-23,News & Politics,1,96383.0,0.3818,12241.0
+2020-04-23,Tech & Programming,1,1787.0,-0.9586,118.0
+2020-04-24,News & Politics,2,124688.5,0.0,7083.0
+2020-04-25,General Discussion & Trends,1,87132.0,-0.4767,11149.0
+2020-04-25,Health & Psychology,1,947.0,0.3763,59.0
+2020-04-25,News & Politics,1,107314.0,0.0,4562.0
+2020-04-25,Tech & Programming,2,3607.5,-0.1806,103.5
+2020-04-27,General Discussion & Trends,2,20594.0,0.2364,1726.0
+2020-04-27,News & Politics,2,122415.0,-0.19610000000000002,4517.5
+2020-04-27,Tech & Programming,2,1780.5,0.0,71.0
+2020-04-28,Health & Psychology,1,686.0,0.7182,80.0
+2020-04-29,Tech & Programming,1,7333.0,0.5423,819.0
+2020-04-30,General Discussion & Trends,1,19334.0,0.128,1006.0
+2020-05-01,Health & Psychology,1,705.0,0.9088,44.0
+2020-05-01,News & Politics,1,117805.0,-0.7717,23671.0
+2020-05-02,Entertainment & Pop Culture,1,197042.0,0.5719,1792.0
+2020-05-02,Tech & Programming,1,2843.0,0.0,102.0
+2020-05-03,General Discussion & Trends,1,118883.0,0.6908,2625.0
+2020-05-04,News & Politics,1,127836.0,-0.25,2776.0
+2020-05-05,Health & Psychology,1,923.0,-0.9926,109.0
+2020-05-05,News & Politics,1,105517.0,-0.4767,5080.0
+2020-05-06,Entertainment & Pop Culture,1,153665.0,0.2263,5483.0
+2020-05-06,Finance & Business,1,2393.0,0.9945,285.0
+2020-05-06,Tech & Programming,1,6021.0,-0.1531,860.0
+2020-05-07,Finance & Business,1,17317.0,0.9738,1977.0
+2020-05-08,Health & Psychology,1,647.0,0.6249,29.0
+2020-05-08,News & Politics,1,141052.0,-0.8225,15105.0
+2020-05-09,Health & Psychology,1,684.0,-0.1786,36.0
+2020-05-09,Tech & Programming,1,1401.0,0.0,37.0
+2020-05-10,General Discussion & Trends,1,24502.0,0.0,903.0
+2020-05-10,Tech & Programming,2,5050.0,0.0,113.5
+2020-05-11,Entertainment & Pop Culture,1,104278.0,0.3818,2546.0
+2020-05-11,Finance & Business,1,1417.0,0.5975,212.0
+2020-05-11,General Discussion & Trends,1,91853.0,0.5719,13915.0
+2020-05-11,Tech & Programming,1,6205.0,0.0,681.0
+2020-05-12,News & Politics,1,119851.0,-0.6705,9792.0
+2020-05-14,General Discussion & Trends,1,162423.0,-0.34,7825.0
+2020-05-15,Entertainment & Pop Culture,1,130690.0,0.0,2193.0
+2020-05-15,General Discussion & Trends,1,113602.0,-0.6705,29052.0
+2020-05-16,General Discussion & Trends,1,110559.0,-0.8224,2689.0
+2020-05-17,Health & Psychology,1,944.0,0.5129,55.0
+2020-05-17,Tech & Programming,1,1498.0,0.962,75.0
+2020-05-19,Health & Psychology,1,639.0,-0.3606,43.0
+2020-05-19,Tech & Programming,1,4652.0,0.0,640.0
+2020-05-21,Finance & Business,1,1578.0,-0.765,322.0
+2020-05-21,News & Politics,1,106996.0,-0.1027,2171.0
+2020-05-22,Health & Psychology,1,3876.0,0.9758,206.0
+2020-05-23,Finance & Business,1,1545.0,-0.6879,136.0
+2020-05-24,Tech & Programming,1,1178.0,0.34,38.0
+2020-05-25,Health & Psychology,1,908.0,0.9714,44.0
+2020-05-26,Finance & Business,1,1506.0,0.9998,148.0
+2020-05-26,News & Politics,1,114806.0,-0.5574,14514.0
+2020-05-27,Entertainment & Pop Culture,1,76083.0,0.765,4675.0
+2020-05-27,General Discussion & Trends,1,120163.0,0.3612,23819.0
+2020-05-27,Health & Psychology,1,773.0,-0.9655,44.0
+2020-05-27,News & Politics,2,102753.5,-0.7492000000000001,7892.5
+2020-05-28,Finance & Business,1,2365.0,0.9998,261.0
+2020-05-28,General Discussion & Trends,1,86418.0,0.0,32714.0
+2020-05-28,News & Politics,1,128509.0,-0.5267,9480.0
+2020-05-29,News & Politics,1,117872.0,0.0,10745.0
+2020-05-30,News & Politics,1,140273.0,-0.7579,9707.0
+2020-05-31,News & Politics,1,133619.0,-0.765,6161.0
+2020-06-01,News & Politics,1,130301.0,-0.296,3718.0
+2020-06-02,News & Politics,3,102977.0,-0.8356333333333333,3596.6666666666665
+2020-06-03,Entertainment & Pop Culture,1,131414.0,0.2023,2098.0
+2020-06-03,General Discussion & Trends,1,96757.0,0.9964,6707.0
+2020-06-03,News & Politics,5,112090.2,-0.52654,4344.8
+2020-06-04,Entertainment & Pop Culture,1,74412.0,0.0772,1945.0
+2020-06-04,General Discussion & Trends,1,21621.0,0.6486,1621.0
+2020-06-04,News & Politics,2,124998.0,-0.5842,5400.0
+2020-06-04,Tech & Programming,1,4892.0,0.25,256.0
+2020-06-05,News & Politics,1,113317.0,-0.5859,8961.0
+2020-06-06,Entertainment & Pop Culture,1,42332.0,0.9831,4665.0
+2020-06-06,News & Politics,1,128937.0,0.5859,3428.0
+2020-06-07,News & Politics,3,101681.0,-0.16180000000000003,5209.666666666667
+2020-06-07,Tech & Programming,1,1258.0,0.0,73.0
+2020-06-08,General Discussion & Trends,1,24192.0,0.0,1068.0
+2020-06-08,News & Politics,1,106572.0,-0.1779,3305.0
+2020-06-08,Tech & Programming,1,1059.0,0.073,142.0
+2020-06-09,Finance & Business,1,1506.0,0.9804,125.0
+2020-06-09,Health & Psychology,1,646.0,0.5423,16.0
+2020-06-10,Entertainment & Pop Culture,1,97992.0,-0.8225,7520.0
+2020-06-11,Finance & Business,1,1656.0,0.9998,208.0
+2020-06-11,News & Politics,2,129454.0,-0.47245000000000004,5625.0
+2020-06-12,Entertainment & Pop Culture,2,140250.5,0.31845,4272.5
+2020-06-12,News & Politics,1,129211.0,-0.6908,5685.0
+2020-06-13,General Discussion & Trends,2,113631.0,-0.42955,2080.5
+2020-06-13,News & Politics,1,123151.0,-0.4019,5329.0
+2020-06-14,Health & Psychology,2,774.0,-0.010149999999999992,72.5
+2020-06-15,General Discussion & Trends,2,63472.5,0.7761,8170.0
+2020-06-15,News & Politics,1,171116.0,0.7596,10324.0
+2020-06-15,Tech & Programming,1,1507.0,0.5106,87.0
+2020-06-16,Entertainment & Pop Culture,1,74422.0,-0.9975,2582.0
+2020-06-16,Finance & Business,1,3983.0,-0.8337,548.0
+2020-06-16,General Discussion & Trends,1,39009.0,0.0,3687.0
+2020-06-17,Entertainment & Pop Culture,1,78222.0,-0.872,5566.0
+2020-06-17,General Discussion & Trends,1,110546.0,-0.8316,1213.0
+2020-06-18,Entertainment & Pop Culture,1,108961.0,-0.0516,3349.0
+2020-06-19,Entertainment & Pop Culture,1,52053.0,-0.6908,2061.0
+2020-06-19,General Discussion & Trends,1,170815.0,-0.8555,1856.0
+2020-06-19,News & Politics,1,121990.0,0.128,4064.0
+2020-06-20,General Discussion & Trends,1,20185.0,0.8816,1004.0
+2020-06-20,News & Politics,1,109700.0,-0.7964,12255.0
+2020-06-20,Tech & Programming,1,2798.0,-0.4019,104.0
+2020-06-21,Entertainment & Pop Culture,1,57322.0,-0.2023,1951.0
+2020-06-21,Finance & Business,1,15994.0,0.8885,294.0
+2020-06-21,News & Politics,1,95254.0,-0.34,7287.0
+2020-06-24,Entertainment & Pop Culture,1,47289.0,-0.6129,2407.0
+2020-06-24,General Discussion & Trends,1,110116.0,-0.5574,2281.0
+2020-06-24,News & Politics,1,118551.0,-0.6613,7578.0
+2020-06-25,Tech & Programming,1,4958.0,0.5423,253.0
+2020-06-26,General Discussion & Trends,2,100356.5,-0.14060000000000003,6702.0
+2020-06-27,General Discussion & Trends,1,102348.0,0.296,1510.0
+2020-06-28,Finance & Business,1,1568.0,-0.959,138.0
+2020-06-28,General Discussion & Trends,2,97489.0,0.24695,9134.5
+2020-06-29,General Discussion & Trends,1,89594.0,0.4601,30001.0
+2020-06-29,News & Politics,2,118274.0,-0.24735,11082.5
+2020-06-30,General Discussion & Trends,2,146502.5,-0.7601,8498.0
+2020-06-30,Tech & Programming,1,3902.0,-0.9835,568.0
+2020-07-01,News & Politics,1,107280.0,0.0,4870.0
+2020-07-02,General Discussion & Trends,1,97428.0,-0.7269,5898.0
+2020-07-02,News & Politics,1,165198.0,-0.1779,12710.0
+2020-07-03,Health & Psychology,1,664.0,0.128,41.0
+2020-07-03,News & Politics,1,112243.0,-0.6124,4409.0
+2020-07-04,Entertainment & Pop Culture,1,56439.0,0.296,2050.0
+2020-07-05,Entertainment & Pop Culture,1,167177.0,0.6705,2562.0
+2020-07-05,News & Politics,1,106236.0,-0.1027,5263.0
+2020-07-05,Tech & Programming,1,1480.0,0.4767,79.0
+2020-07-06,Finance & Business,1,18228.0,0.3919,327.0
+2020-07-06,General Discussion & Trends,1,18888.0,0.3182,1318.0
+2020-07-06,Health & Psychology,1,741.0,-0.7646,52.0
+2020-07-06,Tech & Programming,1,5151.0,0.0,266.0
+2020-07-07,General Discussion & Trends,2,97846.0,-0.2553,6815.0
+2020-07-07,News & Politics,1,150312.0,0.5574,7155.0
+2020-07-08,General Discussion & Trends,1,102215.0,0.3525,1002.0
+2020-07-09,Health & Psychology,1,835.0,-0.8126,82.0
+2020-07-09,News & Politics,1,119851.0,0.5574,6720.0
+2020-07-10,General Discussion & Trends,1,106429.0,-0.8591,1816.0
+2020-07-10,Tech & Programming,1,3632.0,0.9025,267.0
+2020-07-11,News & Politics,1,133751.0,-0.0772,4769.0
+2020-07-11,Tech & Programming,1,931.0,0.34,24.0
+2020-07-12,News & Politics,1,108320.0,-0.7717,3652.0
+2020-07-13,Health & Psychology,1,690.0,-0.9266,188.0
+2020-07-14,Entertainment & Pop Culture,1,150137.0,0.6369,2547.0
+2020-07-14,General Discussion & Trends,1,20925.0,0.7652,2904.0
+2020-07-14,News & Politics,2,110754.5,-0.27075,3772.0
+2020-07-15,News & Politics,1,91640.0,-0.1531,4552.0
+2020-07-16,General Discussion & Trends,4,92916.5,0.3241,13478.25
+2020-07-17,News & Politics,1,98817.0,-0.5574,2827.0
+2020-07-18,General Discussion & Trends,1,27615.0,0.5267,1126.0
+2020-07-18,Health & Psychology,1,759.0,0.5729,79.0
+2020-07-19,Entertainment & Pop Culture,1,57564.0,0.4939,2288.0
+2020-07-19,General Discussion & Trends,1,117328.0,0.0,1870.0
+2020-07-20,Entertainment & Pop Culture,1,130831.0,-0.34,5636.0
+2020-07-20,General Discussion & Trends,1,84302.0,0.1476,6062.0
+2020-07-20,Tech & Programming,1,1069.0,0.0,54.0
+2020-07-21,General Discussion & Trends,1,115372.0,0.0,43939.0
+2020-07-22,General Discussion & Trends,1,130285.0,0.0,28053.0
+2020-07-22,Health & Psychology,1,835.0,0.6705,48.0
+2020-07-23,General Discussion & Trends,2,52711.0,-0.2059,12623.5
+2020-07-23,News & Politics,3,110238.66666666667,0.2394666666666667,4287.0
+2020-07-24,General Discussion & Trends,1,21454.0,0.0,349.0
+2020-07-24,News & Politics,1,107656.0,-0.4767,6969.0
+2020-07-26,General Discussion & Trends,1,90795.0,-0.6908,15065.0
+2020-07-26,News & Politics,1,103391.0,0.1531,13022.0
+2020-07-27,Finance & Business,1,1921.0,0.9687,347.0
+2020-07-28,General Discussion & Trends,1,99677.0,0.5994,50282.0
+2020-07-28,Health & Psychology,1,1066.0,-0.9635,79.0
+2020-07-28,Tech & Programming,1,956.0,-0.0718,134.0
+2020-07-30,General Discussion & Trends,1,130399.0,0.0,5227.0
+2020-07-30,News & Politics,2,132060.5,-0.36005,10030.5
+2020-07-31,Health & Psychology,1,6451.0,0.0,332.0
+2020-07-31,News & Politics,3,128921.0,-0.3121333333333333,7209.0
+2020-07-31,Tech & Programming,1,2357.0,-0.9319,274.0
+2020-08-01,General Discussion & Trends,1,89944.0,0.2263,16484.0
+2020-08-02,General Discussion & Trends,1,103872.0,0.9562,2758.0
+2020-08-03,General Discussion & Trends,1,88358.0,0.0,27112.0
+2020-08-03,News & Politics,1,93387.0,0.4019,7038.0
+2020-08-04,General Discussion & Trends,1,104468.0,0.4019,10494.0
+2020-08-04,News & Politics,1,115805.0,-0.6249,4066.0
+2020-08-05,General Discussion & Trends,1,82884.0,-0.6908,4991.0
+2020-08-05,News & Politics,1,116880.0,-0.6486,6967.0
+2020-08-06,General Discussion & Trends,2,128006.5,-0.3404,9337.0
+2020-08-06,News & Politics,1,111320.0,-0.4588,4698.0
+2020-08-06,Tech & Programming,1,12156.0,-0.34,901.0
+2020-08-07,Entertainment & Pop Culture,1,72110.0,-0.3182,4094.0
+2020-08-07,Finance & Business,1,2332.0,0.9406,481.0
+2020-08-07,General Discussion & Trends,1,103279.0,-0.128,1643.0
+2020-08-07,Health & Psychology,1,2619.0,0.0772,56.0
+2020-08-08,News & Politics,3,117226.33333333333,0.14049999999999999,5656.333333333333
+2020-08-08,Tech & Programming,1,1204.0,0.0,78.0
+2020-08-09,General Discussion & Trends,2,61908.5,-0.266,21234.0
+2020-08-09,News & Politics,1,104821.0,0.0,5520.0
+2020-08-10,General Discussion & Trends,1,104058.0,0.4939,2871.0
+2020-08-10,Health & Psychology,1,789.0,-0.6232,104.0
+2020-08-10,News & Politics,1,117458.0,-0.7783,4057.0
+2020-08-11,General Discussion & Trends,1,150554.0,0.8555,5483.0
+2020-08-11,Health & Psychology,1,778.0,-0.7845,61.0
+2020-08-11,Tech & Programming,1,6841.0,0.7506,714.0
+2020-08-12,Health & Psychology,1,2944.0,-0.5859,134.0
+2020-08-12,News & Politics,1,95825.0,-0.7294,3852.0
+2020-08-13,General Discussion & Trends,2,137986.5,0.5312,3013.5
+2020-08-14,Entertainment & Pop Culture,1,74026.0,0.3818,2061.0
+2020-08-14,General Discussion & Trends,1,101380.0,0.1779,2258.0
+2020-08-14,Health & Psychology,1,2770.0,-0.7351,173.0
+2020-08-14,News & Politics,1,90973.0,0.25,2915.0
+2020-08-14,Tech & Programming,1,7721.0,0.6369,1026.0
+2020-08-15,Entertainment & Pop Culture,1,57296.0,-0.8851,3482.0
+2020-08-15,Tech & Programming,2,1591.0,0.1806,65.5
+2020-08-16,General Discussion & Trends,2,96772.5,0.33575,8103.0
+2020-08-17,Entertainment & Pop Culture,1,128739.0,-0.4867,3951.0
+2020-08-17,Health & Psychology,1,707.0,-0.9393,68.0
+2020-08-17,News & Politics,1,112054.0,0.0,5404.0
+2020-08-18,Entertainment & Pop Culture,1,66870.0,0.128,2443.0
+2020-08-20,Finance & Business,1,1598.0,-0.8519,336.0
+2020-08-20,Health & Psychology,1,2585.0,0.7269,109.0
+2020-08-21,News & Politics,1,121846.0,0.0,14161.0
+2020-08-22,Tech & Programming,1,6617.0,0.7269,1474.0
+2020-08-23,Entertainment & Pop Culture,1,92067.0,-0.25,9173.0
+2020-08-23,Tech & Programming,1,1178.0,0.0,35.0
+2020-08-24,Entertainment & Pop Culture,1,142674.0,0.0,3948.0
+2020-08-24,General Discussion & Trends,3,73394.66666666667,0.5402333333333333,20581.0
+2020-08-24,Health & Psychology,1,2526.0,0.0,523.0
+2020-08-24,News & Politics,1,119629.0,-0.8442,6563.0
+2020-08-27,Entertainment & Pop Culture,2,102715.0,0.03975000000000001,1688.5
+2020-08-27,General Discussion & Trends,1,107567.0,0.4019,3181.0
+2020-08-28,Entertainment & Pop Culture,1,44132.0,0.4404,1163.0
+2020-08-28,General Discussion & Trends,1,106176.0,-0.5574,3093.0
+2020-08-28,News & Politics,1,90339.0,0.0,3289.0
+2020-08-29,Entertainment & Pop Culture,3,159678.0,-0.32306666666666667,5748.0
+2020-08-29,Health & Psychology,1,677.0,0.7398,24.0
+2020-08-29,News & Politics,1,118441.0,-0.7906,4100.0
+2020-08-30,Health & Psychology,1,1550.0,-0.9741,110.0
+2020-08-30,Tech & Programming,1,1788.0,0.0,104.0
+2020-08-31,Entertainment & Pop Culture,2,154608.5,0.5568,3016.5
+2020-09-01,Entertainment & Pop Culture,1,145140.0,-0.1779,1782.0
+2020-09-01,General Discussion & Trends,2,99089.5,-0.24695,5817.0
+2020-09-01,Health & Psychology,1,1112.0,0.9465,60.0
+2020-09-01,News & Politics,1,107602.0,0.296,8641.0
+2020-09-02,Finance & Business,1,1459.0,0.9651,209.0
+2020-09-02,General Discussion & Trends,2,85804.5,0.41025,3502.0
+2020-09-03,News & Politics,1,94085.0,-0.9349,7826.0
+2020-09-04,Entertainment & Pop Culture,1,71177.0,-0.3182,5357.0
+2020-09-04,General Discussion & Trends,1,93322.0,-0.7579,3421.0
+2020-09-05,General Discussion & Trends,2,58273.5,-0.36605,2177.0
+2020-09-05,Health & Psychology,2,755.0,0.34685,72.0
+2020-09-05,News & Politics,1,109885.0,0.3818,9871.0
+2020-09-06,Finance & Business,1,1403.0,0.9994,126.0
+2020-09-07,General Discussion & Trends,1,20811.0,0.8885,898.0
+2020-09-07,News & Politics,1,114127.0,0.0,3895.0
+2020-09-08,Entertainment & Pop Culture,1,97918.0,0.0,3659.0
+2020-09-08,General Discussion & Trends,1,19712.0,0.0,625.0
+2020-09-08,Health & Psychology,1,764.0,0.5001,109.0
+2020-09-08,News & Politics,1,120274.0,0.0772,12763.0
+2020-09-09,Entertainment & Pop Culture,1,92570.0,0.0,10601.0
+2020-09-09,News & Politics,1,104947.0,-0.5423,5217.0
+2020-09-10,General Discussion & Trends,1,112960.0,-0.296,1501.0
+2020-09-11,Entertainment & Pop Culture,1,73101.0,-0.6808,3124.0
+2020-09-11,General Discussion & Trends,1,26785.0,0.431,1857.0
+2020-09-12,Entertainment & Pop Culture,1,73745.0,0.2732,7560.0
+2020-09-12,Finance & Business,1,1365.0,-0.7894,375.0
+2020-09-12,General Discussion & Trends,1,26125.0,-0.4588,1655.0
+2020-09-12,Health & Psychology,1,998.0,-0.2023,49.0
+2020-09-16,General Discussion & Trends,1,93544.0,0.5574,8021.0
+2020-09-16,Health & Psychology,1,652.0,0.7802,101.0
+2020-09-17,Entertainment & Pop Culture,1,124796.0,0.0,1681.0
+2020-09-18,Entertainment & Pop Culture,1,140159.0,0.0,3558.0
+2020-09-18,General Discussion & Trends,1,24358.0,0.5789,1431.0
+2020-09-18,Health & Psychology,1,657.0,-0.9654,113.0
+2020-09-18,News & Politics,1,154087.0,0.8074,24878.0
+2020-09-19,General Discussion & Trends,1,99514.0,0.9754,10310.0
+2020-09-19,News & Politics,1,114582.0,0.5574,4547.0
+2020-09-20,Finance & Business,1,1523.0,0.9998,271.0
+2020-09-20,General Discussion & Trends,2,154946.0,-0.23095,6377.0
+2020-09-20,Health & Psychology,1,723.0,0.9861,62.0
+2020-09-20,Tech & Programming,1,5264.0,0.1635,412.0
+2020-09-21,General Discussion & Trends,1,147307.0,-0.875,6271.0
+2020-09-21,News & Politics,1,119479.0,0.4019,2661.0
+2020-09-22,Health & Psychology,1,886.0,0.7276,119.0
+2020-09-22,News & Politics,1,108282.0,0.0,9196.0
+2020-09-22,Tech & Programming,1,6410.0,-0.4019,1090.0
+2020-09-23,Entertainment & Pop Culture,1,141081.0,0.4019,4582.0
+2020-09-23,General Discussion & Trends,1,94714.0,0.0,21765.0
+2020-09-24,General Discussion & Trends,1,88362.0,0.4201,24356.0
+2020-09-25,Entertainment & Pop Culture,1,93076.0,0.0,2855.0
+2020-09-25,General Discussion & Trends,1,98618.0,0.4588,17766.0
+2020-09-26,Entertainment & Pop Culture,1,79549.0,0.7096,3761.0
+2020-09-26,Tech & Programming,2,3426.0,0.0138,244.0
+2020-09-27,News & Politics,2,125485.0,-0.49415,18264.5
+2020-09-27,Tech & Programming,1,3501.0,0.0,111.0
+2020-09-28,News & Politics,1,97975.0,-0.6358,5856.0
+2020-09-29,Entertainment & Pop Culture,1,71464.0,0.1779,2793.0
+2020-09-29,Health & Psychology,1,703.0,0.9468,40.0
+2020-09-30,Health & Psychology,1,2777.0,0.97,75.0
+2020-09-30,News & Politics,1,98848.0,0.0108,3105.0
+2020-10-01,General Discussion & Trends,1,20092.0,0.0,918.0
+2020-10-01,Health & Psychology,1,845.0,0.3818,51.0
+2020-10-01,News & Politics,1,112000.0,-0.0516,10538.0
+2020-10-02,News & Politics,3,149585.66666666666,0.3283666666666667,26918.333333333332
+2020-10-03,News & Politics,1,101488.0,-0.4588,3815.0
+2020-10-03,Tech & Programming,1,1380.0,0.8271,101.0
+2020-10-04,General Discussion & Trends,1,82510.0,-0.34,28257.0
+2020-10-04,News & Politics,1,120491.0,0.4767,4646.0
+2020-10-05,General Discussion & Trends,1,83332.0,0.4939,8859.0
+2020-10-05,News & Politics,1,90339.0,-0.4927,6010.0
+2020-10-06,Entertainment & Pop Culture,1,79873.0,0.0,3084.0
+2020-10-06,General Discussion & Trends,1,95269.0,0.4019,9873.0
+2020-10-07,News & Politics,2,103977.0,0.064,4668.0
+2020-10-08,Health & Psychology,1,900.0,-0.9349,55.0
+2020-10-08,News & Politics,1,93846.0,0.5859,2646.0
+2020-10-12,Entertainment & Pop Culture,1,127141.0,0.3182,4086.0
+2020-10-12,General Discussion & Trends,1,19853.0,-0.2003,2638.0
+2020-10-12,Health & Psychology,1,933.0,0.8245,114.0
+2020-10-13,Entertainment & Pop Culture,2,143899.5,0.17,2828.5
+2020-10-13,General Discussion & Trends,2,104867.0,0.125,9446.0
+2020-10-13,Tech & Programming,1,1921.0,0.0,47.0
+2020-10-14,General Discussion & Trends,1,96208.0,0.0,4447.0
+2020-10-14,Health & Psychology,1,676.0,0.3678,117.0
+2020-10-15,General Discussion & Trends,1,25046.0,0.0,1300.0
+2020-10-16,News & Politics,1,100772.0,-0.2668,5031.0
+2020-10-17,Entertainment & Pop Culture,1,90264.0,0.0,2218.0
+2020-10-17,News & Politics,1,135303.0,-0.6249,16111.0
+2020-10-17,Tech & Programming,1,2137.0,0.296,136.0
+2020-10-18,Tech & Programming,1,1352.0,0.0,188.0
+2020-10-19,General Discussion & Trends,1,85324.0,-0.5574,23770.0
+2020-10-19,Health & Psychology,1,751.0,0.9772,40.0
+2020-10-20,Entertainment & Pop Culture,2,103838.0,0.23835,1886.0
+2020-10-20,Tech & Programming,1,7036.0,0.7269,1455.0
+2020-10-21,General Discussion & Trends,1,120708.0,-0.5574,4026.0
+2020-10-22,Entertainment & Pop Culture,1,115207.0,0.0,6460.0
+2020-10-22,General Discussion & Trends,1,120723.0,0.1531,16793.0
+2020-10-22,News & Politics,2,110891.5,-0.19975,5443.0
+2020-10-23,Entertainment & Pop Culture,1,102822.0,0.7351,2828.0
+2020-10-25,General Discussion & Trends,1,112087.0,-0.3818,1697.0
+2020-10-26,Entertainment & Pop Culture,1,160692.0,0.0,2448.0
+2020-10-27,Entertainment & Pop Culture,1,109364.0,-0.3506,9022.0
+2020-10-28,Entertainment & Pop Culture,1,88772.0,-0.4215,5880.0
+2020-10-28,General Discussion & Trends,1,88233.0,0.0,28926.0
+2020-10-29,General Discussion & Trends,2,88283.5,0.3454,10575.5
+2020-10-30,General Discussion & Trends,2,53311.5,0.11315,8282.5
+2020-10-31,Entertainment & Pop Culture,1,142692.0,0.0,6727.0
+2020-10-31,General Discussion & Trends,1,21235.0,-0.4019,2009.0
+2020-10-31,Health & Psychology,1,671.0,0.7003,60.0
+2020-10-31,News & Politics,1,95492.0,-0.1779,10144.0
+2020-11-01,Health & Psychology,1,4450.0,-0.9975,313.0
+2020-11-01,News & Politics,1,115551.0,0.1027,4008.0
+2020-11-01,Tech & Programming,1,2565.0,0.0,33.0
+2020-11-02,Entertainment & Pop Culture,1,62343.0,0.0,3875.0
+2020-11-02,Health & Psychology,2,734.0,-0.054800000000000015,49.5
+2020-11-04,News & Politics,2,104166.0,0.28595,8260.5
+2020-11-05,News & Politics,4,106874.0,-0.27237500000000003,3646.25
+2020-11-06,General Discussion & Trends,2,123689.0,0.47135,10375.5
+2020-11-06,News & Politics,3,113281.0,-0.043933333333333324,6761.0
+2020-11-07,News & Politics,3,230049.33333333334,0.47383333333333333,37444.333333333336
+2020-11-08,Entertainment & Pop Culture,1,85288.0,0.7906,2763.0
+2020-11-08,General Discussion & Trends,1,109033.0,0.5719,945.0
+2020-11-08,News & Politics,4,127815.25,-0.261625,3851.5
+2020-11-09,Entertainment & Pop Culture,1,86149.0,0.4019,1879.0
+2020-11-09,General Discussion & Trends,1,110646.0,0.2732,1917.0
+2020-11-09,News & Politics,1,100196.0,-0.0516,4533.0
+2020-11-10,Entertainment & Pop Culture,2,145833.5,-0.1591,1715.0
+2020-11-10,Health & Psychology,1,702.0,0.9903,99.0
+2020-11-11,General Discussion & Trends,1,100170.0,0.0,13263.0
+2020-11-11,News & Politics,1,125947.0,-0.296,5562.0
+2020-11-12,Entertainment & Pop Culture,1,166006.0,0.0,5671.0
+2020-11-13,General Discussion & Trends,2,67931.5,-0.21685,1533.0
+2020-11-14,Entertainment & Pop Culture,1,132272.0,-0.0516,1657.0
+2020-11-14,Health & Psychology,1,1027.0,0.6705,203.0
+2020-11-15,Tech & Programming,1,2802.0,0.0,146.0
+2020-11-16,Entertainment & Pop Culture,1,173364.0,0.4854,3532.0
+2020-11-16,Tech & Programming,1,5566.0,0.34,517.0
+2020-11-17,General Discussion & Trends,1,21706.0,-0.1154,1133.0
+2020-11-17,Health & Psychology,1,833.0,-0.34,382.0
+2020-11-17,News & Politics,2,105176.0,-0.28595,3849.5
+2020-11-18,News & Politics,1,104192.0,0.5859,6219.0
+2020-11-19,Finance & Business,1,1908.0,0.9999,247.0
+2020-11-19,General Discussion & Trends,1,103335.0,0.2263,5504.0
+2020-11-20,Health & Psychology,1,783.0,0.9594,161.0
+2020-11-20,News & Politics,2,105664.0,0.52565,2700.5
+2020-11-21,Tech & Programming,1,1979.0,0.2732,51.0
+2020-11-22,Finance & Business,1,2885.0,0.9993,470.0
+2020-11-22,General Discussion & Trends,1,28966.0,0.1779,1652.0
+2020-11-22,News & Politics,1,127213.0,0.2263,4774.0
+2020-11-24,Entertainment & Pop Culture,1,59278.0,0.5994,3250.0
+2020-11-24,News & Politics,1,91290.0,0.0,5609.0
+2020-11-25,News & Politics,1,122010.0,-0.3818,3154.0
+2020-11-26,General Discussion & Trends,1,112647.0,0.4404,14934.0
+2020-11-26,Tech & Programming,1,6095.0,0.0,357.0
+2020-11-27,Health & Psychology,1,648.0,0.5211,60.0
+2020-11-28,Entertainment & Pop Culture,1,74055.0,0.0,2588.0
+2020-11-28,Health & Psychology,1,946.0,0.6705,106.0
+2020-11-28,News & Politics,1,105238.0,-0.2263,3500.0
+2020-11-29,Entertainment & Pop Culture,2,80264.0,0.125,1603.0
+2020-11-29,Finance & Business,1,1520.0,0.999,294.0
+2020-11-29,General Discussion & Trends,1,111029.0,0.7003,4743.0
+2020-11-30,Entertainment & Pop Culture,1,125456.0,0.1354,2687.0
+2020-11-30,News & Politics,1,141343.0,0.0,4499.0
+2020-11-30,Tech & Programming,1,1326.0,0.9274,240.0
+2020-12-01,News & Politics,1,204541.0,-0.25,8380.0
+2020-12-04,Entertainment & Pop Culture,1,82737.0,0.296,5596.0
+2020-12-04,General Discussion & Trends,1,113135.0,-0.3612,2355.0
+2020-12-04,News & Politics,1,90538.0,0.2732,2608.0
+2020-12-05,Entertainment & Pop Culture,1,136565.0,0.34,1481.0
+2020-12-05,News & Politics,1,99894.0,-0.296,3132.0
+2020-12-06,Health & Psychology,1,897.0,-0.9919,101.0
+2020-12-06,Tech & Programming,1,970.0,0.9999,105.0
+2020-12-07,General Discussion & Trends,1,19195.0,0.0,947.0
+2020-12-07,News & Politics,1,126448.0,-0.296,3398.0
+2020-12-07,Tech & Programming,1,4106.0,0.0,72.0
+2020-12-08,General Discussion & Trends,1,85872.0,-0.128,45954.0
+2020-12-08,News & Politics,1,92199.0,0.0,3684.0
+2020-12-09,General Discussion & Trends,1,102208.0,-0.1774,1333.0
+2020-12-10,Entertainment & Pop Culture,1,154537.0,0.0,1951.0
+2020-12-10,Finance & Business,1,2264.0,0.8225,120.0
+2020-12-10,News & Politics,1,97088.0,-0.5267,2791.0
+2020-12-11,Entertainment & Pop Culture,2,115316.5,0.1591,3397.0
+2020-12-12,General Discussion & Trends,1,119652.0,0.1477,1975.0
+2020-12-12,Tech & Programming,1,1010.0,0.0,39.0
+2020-12-14,General Discussion & Trends,1,33861.0,0.9537,4196.0
+2020-12-14,News & Politics,1,115228.0,0.0772,6202.0
+2020-12-14,Tech & Programming,1,6554.0,-0.5106,575.0
+2020-12-15,General Discussion & Trends,2,113687.0,0.03975000000000001,2281.0
+2020-12-15,News & Politics,1,113485.0,0.0,4200.0
+2020-12-16,General Discussion & Trends,1,26843.0,0.3612,1724.0
+2020-12-16,Health & Psychology,1,892.0,0.6656,73.0
+2020-12-16,News & Politics,1,119307.0,0.3182,4775.0
+2020-12-17,Entertainment & Pop Culture,1,79326.0,0.0,3168.0
+2020-12-18,News & Politics,1,97633.0,0.2732,4082.0
+2020-12-19,General Discussion & Trends,1,22678.0,0.3612,1332.0
+2020-12-19,Health & Psychology,1,1047.0,-0.5859,36.0
+2020-12-19,News & Politics,1,101877.0,0.0,2342.0
+2020-12-20,Health & Psychology,1,788.0,0.9114,46.0
+2020-12-20,News & Politics,1,94528.0,-0.765,3381.0
+2020-12-22,News & Politics,2,104119.5,-0.07244999999999999,3444.0
+2020-12-22,Tech & Programming,1,1066.0,0.0,53.0
+2020-12-23,Entertainment & Pop Culture,1,47268.0,0.5267,10758.0
+2020-12-23,News & Politics,1,95018.0,0.1586,4036.0
+2020-12-25,Entertainment & Pop Culture,2,194091.0,0.31845,3739.0
+2020-12-25,General Discussion & Trends,2,55224.0,-0.32730000000000004,15940.5
+2020-12-25,Health & Psychology,1,788.0,0.9476,29.0
+2020-12-26,General Discussion & Trends,2,142900.0,0.3155,6018.5
+2020-12-26,News & Politics,1,94020.0,-0.9274,1475.0
+2020-12-27,Entertainment & Pop Culture,1,127248.0,0.0,1952.0
+2020-12-27,General Discussion & Trends,2,22676.0,-0.24534999999999998,1505.0
+2020-12-27,Tech & Programming,1,3259.0,0.0,65.0
+2020-12-28,Entertainment & Pop Culture,1,142463.0,0.5106,1829.0
+2020-12-28,Health & Psychology,1,4315.0,0.8625,150.0
+2020-12-30,Health & Psychology,1,669.0,-0.5854,46.0
+2020-12-31,Entertainment & Pop Culture,1,52717.0,0.9934,3208.0
+2020-12-31,Health & Psychology,1,643.0,0.9828,94.0
+2020-12-31,News & Politics,2,108405.5,-0.1909,3480.5
+2021-01-02,General Discussion & Trends,1,25614.0,0.4939,652.0
+2021-01-02,Tech & Programming,1,2207.0,-0.3612,55.0
+2021-01-03,Health & Psychology,1,915.0,0.8837,48.0
+2021-01-03,News & Politics,1,111272.0,-0.9958,23026.0
+2021-01-03,Tech & Programming,1,5837.0,0.0,1146.0
+2021-01-05,General Discussion & Trends,2,144072.5,-0.1716,2853.5
+2021-01-05,News & Politics,1,96390.0,0.0772,5211.0
+2021-01-06,News & Politics,6,109539.83333333333,-0.21341666666666667,6356.666666666667
+2021-01-07,Entertainment & Pop Culture,1,126385.0,0.0,4434.0
+2021-01-07,News & Politics,4,111285.75,-0.01880000000000001,4608.25
+2021-01-08,Entertainment & Pop Culture,1,49671.0,0.0,4726.0
+2021-01-08,General Discussion & Trends,1,24575.0,0.6513,1282.0
+2021-01-08,News & Politics,3,129241.0,-0.5189,19218.666666666668
+2021-01-09,General Discussion & Trends,1,92616.0,-0.4404,21655.0
+2021-01-09,Health & Psychology,1,3174.0,0.0772,247.0
+2021-01-09,News & Politics,2,116588.5,0.3812,3221.5
+2021-01-09,Tech & Programming,1,1025.0,0.0,64.0
+2021-01-10,News & Politics,3,107272.33333333333,-0.5121,8432.666666666666
+2021-01-10,Tech & Programming,1,6288.0,0.0,135.0
+2021-01-11,Entertainment & Pop Culture,1,78080.0,-0.296,2855.0
+2021-01-11,News & Politics,4,105039.25,-0.3661,5005.0
+2021-01-12,Entertainment & Pop Culture,1,137578.0,0.4215,827.0
+2021-01-12,Health & Psychology,1,722.0,0.8842,77.0
+2021-01-12,News & Politics,2,98391.5,-0.2787,4268.0
+2021-01-12,Tech & Programming,1,6927.0,0.0,434.0
+2021-01-13,Entertainment & Pop Culture,1,173214.0,-0.6486,8462.0
+2021-01-13,General Discussion & Trends,1,96683.0,0.0,4906.0
+2021-01-13,Health & Psychology,1,1296.0,-0.8748,170.0
+2021-01-13,News & Politics,4,125946.25,-0.5321,13232.75
+2021-01-14,General Discussion & Trends,1,104509.0,0.0,8874.0
+2021-01-14,News & Politics,2,107804.0,-0.2787,4755.0
+2021-01-16,General Discussion & Trends,1,21350.0,0.0,1930.0
+2021-01-16,News & Politics,2,104691.0,-0.43784999999999996,6716.5
+2021-01-16,Tech & Programming,1,2246.0,0.5859,175.0
+2021-01-17,General Discussion & Trends,1,21124.0,0.8316,1526.0
+2021-01-18,General Discussion & Trends,1,29164.0,0.296,1793.0
+2021-01-18,Health & Psychology,1,638.0,0.906,80.0
+2021-01-18,News & Politics,2,122125.0,-0.52565,5498.0
+2021-01-19,General Discussion & Trends,1,122411.0,0.4939,1271.0
+2021-01-19,News & Politics,3,107331.33333333333,-0.4044666666666667,6754.666666666667
+2021-01-20,News & Politics,6,148715.83333333334,-0.011200000000000007,11109.0
+2021-01-21,General Discussion & Trends,2,113566.5,-0.07200000000000001,5582.0
+2021-01-21,Health & Psychology,1,696.0,0.8318,128.0
+2021-01-21,News & Politics,2,112968.5,-0.41355,5850.5
+2021-01-22,Finance & Business,1,96712.0,0.2732,6086.0
+2021-01-22,General Discussion & Trends,1,117815.0,0.0,10252.0
+2021-01-23,Finance & Business,1,2153.0,0.9509,315.0
+2021-01-23,News & Politics,1,106859.0,-0.6369,4715.0
+2021-01-24,News & Politics,2,101224.0,-0.05135,4034.0
+2021-01-25,Finance & Business,1,87530.0,0.2732,5319.0
+2021-01-25,General Discussion & Trends,1,102259.0,-0.743,2845.0
+2021-01-25,Health & Psychology,1,2896.0,0.9042,152.0
+2021-01-25,News & Politics,1,121163.0,-0.5859,4631.0
+2021-01-26,Entertainment & Pop Culture,1,150863.0,0.2411,4444.0
+2021-01-26,Finance & Business,1,140301.0,0.2732,9293.0
+2021-01-26,News & Politics,2,104773.5,0.35229999999999995,3720.0
+2021-01-27,Entertainment & Pop Culture,1,77098.0,0.0,2852.0
+2021-01-27,Finance & Business,4,138123.75,0.0683,5270.5
+2021-01-28,Finance & Business,36,139438.0,0.01796111111111111,5746.888888888889
+2021-01-28,General Discussion & Trends,4,95374.25,0.017100000000000018,5723.75
+2021-01-28,News & Politics,3,114031.33333333333,-0.5647666666666666,5657.666666666667
+2021-01-29,Finance & Business,19,137261.7894736842,0.2530263157894737,8260.421052631578
+2021-01-29,News & Politics,3,117746.66666666667,-0.5670666666666667,3253.0
+2021-01-30,Finance & Business,11,172914.18181818182,0.26330000000000003,5297.818181818182
+2021-01-31,Finance & Business,5,148213.2,0.1697,4293.0
+2021-01-31,Health & Psychology,1,678.0,0.9958,30.0
+2021-01-31,News & Politics,1,140600.0,-0.3182,5845.0
+2021-02-01,Entertainment & Pop Culture,1,172839.0,0.5719,2202.0
+2021-02-01,Finance & Business,11,122684.63636363637,0.1551818181818182,5436.818181818182
+2021-02-02,Entertainment & Pop Culture,1,55031.0,0.6124,1177.0
+2021-02-02,Finance & Business,11,123820.45454545454,-0.10189090909090909,6626.727272727273
+2021-02-02,General Discussion & Trends,1,115084.0,0.34,3370.0
+2021-02-02,News & Politics,2,97299.0,-0.3548,3361.0
+2021-02-03,Entertainment & Pop Culture,1,53702.0,-0.5719,3131.0
+2021-02-03,Finance & Business,8,110393.875,0.10173750000000002,5301.875
+2021-02-03,General Discussion & Trends,1,140963.0,0.8436,2386.0
+2021-02-04,Entertainment & Pop Culture,1,79330.0,-0.4101,1868.0
+2021-02-04,News & Politics,1,126515.0,-0.8428,3193.0
+2021-02-05,Entertainment & Pop Culture,1,133442.0,0.0,1090.0
+2021-02-05,Finance & Business,2,111187.5,0.0,3607.0
+2021-02-05,News & Politics,2,112044.0,0.148,6482.0
+2021-02-05,Tech & Programming,1,955.0,-0.7652,231.0
+2021-02-06,Finance & Business,1,128432.0,0.4404,3249.0
+2021-02-06,News & Politics,1,93713.0,0.4767,3803.0
+2021-02-07,Entertainment & Pop Culture,2,154845.5,0.0,1868.0
+2021-02-07,Finance & Business,2,103739.5,0.07694999999999999,2304.0
+2021-02-07,General Discussion & Trends,1,102128.0,0.0,3882.0
+2021-02-07,Tech & Programming,1,3428.0,0.0,75.0
+2021-02-08,Finance & Business,1,107390.0,0.0,1752.0
+2021-02-08,Health & Psychology,1,652.0,0.6369,55.0
+2021-02-08,News & Politics,1,109371.0,-0.8957,8477.0
+2021-02-09,General Discussion & Trends,1,90342.0,-0.6757,8567.0
+2021-02-09,Health & Psychology,1,1175.0,0.7954,75.0
+2021-02-10,Entertainment & Pop Culture,1,148465.0,0.5267,1057.0
+2021-02-10,Finance & Business,1,93521.0,0.0,1828.0
+2021-02-10,General Discussion & Trends,1,168554.0,-0.802,3325.0
+2021-02-10,Tech & Programming,1,931.0,-0.7452,53.0
+2021-02-11,News & Politics,1,90765.0,-0.4588,3689.0
+2021-02-12,Entertainment & Pop Culture,1,76148.0,0.0,2080.0
+2021-02-12,News & Politics,2,138913.0,-0.5344,3956.0
+2021-02-13,Finance & Business,1,1866.0,0.9278,225.0
+2021-02-14,Tech & Programming,1,2772.0,0.9929,102.0
+2021-02-15,Finance & Business,2,103865.5,0.2294,2452.0
+2021-02-15,Health & Psychology,1,1299.0,0.4351,97.0
+2021-02-15,Tech & Programming,1,979.0,0.9612,324.0
+2021-02-16,Finance & Business,1,1582.0,0.7583,315.0
+2021-02-16,General Discussion & Trends,1,88550.0,-0.3535,11324.0
+2021-02-16,News & Politics,1,92569.0,-0.7906,4374.0
+2021-02-17,News & Politics,1,115733.0,-0.6486,423.0
+2021-02-18,Finance & Business,4,116698.0,0.23322500000000002,3659.25
+2021-02-18,Health & Psychology,1,667.0,-0.8797,47.0
+2021-02-18,News & Politics,2,99731.0,0.07220000000000001,5501.0
+2021-02-18,Tech & Programming,1,6772.0,0.3612,764.0
+2021-02-19,Finance & Business,4,134473.0,-0.014399999999999996,5169.25
+2021-02-19,General Discussion & Trends,1,23011.0,-0.4215,550.0
+2021-02-19,News & Politics,1,97694.0,0.4767,4991.0
+2021-02-20,Finance & Business,2,91366.5,-0.25085,1891.0
+2021-02-21,Finance & Business,1,89264.0,0.0,1806.0
+2021-02-21,News & Politics,1,137990.0,-0.5267,8701.0
+2021-02-21,Tech & Programming,1,1617.0,0.0,40.0
+2021-02-22,Entertainment & Pop Culture,1,162514.0,0.0,3093.0
+2021-02-24,Finance & Business,1,84186.0,-0.2411,6039.0
+2021-02-25,Finance & Business,3,107786.33333333333,0.17149999999999999,4688.0
+2021-02-25,News & Politics,1,95615.0,0.0,5881.0
+2021-02-26,Finance & Business,3,106536.0,0.09106666666666667,4052.6666666666665
+2021-02-28,Finance & Business,1,108270.0,0.0,2131.0
+2021-02-28,General Discussion & Trends,1,19273.0,0.0,1362.0
+2021-02-28,News & Politics,1,91285.0,-0.3182,6324.0
+2021-02-28,Tech & Programming,2,11900.0,0.04400000000000001,613.0
+2021-03-01,Entertainment & Pop Culture,2,148104.0,0.1591,3736.5
+2021-03-02,News & Politics,1,111589.0,0.0,3735.0
+2021-03-03,General Discussion & Trends,2,103714.0,0.011999999999999997,5816.5
+2021-03-04,Finance & Business,2,86972.5,0.4965,1876.5
+2021-03-04,News & Politics,1,92057.0,0.0,6480.0
+2021-03-05,Finance & Business,1,86520.0,0.0,1062.0
+2021-03-07,Finance & Business,1,120727.0,0.0,12374.0
+2021-03-08,Finance & Business,2,86954.5,0.6332,4161.0
+2021-03-08,Health & Psychology,1,800.0,0.6249,41.0
+2021-03-08,News & Politics,1,137803.0,-0.2732,5767.0
+2021-03-09,Entertainment & Pop Culture,2,119254.0,-0.58375,3312.5
+2021-03-09,Finance & Business,1,101615.0,0.6597,2477.0
+2021-03-09,General Discussion & Trends,1,99335.0,0.4215,3431.0
+2021-03-09,News & Politics,1,112716.0,0.128,8397.0
+2021-03-10,Finance & Business,1,103948.0,0.0,1660.0
+2021-03-10,Health & Psychology,1,1759.0,0.0402,116.0
+2021-03-11,Finance & Business,1,1356.0,0.9109,475.0
+2021-03-12,Finance & Business,1,87741.0,-0.3182,3655.0
+2021-03-12,Tech & Programming,1,4943.0,0.0,380.0
+2021-03-13,Finance & Business,2,140865.0,0.0,3900.5
+2021-03-13,General Discussion & Trends,1,19828.0,0.5423,800.0
+2021-03-13,Tech & Programming,1,1943.0,0.4588,101.0
+2021-03-14,Finance & Business,1,86024.0,0.3612,764.0
+2021-03-14,General Discussion & Trends,1,102797.0,0.0025,1365.0
+2021-03-14,Tech & Programming,1,3710.0,0.4019,174.0
+2021-03-15,Finance & Business,1,123572.0,0.0,2758.0
+2021-03-16,Tech & Programming,1,5109.0,-0.0516,446.0
+2021-03-17,Finance & Business,1,90635.0,0.4404,844.0
+2021-03-17,General Discussion & Trends,2,125316.5,0.18935000000000002,2583.0
+2021-03-17,Health & Psychology,1,3039.0,0.0,81.0
+2021-03-17,News & Politics,1,101465.0,-0.2023,4927.0
+2021-03-18,Entertainment & Pop Culture,1,67411.0,-0.5267,7737.0
+2021-03-18,News & Politics,1,99684.0,-0.4404,4227.0
+2021-03-18,Tech & Programming,1,4617.0,0.4939,131.0
+2021-03-20,General Discussion & Trends,1,20437.0,-0.2023,108.0
+2021-03-21,Tech & Programming,1,2607.0,-0.0772,408.0
+2021-03-22,Health & Psychology,1,637.0,0.4951,66.0
+2021-03-23,Finance & Business,1,130557.0,0.2732,8057.0
+2021-03-24,Finance & Business,1,102345.0,0.2732,5692.0
+2021-03-24,General Discussion & Trends,1,31463.0,-0.1901,1.0
+2021-03-25,Finance & Business,1,86208.0,-0.7906,1402.0
+2021-03-25,General Discussion & Trends,1,109555.0,-0.3182,1616.0
+2021-03-25,Tech & Programming,1,1437.0,0.0,93.0
+2021-03-26,General Discussion & Trends,1,103684.0,0.4767,17295.0
+2021-03-26,News & Politics,1,117415.0,0.0,5867.0
+2021-03-27,Finance & Business,1,109828.0,0.8225,1756.0
+2021-03-27,General Discussion & Trends,1,27316.0,0.5719,3569.0
+2021-03-28,Finance & Business,1,142592.0,0.0,2371.0
+2021-03-31,Finance & Business,1,104716.0,0.2732,3985.0
+2021-03-31,Health & Psychology,1,1149.0,0.9868,115.0
+2021-04-01,Finance & Business,1,1531.0,0.9981,307.0
+2021-04-01,General Discussion & Trends,1,26381.0,-0.6478,1198.0
+2021-04-01,News & Politics,1,132559.0,0.5574,7556.0
+2021-04-02,Finance & Business,1,87592.0,0.2732,2686.0
+2021-04-03,General Discussion & Trends,1,95637.0,0.994,3421.0
+2021-04-04,News & Politics,2,115933.5,-0.5971,3610.5
+2021-04-05,Tech & Programming,1,6472.0,-0.2344,640.0
+2021-04-06,General Discussion & Trends,2,108030.5,0.4588,6912.0
+2021-04-06,News & Politics,1,113890.0,0.5773,4973.0
+2021-04-07,Entertainment & Pop Culture,1,146699.0,0.8456,3131.0
+2021-04-08,Tech & Programming,1,1888.0,0.8909,89.0
+2021-04-09,Health & Psychology,1,731.0,0.4939,57.0
+2021-04-09,News & Politics,1,125167.0,0.0,13587.0
+2021-04-09,Tech & Programming,1,6681.0,-0.1531,759.0
+2021-04-10,Tech & Programming,1,974.0,-0.561,159.0
+2021-04-12,Tech & Programming,1,1267.0,0.6472,111.0
+2021-04-14,General Discussion & Trends,1,85267.0,0.0,12700.0
+2021-04-16,Finance & Business,1,176205.0,0.2732,17834.0
+2021-04-16,General Discussion & Trends,1,19046.0,-0.5859,1447.0
+2021-04-19,General Discussion & Trends,1,101261.0,0.128,3222.0
+2021-04-20,News & Politics,1,250272.0,-0.9081,27566.0
+2021-04-22,News & Politics,1,141172.0,0.0772,6027.0
+2021-04-23,Tech & Programming,1,5499.0,0.5849,400.0
+2021-04-24,Finance & Business,1,87118.0,0.0,2349.0
+2021-04-24,General Discussion & Trends,1,116526.0,0.5719,2118.0
+2021-04-24,News & Politics,1,124724.0,-0.5994,7135.0
+2021-04-25,General Discussion & Trends,1,98428.0,0.7935,7577.0
+2021-04-27,General Discussion & Trends,1,21282.0,0.6372,5218.0
+2021-04-27,News & Politics,1,112349.0,-0.296,4980.0
+2021-04-28,Health & Psychology,2,686.5,0.7075,63.5
+2021-04-28,News & Politics,1,113077.0,-0.7845,6482.0
+2021-04-29,General Discussion & Trends,1,118601.0,-0.1531,4708.0
+2021-04-30,General Discussion & Trends,1,103786.0,0.0,4421.0
+2021-04-30,News & Politics,1,120866.0,-0.2263,5760.0
+2021-05-01,Tech & Programming,1,4670.0,0.0,214.0
+2021-05-02,General Discussion & Trends,1,90889.0,-0.128,13316.0
+2021-05-02,Tech & Programming,1,1136.0,0.5106,23.0
+2021-05-03,Health & Psychology,1,722.0,-0.1531,305.0
+2021-05-04,Entertainment & Pop Culture,1,124509.0,0.0,2412.0
+2021-05-09,General Discussion & Trends,1,21867.0,0.0,1659.0
+2021-05-11,General Discussion & Trends,1,88031.0,0.0,25635.0
+2021-05-15,Tech & Programming,1,9597.0,-0.5228,805.0
+2021-05-16,News & Politics,1,105964.0,-0.296,5341.0
+2021-05-16,Tech & Programming,1,6140.0,0.0,229.0
+2021-05-20,Tech & Programming,1,954.0,0.8885,108.0
+2021-05-23,General Discussion & Trends,1,21380.0,0.3919,942.0
+2021-05-24,News & Politics,1,120598.0,0.0,4595.0
+2021-05-25,Entertainment & Pop Culture,1,148506.0,0.6705,2512.0
+2021-05-28,Tech & Programming,1,936.0,0.9807,69.0
+2021-05-29,Tech & Programming,1,1216.0,0.0,70.0
+2021-05-30,Entertainment & Pop Culture,1,90149.0,-0.9042,6481.0
+2021-06-01,Tech & Programming,1,974.0,0.946,240.0
+2021-06-03,General Discussion & Trends,1,135887.0,0.0,4001.0
+2021-06-07,Tech & Programming,1,1068.0,0.9937,188.0
+2021-06-10,Tech & Programming,1,4836.0,-0.5994,595.0
+2021-06-11,News & Politics,1,107603.0,0.7096,4553.0
+2021-06-12,Health & Psychology,1,716.0,-0.8862,146.0
+2021-06-14,Entertainment & Pop Culture,1,170859.0,0.0,6915.0
+2021-06-14,Health & Psychology,1,868.0,0.8442,212.0
+2021-06-15,Entertainment & Pop Culture,1,137914.0,0.5719,2734.0
+2021-06-16,Entertainment & Pop Culture,1,43212.0,-0.1779,6033.0
+2021-06-19,Tech & Programming,2,3383.5,0.148,483.0
+2021-06-20,Tech & Programming,1,1228.0,0.9545,61.0
+2021-06-23,Finance & Business,1,1579.0,0.9881,163.0
+2021-06-23,Health & Psychology,1,690.0,0.6028,93.0
+2021-06-25,News & Politics,1,157572.0,-0.8442,17519.0
+2021-06-26,Tech & Programming,1,2407.0,0.0,101.0
+2021-06-29,Entertainment & Pop Culture,1,80221.0,-0.5267,4105.0
+2021-07-04,General Discussion & Trends,1,91382.0,0.8437,18566.0
+2021-07-05,Tech & Programming,1,3916.0,-0.0258,175.0
+2021-07-06,General Discussion & Trends,1,32096.0,-0.7269,293.0
+2021-07-08,General Discussion & Trends,1,82815.0,0.3506,24021.0
+2021-07-10,Tech & Programming,1,1203.0,0.0,75.0
+2021-07-11,Tech & Programming,1,4875.0,0.0,236.0
+2021-07-12,Entertainment & Pop Culture,1,42583.0,0.9062,873.0
+2021-07-12,Tech & Programming,2,2342.5,0.40164999999999995,76.5
+2021-07-14,Health & Psychology,1,796.0,0.919,78.0
+2021-07-14,News & Politics,1,112007.0,-0.7184,3778.0
+2021-07-16,General Discussion & Trends,1,87286.0,0.0,24461.0
+2021-07-18,Finance & Business,1,1404.0,0.296,1022.0
+2021-07-19,Entertainment & Pop Culture,1,145585.0,0.0,3127.0
+2021-07-20,Entertainment & Pop Culture,1,127370.0,0.0,3639.0
+2021-07-21,Finance & Business,1,1611.0,-0.0946,347.0
+2021-07-22,Tech & Programming,1,952.0,0.9842,181.0
+2021-07-25,Finance & Business,1,85578.0,0.3612,1210.0
+2021-07-26,News & Politics,1,127707.0,0.5719,2480.0
+2021-07-26,Tech & Programming,1,1773.0,-0.4019,27.0
+2021-07-28,Entertainment & Pop Culture,1,77697.0,0.25,2102.0
+2021-07-29,Entertainment & Pop Culture,1,72067.0,0.0,7460.0
+2021-07-29,General Discussion & Trends,1,34943.0,0.9945,795.0
+2021-08-03,General Discussion & Trends,1,104332.0,0.3818,1834.0
+2021-08-08,Finance & Business,1,1739.0,0.9568,266.0
+2021-08-08,Health & Psychology,1,666.0,-0.2537,75.0
+2021-08-12,News & Politics,1,112925.0,0.2023,3249.0
+2021-08-14,Finance & Business,1,1561.0,0.9997,331.0
+2021-08-16,Tech & Programming,1,2153.0,0.4215,131.0
+2021-08-17,Entertainment & Pop Culture,1,130251.0,0.0,1489.0
+2021-08-17,Finance & Business,1,1554.0,0.6288,296.0
+2021-08-17,News & Politics,1,106514.0,-0.8402,2157.0
+2021-08-18,Tech & Programming,2,1604.5,0.7468999999999999,177.0
+2021-08-19,Tech & Programming,1,1304.0,0.9555,155.0
+2021-08-22,Tech & Programming,1,6340.0,0.0,1141.0
+2021-08-25,General Discussion & Trends,1,42256.0,-0.3182,2.0
+2021-08-28,Tech & Programming,1,5616.0,0.0,1965.0
+2021-08-30,Tech & Programming,1,2869.0,0.0,53.0
+2021-09-01,Entertainment & Pop Culture,1,134812.0,0.2263,1407.0
+2021-09-01,News & Politics,1,109050.0,0.1027,9673.0
+2021-09-07,Entertainment & Pop Culture,1,80323.0,0.0,5228.0
+2021-09-07,News & Politics,1,123430.0,0.0,3817.0
+2021-09-08,Tech & Programming,1,896.0,0.0,76.0
+2021-09-09,Entertainment & Pop Culture,1,78375.0,0.0,13574.0
+2021-09-10,News & Politics,1,114264.0,0.0,6352.0
+2021-09-12,Tech & Programming,1,2850.0,0.5423,60.0
+2021-09-14,Entertainment & Pop Culture,1,75473.0,0.0,2058.0
+2021-09-14,Finance & Business,1,1377.0,0.9996,204.0
+2021-09-14,News & Politics,1,109210.0,0.6705,6843.0
+2021-09-17,Entertainment & Pop Culture,1,44417.0,-0.2023,3145.0
+2021-09-24,Tech & Programming,1,13888.0,0.0,599.0
+2021-09-29,Entertainment & Pop Culture,1,125491.0,0.4767,2922.0
+2021-09-29,News & Politics,1,108287.0,0.0,3088.0
+2021-09-30,Tech & Programming,1,1204.0,-0.4767,154.0
+2021-10-04,General Discussion & Trends,1,148724.0,0.5267,13789.0
+2021-10-07,General Discussion & Trends,1,23706.0,0.0,2367.0
+2021-10-08,Tech & Programming,1,10996.0,0.2263,694.0
+2021-10-10,Entertainment & Pop Culture,1,72440.0,0.0,5928.0
+2021-10-16,Tech & Programming,2,1346.5,0.24695,49.0
+2021-10-17,Finance & Business,1,1892.0,0.9153,253.0
+2021-10-18,Finance & Business,1,89920.0,0.0,1845.0
+2021-10-19,Tech & Programming,1,1672.0,0.0,247.0
+2021-10-20,Health & Psychology,1,724.0,-0.8728,90.0
+2021-10-22,Entertainment & Pop Culture,1,75439.0,-0.7096,12732.0
+2021-10-22,Tech & Programming,1,1417.0,0.6717,64.0
+2021-10-24,Tech & Programming,2,6619.0,-0.37895,688.0
+2021-10-25,News & Politics,1,94683.0,-0.5574,4781.0
+2021-10-26,Entertainment & Pop Culture,1,109681.0,0.128,6473.0
+2021-10-27,Tech & Programming,1,1206.0,0.4767,175.0
+2021-10-28,Tech & Programming,1,6052.0,0.4449,499.0
+2021-10-31,General Discussion & Trends,1,117268.0,-0.9153,3007.0
+2021-10-31,Tech & Programming,1,1310.0,0.0,26.0
+2021-11-01,News & Politics,1,107695.0,0.0,9910.0
+2021-11-02,Finance & Business,1,2962.0,-0.2023,540.0
+2021-11-04,Finance & Business,1,1881.0,0.9991,239.0
+2021-11-06,Tech & Programming,1,2003.0,0.0,102.0
+2021-11-07,Entertainment & Pop Culture,2,52507.5,-0.8851,4396.5
+2021-11-07,News & Politics,1,135999.0,-0.6597,8904.0
+2021-11-08,Tech & Programming,1,1635.0,0.9978,215.0
+2021-11-11,Tech & Programming,1,2328.0,-0.296,266.0
+2021-11-12,News & Politics,1,117517.0,0.0,3744.0
+2021-11-13,Health & Psychology,1,2713.0,0.9707,94.0
+2021-11-14,Entertainment & Pop Culture,1,48788.0,-0.3612,1152.0
+2021-11-15,Entertainment & Pop Culture,1,169317.0,0.0,4413.0
+2021-11-15,Finance & Business,1,1792.0,0.9693,277.0
+2021-11-15,News & Politics,1,143251.0,-0.4215,6289.0
+2021-11-17,Entertainment & Pop Culture,1,79313.0,0.0,5686.0
+2021-11-21,Health & Psychology,1,3083.0,0.4033,393.0
+2021-11-21,Tech & Programming,1,1389.0,-0.4215,205.0
+2021-11-22,Tech & Programming,1,2562.0,-0.4019,46.0
+2021-11-24,News & Politics,1,131493.0,-0.7579,14495.0
+2021-11-27,Tech & Programming,1,1032.0,0.0,38.0
+2021-11-28,Entertainment & Pop Culture,1,132820.0,0.0,7891.0
+2021-11-30,Entertainment & Pop Culture,1,59147.0,-0.8176,5236.0
+2021-11-30,Health & Psychology,1,786.0,0.9903,71.0
+2021-12-03,Health & Psychology,1,1286.0,0.8303,99.0
+2021-12-06,Tech & Programming,1,997.0,0.4019,22.0
+2021-12-07,General Discussion & Trends,1,23503.0,0.0516,1325.0
+2021-12-07,News & Politics,1,112246.0,0.0772,2770.0
+2021-12-11,Tech & Programming,1,2069.0,0.0,50.0
+2021-12-14,Tech & Programming,1,1037.0,0.7251,114.0
+2021-12-19,General Discussion & Trends,1,24133.0,0.9769,2087.0
+2021-12-20,Tech & Programming,1,16139.0,-0.5574,1039.0
+2021-12-21,General Discussion & Trends,1,114981.0,-0.296,4614.0
+2021-12-22,Tech & Programming,1,1347.0,-0.3412,282.0
+2021-12-25,Tech & Programming,1,1806.0,0.0,51.0
+2021-12-26,Tech & Programming,2,1600.5,0.1806,51.5
+2021-12-27,Finance & Business,1,1915.0,0.9997,168.0
+2021-12-28,Finance & Business,1,87277.0,0.0,1903.0
+2021-12-29,Health & Psychology,1,903.0,0.9793,80.0
+2021-12-29,News & Politics,1,150170.0,-0.4215,7709.0
+2021-12-31,Finance & Business,1,85114.0,0.3182,1325.0
+2021-12-31,News & Politics,1,162049.0,0.0,8312.0
+2022-01-01,Tech & Programming,1,12393.0,0.0,1149.0
+2022-01-02,General Discussion & Trends,1,20964.0,0.0,2364.0
+2022-01-05,News & Politics,1,133834.0,0.2263,3510.0
+2022-01-06,News & Politics,1,106851.0,0.4019,2791.0
+2022-01-07,News & Politics,1,110724.0,-0.8271,6139.0
+2022-01-08,Finance & Business,1,1418.0,0.3612,121.0
+2022-01-10,Tech & Programming,2,1283.0,0.0,65.5
+2022-01-12,Finance & Business,1,1437.0,0.9859,215.0
+2022-01-13,Finance & Business,1,1570.0,0.9979,405.0
+2022-01-14,Health & Psychology,1,4005.0,0.8122,590.0
+2022-01-15,Tech & Programming,1,2726.0,0.25,73.0
+2022-01-18,Entertainment & Pop Culture,1,140123.0,0.0,5917.0
+2022-01-18,News & Politics,1,98977.0,-0.2263,2479.0
+2022-01-21,Entertainment & Pop Culture,1,133596.0,0.0,9207.0
+2022-01-22,Finance & Business,1,87702.0,0.0,846.0
+2022-01-25,Health & Psychology,1,2536.0,-0.8176,179.0
+2022-01-29,Entertainment & Pop Culture,1,58224.0,-0.5423,9023.0
+2022-01-29,Tech & Programming,1,2166.0,0.0,85.0
+2022-01-31,Tech & Programming,1,937.0,0.3612,35.0
+2022-02-01,General Discussion & Trends,1,126240.0,0.0552,2694.0
+2022-02-09,Entertainment & Pop Culture,1,90910.0,0.9867,2175.0
+2022-02-10,News & Politics,1,93801.0,0.0,3382.0
+2022-02-11,Health & Psychology,1,3130.0,-0.1027,1065.0
+2022-02-13,Tech & Programming,1,1166.0,0.0,55.0
+2022-02-14,Entertainment & Pop Culture,1,202926.0,0.5106,2746.0
+2022-02-14,Tech & Programming,1,966.0,0.0,52.0
+2022-02-15,Finance & Business,1,1731.0,0.9941,564.0
+2022-02-16,News & Politics,1,102294.0,-0.5574,3169.0
+2022-02-17,General Discussion & Trends,1,19881.0,0.6364,2126.0
+2022-02-20,News & Politics,1,138002.0,-0.2732,4903.0
+2022-02-22,Health & Psychology,1,2457.0,-0.8979,253.0
+2022-02-24,Entertainment & Pop Culture,1,73916.0,0.0,3192.0
+2022-02-24,News & Politics,4,146432.75,-0.505,15234.5
+2022-02-25,Entertainment & Pop Culture,1,52546.0,-0.4404,592.0
+2022-02-25,News & Politics,4,126962.0,-0.01235,6445.25
+2022-02-26,General Discussion & Trends,1,23301.0,0.9176,3034.0
+2022-02-26,News & Politics,2,161872.0,-0.12824999999999998,7494.5
+2022-02-27,General Discussion & Trends,1,85884.0,-0.6012,17806.0
+2022-02-27,News & Politics,3,106513.33333333333,-0.025899999999999996,5676.0
+2022-02-28,Entertainment & Pop Culture,1,89775.0,0.4019,1533.0
+2022-02-28,News & Politics,2,161963.5,0.11315,5419.5
+2022-03-01,News & Politics,1,109446.0,-0.5994,3549.0
+2022-03-02,News & Politics,3,118564.66666666667,-0.2772,5276.333333333333
+2022-03-04,General Discussion & Trends,1,118822.0,-0.7579,2307.0
+2022-03-04,News & Politics,3,123682.66666666667,-0.6446333333333333,8285.333333333334
+2022-03-05,News & Politics,1,107684.0,-0.34,8452.0
+2022-03-06,Tech & Programming,2,3337.5,-0.1482,443.0
+2022-03-07,Health & Psychology,1,7644.0,0.0,636.0
+2022-03-07,News & Politics,1,122784.0,-0.765,2659.0
+2022-03-08,Entertainment & Pop Culture,1,42360.0,0.0,1044.0
+2022-03-09,Tech & Programming,1,1813.0,0.9996,148.0
+2022-03-10,Entertainment & Pop Culture,1,133943.0,0.0,869.0
+2022-03-10,News & Politics,1,119464.0,0.0,4596.0
+2022-03-11,Health & Psychology,1,34887.0,0.0,1954.0
+2022-03-11,News & Politics,1,115206.0,-0.4588,7156.0
+2022-03-12,News & Politics,1,104138.0,-0.802,4018.0
+2022-03-13,General Discussion & Trends,1,19111.0,0.0,2474.0
+2022-03-14,Finance & Business,1,2568.0,0.5988,274.0
+2022-03-15,News & Politics,1,92668.0,0.4019,9687.0
+2022-03-16,News & Politics,1,115937.0,-0.891,6333.0
+2022-03-17,General Discussion & Trends,1,21822.0,0.1531,1985.0
+2022-03-17,News & Politics,1,118763.0,-0.8176,9633.0
+2022-03-18,Entertainment & Pop Culture,1,130249.0,0.0,2280.0
+2022-03-18,News & Politics,1,153285.0,0.0,4616.0
+2022-03-19,Tech & Programming,1,1876.0,0.6808,59.0
+2022-03-20,Health & Psychology,1,2824.0,0.1027,449.0
+2022-03-20,News & Politics,1,106404.0,0.6124,7596.0
+2022-03-21,Tech & Programming,2,2864.5,-0.17435,237.0
+2022-03-23,General Discussion & Trends,1,157937.0,-0.296,3626.0
+2022-03-24,Entertainment & Pop Culture,1,93653.0,0.4019,3556.0
+2022-03-24,Tech & Programming,1,1561.0,0.0,174.0
+2022-03-26,Entertainment & Pop Culture,1,58643.0,-0.0516,5527.0
+2022-03-26,News & Politics,1,99848.0,0.0,7677.0
+2022-03-27,Entertainment & Pop Culture,1,70966.0,0.7184,1572.0
+2022-03-27,Health & Psychology,1,19348.0,-0.6249,874.0
+2022-03-28,Tech & Programming,4,1488.5,0.1147,41.5
+2022-03-30,Entertainment & Pop Culture,1,76742.0,0.0,5873.0
+2022-03-30,General Discussion & Trends,1,92504.0,0.4767,10356.0
+2022-03-31,Entertainment & Pop Culture,1,48366.0,0.1531,1058.0
+2022-04-02,Health & Psychology,1,1571.0,0.933,160.0
+2022-04-04,Tech & Programming,1,2484.0,0.0,272.0
+2022-04-07,News & Politics,1,114760.0,0.5267,7861.0
+2022-04-08,Entertainment & Pop Culture,1,102174.0,-0.4588,10519.0
+2022-04-09,Entertainment & Pop Culture,1,198557.0,0.4588,26191.0
+2022-04-10,Tech & Programming,1,1270.0,0.0,68.0
+2022-04-11,Entertainment & Pop Culture,1,95539.0,0.0,2983.0
+2022-04-11,Tech & Programming,1,939.0,-0.7419,215.0
+2022-04-12,Entertainment & Pop Culture,1,104111.0,0.3818,4792.0
+2022-04-14,Entertainment & Pop Culture,1,136078.0,0.9238,2835.0
+2022-04-17,Health & Psychology,1,2587.0,0.2023,200.0
+2022-04-18,Entertainment & Pop Culture,1,74165.0,0.6369,2870.0
+2022-04-18,Tech & Programming,1,1374.0,0.0,331.0
+2022-04-21,Health & Psychology,1,4704.0,-0.5023,455.0
+2022-04-24,News & Politics,1,139659.0,0.5719,10465.0
+2022-04-25,News & Politics,1,97976.0,-0.891,5127.0
+2022-04-27,Health & Psychology,1,5928.0,-0.2732,948.0
+2022-04-28,General Discussion & Trends,1,27558.0,0.875,1523.0
+2022-05-02,Tech & Programming,1,1683.0,0.4215,55.0
+2022-05-03,News & Politics,1,105594.0,0.3182,30243.0
+2022-05-05,Tech & Programming,1,983.0,-0.9039,182.0
+2022-05-06,General Discussion & Trends,1,118940.0,0.0,5923.0
+2022-05-08,Tech & Programming,2,4107.5,0.26085,405.5
+2022-05-09,Tech & Programming,1,1699.0,-0.3491,131.0
+2022-05-10,Entertainment & Pop Culture,1,178464.0,-0.2023,2740.0
+2022-05-10,Health & Psychology,1,634.0,-0.3844,79.0
+2022-05-10,Tech & Programming,1,1861.0,0.8866,288.0
+2022-05-12,Entertainment & Pop Culture,1,78983.0,0.34,2741.0
+2022-05-15,News & Politics,1,90295.0,0.0,3653.0
+2022-05-16,Tech & Programming,3,1855.6666666666667,-0.018199999999999994,71.0
+2022-05-22,Finance & Business,1,92574.0,0.0,4490.0
+2022-05-23,Tech & Programming,1,2117.0,0.0,83.0
+2022-05-24,General Discussion & Trends,1,25092.0,-0.8462,1221.0
+2022-05-25,Health & Psychology,1,3494.0,-0.0146,295.0
+2022-05-26,Entertainment & Pop Culture,1,88181.0,0.0,4772.0
+2022-05-26,News & Politics,1,109464.0,-0.3182,17362.0
+2022-05-27,Tech & Programming,2,1524.0,0.48855,206.0
+2022-05-28,Tech & Programming,1,1022.0,0.0,35.0
+2022-05-31,News & Politics,1,120654.0,-0.296,9799.0
+2022-06-01,News & Politics,1,174196.0,-0.4404,19222.0
+2022-06-03,Entertainment & Pop Culture,1,113006.0,0.0516,9171.0
+2022-06-03,Tech & Programming,1,5103.0,0.0,427.0
+2022-06-04,Finance & Business,1,86018.0,-0.4215,2948.0
+2022-06-04,Health & Psychology,1,9783.0,-0.4019,554.0
+2022-06-05,Tech & Programming,1,1751.0,0.0,82.0
+2022-06-08,Health & Psychology,1,3471.0,0.3626,699.0
+2022-06-08,News & Politics,1,116125.0,0.1779,2237.0
+2022-06-09,General Discussion & Trends,1,83547.0,0.4019,12342.0
+2022-06-12,Tech & Programming,2,3418.0,-0.027600000000000013,583.0
+2022-06-13,Entertainment & Pop Culture,1,136992.0,0.2732,1919.0
+2022-06-13,Tech & Programming,1,1897.0,0.0,152.0
+2022-06-15,Entertainment & Pop Culture,1,90067.0,0.0,5614.0
+2022-06-18,Health & Psychology,1,3078.0,-0.4215,225.0
+2022-06-19,Entertainment & Pop Culture,1,131698.0,0.0,2426.0
+2022-06-20,Entertainment & Pop Culture,1,127520.0,0.0,1077.0
+2022-06-22,Tech & Programming,1,1190.0,0.0,120.0
+2022-06-23,Entertainment & Pop Culture,1,78244.0,0.5574,2014.0
+2022-06-23,General Discussion & Trends,1,20939.0,-0.6187,2119.0
+2022-06-23,Health & Psychology,1,2668.0,-0.8934,79.0
+2022-06-24,News & Politics,2,119659.5,0.1366,27793.5
+2022-06-25,Entertainment & Pop Culture,1,54788.0,-0.5574,1650.0
+2022-06-25,Health & Psychology,1,1506.0,0.0,287.0
+2022-06-25,Tech & Programming,1,7289.0,-0.5574,478.0
+2022-06-26,Health & Psychology,1,831.0,0.9984,58.0
+2022-06-26,News & Politics,1,106510.0,-0.3818,5371.0
+2022-06-26,Tech & Programming,1,4216.0,-0.4767,166.0
+2022-06-27,News & Politics,1,90049.0,0.0,4113.0
+2022-06-29,Health & Psychology,1,3589.0,0.4019,240.0
+2022-07-03,Finance & Business,1,2714.0,0.9997,226.0
+2022-07-08,News & Politics,1,124072.0,0.0,5298.0
+2022-07-11,Entertainment & Pop Culture,1,58928.0,0.0,3917.0
+2022-07-11,Tech & Programming,2,1937.0,0.26335,85.5
+2022-07-12,Tech & Programming,1,1053.0,0.0,270.0
+2022-07-15,Health & Psychology,1,2813.0,-0.3818,178.0
+2022-07-18,Tech & Programming,2,1424.5,0.5748,80.0
+2022-07-19,Finance & Business,1,2133.0,0.992,809.0
+2022-07-19,Health & Psychology,1,897.0,-0.9313,150.0
+2022-07-20,Entertainment & Pop Culture,1,76680.0,-0.25,6375.0
+2022-07-21,Tech & Programming,1,1071.0,0.0,180.0
+2022-07-23,Tech & Programming,1,933.0,0.8126,24.0
+2022-07-24,Tech & Programming,2,1425.5,0.11315,52.5
+2022-07-26,Health & Psychology,1,706.0,-0.4939,65.0
+2022-07-28,Health & Psychology,1,8495.0,0.3818,1593.0
+2022-07-28,News & Politics,1,91023.0,-0.5994,4341.0
+2022-07-29,Entertainment & Pop Culture,1,163663.0,0.0,4311.0
+2022-07-30,Entertainment & Pop Culture,1,73898.0,0.9838,4584.0
+2022-07-30,Health & Psychology,1,13017.0,-0.9709,1530.0
+2022-07-30,Tech & Programming,2,1072.5,0.125,23.5
+2022-08-01,Entertainment & Pop Culture,1,142092.0,0.0258,5156.0
+2022-08-01,Health & Psychology,1,5827.0,-0.5267,1345.0
+2022-08-02,General Discussion & Trends,1,21961.0,-0.7351,5290.0
+2022-08-04,News & Politics,2,104078.5,-0.3454,4673.0
+2022-08-04,Tech & Programming,1,7263.0,0.2944,929.0
+2022-08-06,Tech & Programming,1,5286.0,-0.3182,625.0
+2022-08-07,Tech & Programming,2,1205.5,0.49915,236.5
+2022-08-08,Finance & Business,1,1581.0,0.9583,141.0
+2022-08-08,News & Politics,1,165302.0,0.0,22784.0
+2022-08-09,Tech & Programming,1,1462.0,0.0,70.0
+2022-08-10,News & Politics,1,108272.0,0.0,8910.0
+2022-08-11,Tech & Programming,1,6501.0,0.0,2208.0
+2022-08-12,News & Politics,1,106755.0,-0.5267,10589.0
+2022-08-12,Tech & Programming,1,2155.0,0.296,79.0
+2022-08-13,Health & Psychology,1,2566.0,0.4404,83.0
+2022-08-13,News & Politics,1,113642.0,-0.5574,8542.0
+2022-08-15,Finance & Business,1,1506.0,0.9876,413.0
+2022-08-15,Health & Psychology,1,2984.0,-0.3716,138.0
+2022-08-15,Tech & Programming,2,2131.5,-0.05135,68.0
+2022-08-22,Health & Psychology,1,3657.0,-0.5267,312.0
+2022-08-23,Tech & Programming,2,3159.5,0.20095,222.0
+2022-08-25,Health & Psychology,1,4050.0,0.0,113.0
+2022-08-27,Health & Psychology,1,9632.0,0.0,146.0
+2022-08-27,Tech & Programming,2,1188.0,0.148,121.5
+2022-08-30,Health & Psychology,1,3250.0,0.0,134.0
+2022-09-01,Finance & Business,1,3468.0,0.9822,299.0
+2022-09-02,Entertainment & Pop Culture,1,125797.0,0.0,1960.0
+2022-09-04,Tech & Programming,1,1065.0,0.296,44.0
+2022-09-05,Tech & Programming,1,1491.0,0.5719,33.0
+2022-09-07,Health & Psychology,1,2932.0,0.4767,62.0
+2022-09-08,News & Politics,3,158178.0,-0.23763333333333336,10853.666666666666
+2022-09-10,Finance & Business,1,1740.0,0.9749,473.0
+2022-09-11,Tech & Programming,2,1491.5,0.49915,144.5
+2022-09-12,Tech & Programming,1,2339.0,0.0,139.0
+2022-09-13,Tech & Programming,1,998.0,0.0,67.0
+2022-09-14,Tech & Programming,1,3599.0,0.0,121.0
+2022-09-15,News & Politics,1,99076.0,0.34,2967.0
+2022-09-15,Tech & Programming,1,1107.0,0.0,21.0
+2022-09-16,Tech & Programming,1,988.0,-0.5994,49.0
+2022-09-17,Tech & Programming,1,1106.0,0.296,50.0
+2022-09-18,Tech & Programming,1,979.0,0.296,24.0
+2022-09-19,Health & Psychology,1,682.0,0.9827,43.0
+2022-09-20,Tech & Programming,1,3314.0,0.0,58.0
+2022-09-21,Health & Psychology,1,4202.0,-0.4549,584.0
+2022-09-21,News & Politics,1,106605.0,-0.5859,4680.0
+2022-09-22,Health & Psychology,1,2974.0,0.7506,234.0
+2022-09-23,Finance & Business,1,1744.0,0.9987,142.0
+2022-09-25,News & Politics,1,112813.0,-0.2263,6299.0
+2022-09-25,Tech & Programming,1,951.0,0.296,29.0
+2022-09-27,Entertainment & Pop Culture,1,87417.0,0.0,4169.0
+2022-09-28,Entertainment & Pop Culture,1,104970.0,-0.6369,4990.0
+2022-09-28,Finance & Business,1,1457.0,0.937,99.0
+2022-09-28,Health & Psychology,1,2854.0,0.3818,60.0
+2022-09-29,Entertainment & Pop Culture,1,51494.0,-0.6486,2887.0
+2022-09-29,News & Politics,1,132780.0,0.0,8229.0
+2022-09-30,Entertainment & Pop Culture,1,72021.0,0.0,3063.0
+2022-10-01,Tech & Programming,1,1100.0,0.4588,31.0
+2022-10-02,Finance & Business,1,1437.0,-0.1027,349.0
+2022-10-02,Tech & Programming,2,2203.5,0.148,76.0
+2022-10-06,News & Politics,1,155520.0,-0.0516,8203.0
+2022-10-06,Tech & Programming,1,1049.0,0.9789,166.0
+2022-10-07,Health & Psychology,1,2921.0,-0.5574,206.0
+2022-10-08,Finance & Business,1,2119.0,0.9965,137.0
+2022-10-08,Health & Psychology,1,997.0,0.8115,112.0
+2022-10-08,Tech & Programming,1,2062.0,0.0,87.0
+2022-10-14,Entertainment & Pop Culture,1,95350.0,0.34,2412.0
+2022-10-14,General Discussion & Trends,1,20994.0,0.0,1191.0
+2022-10-17,Health & Psychology,1,2785.0,0.4215,532.0
+2022-10-19,Tech & Programming,1,946.0,0.8885,346.0
+2022-10-22,Tech & Programming,1,1872.0,0.296,86.0
+2022-10-23,Tech & Programming,2,3903.0,0.0,191.5
+2022-10-24,Tech & Programming,1,1310.0,0.0,78.0
+2022-10-25,Entertainment & Pop Culture,1,47808.0,0.0,4024.0
+2022-10-27,Health & Psychology,1,2853.0,0.5106,192.0
+2022-10-29,Finance & Business,1,1909.0,0.9991,397.0
+2022-10-29,Tech & Programming,1,5437.0,0.0,292.0
+2022-10-30,Tech & Programming,2,1152.0,0.38585,59.5
+2022-10-31,General Discussion & Trends,1,112576.0,0.765,14727.0
+2022-10-31,Tech & Programming,1,2088.0,0.5719,58.0
+2022-11-02,Health & Psychology,1,3078.0,-0.738,200.0
+2022-11-03,Tech & Programming,1,1692.0,0.0,53.0
+2022-11-05,Tech & Programming,1,1151.0,0.296,65.0
+2022-11-06,Tech & Programming,1,1060.0,0.0,47.0
+2022-11-07,Finance & Business,1,1709.0,0.9982,212.0
+2022-11-08,Tech & Programming,1,1129.0,0.975,190.0
+2022-11-09,Health & Psychology,1,5817.0,0.1779,296.0
+2022-11-09,News & Politics,1,112888.0,0.2732,5039.0
+2022-11-11,Entertainment & Pop Culture,1,79236.0,0.0,3044.0
+2022-11-11,Finance & Business,1,102917.0,-0.0516,2198.0
+2022-11-12,Health & Psychology,1,800.0,-0.2023,158.0
+2022-11-13,News & Politics,1,95171.0,-0.3818,6779.0
+2022-11-14,Finance & Business,1,1394.0,0.9673,414.0
+2022-11-15,News & Politics,1,103816.0,0.1779,4367.0
+2022-11-17,Tech & Programming,1,1135.0,0.5141,205.0
+2022-11-18,Entertainment & Pop Culture,1,44092.0,0.5267,1342.0
+2022-11-18,Health & Psychology,1,4125.0,0.4767,135.0
+2022-11-18,News & Politics,1,114867.0,0.0,12390.0
+2022-11-19,Health & Psychology,1,2979.0,-0.552,357.0
+2022-11-19,Tech & Programming,1,1243.0,0.0,46.0
+2022-11-21,Entertainment & Pop Culture,1,52155.0,0.0,5457.0
+2022-11-22,News & Politics,1,107510.0,0.743,7903.0
+2022-11-25,Health & Psychology,1,6245.0,-0.9356,587.0
+2022-12-02,Finance & Business,1,1944.0,0.9997,253.0
+2022-12-03,Finance & Business,1,2661.0,-0.9127,272.0
+2022-12-05,Health & Psychology,1,912.0,0.9455,52.0
+2022-12-07,News & Politics,1,123659.0,0.0,5534.0
+2022-12-10,Tech & Programming,2,4798.5,-0.5292,455.0
+2022-12-12,Health & Psychology,1,13473.0,0.4019,1840.0
+2022-12-12,News & Politics,1,113888.0,0.3612,11931.0
+2022-12-13,Tech & Programming,1,8966.0,0.7579,1326.0
+2022-12-15,General Discussion & Trends,1,114254.0,0.0,2667.0
+2022-12-15,Health & Psychology,1,2743.0,-0.8402,70.0
+2022-12-16,Entertainment & Pop Culture,1,157342.0,-0.765,1810.0
+2022-12-16,News & Politics,1,105478.0,0.0,9421.0
+2022-12-17,Tech & Programming,2,1583.5,-0.148,102.5
+2022-12-18,Tech & Programming,1,1133.0,0.0,66.0
+2022-12-19,Health & Psychology,1,3028.0,0.4404,49.0
+2022-12-20,Health & Psychology,1,6948.0,-0.34,260.0
+2022-12-20,Tech & Programming,1,1482.0,0.3612,55.0
+2022-12-23,Entertainment & Pop Culture,1,197641.0,0.0,17456.0
+2022-12-24,Health & Psychology,1,2680.0,-0.6486,88.0
+2022-12-24,Tech & Programming,1,1532.0,0.0,197.0
+2022-12-26,Health & Psychology,1,4247.0,0.6369,141.0
+2022-12-26,Tech & Programming,1,1001.0,0.296,31.0
+2022-12-27,Tech & Programming,2,4357.0,0.6135,210.0
+2022-12-28,Finance & Business,1,6462.0,0.9725,645.0
+2022-12-29,Health & Psychology,1,3326.0,0.5994,27.0
+2023-01-01,Health & Psychology,1,16227.0,0.3182,672.0
+2023-01-02,Health & Psychology,1,8222.0,0.6124,408.0
+2023-01-08,Health & Psychology,1,4170.0,-0.7579,294.0
+2023-01-08,Tech & Programming,1,1572.0,-0.34,92.0
+2023-01-11,Health & Psychology,1,3349.0,0.4404,114.0
+2023-01-14,Health & Psychology,1,2645.0,-0.7612,149.0
+2023-01-15,Tech & Programming,1,1934.0,0.6369,90.0
+2023-01-18,Entertainment & Pop Culture,1,42583.0,0.3182,1264.0
+2023-01-18,Health & Psychology,1,2977.0,-0.128,76.0
+2023-01-20,Finance & Business,1,1900.0,0.0,570.0
+2023-01-20,Health & Psychology,1,3004.0,0.4404,85.0
+2023-01-22,Health & Psychology,1,2781.0,0.9343,403.0
+2023-01-22,Tech & Programming,1,1094.0,0.0,90.0
+2023-01-23,Health & Psychology,1,3207.0,0.1531,690.0
+2023-01-25,Health & Psychology,1,2961.0,0.0,315.0
+2023-01-27,Finance & Business,1,2576.0,0.9963,416.0
+2023-01-27,Health & Psychology,1,2473.0,-0.3818,88.0
+2023-01-27,Tech & Programming,1,2642.0,0.0,135.0
+2023-01-29,Tech & Programming,1,1172.0,0.0,37.0
+2023-01-31,Health & Psychology,2,2777.5,-0.75895,211.5
+2023-02-01,Health & Psychology,1,2618.0,0.0,359.0
+2023-02-03,Health & Psychology,1,3534.0,0.6724,294.0
+2023-02-04,Tech & Programming,1,2031.0,0.0,125.0
+2023-02-05,Tech & Programming,1,1300.0,0.0,133.0
+2023-02-07,Health & Psychology,2,5817.5,0.06829999999999997,718.5
+2023-02-09,Tech & Programming,1,1724.0,0.0,188.0
+2023-02-10,General Discussion & Trends,1,102402.0,-0.4588,7365.0
+2023-02-10,Health & Psychology,1,3682.0,0.0,26.0
+2023-02-10,Tech & Programming,1,2783.0,0.0,249.0
+2023-02-11,Health & Psychology,1,2511.0,0.7184,52.0
+2023-02-12,Tech & Programming,1,5562.0,0.2263,345.0
+2023-02-13,Health & Psychology,1,3053.0,-0.4404,380.0
+2023-02-14,Health & Psychology,1,6498.0,-0.7906,2221.0
+2023-02-15,Health & Psychology,1,2990.0,0.5423,280.0
+2023-02-16,Entertainment & Pop Culture,1,80807.0,0.0,4375.0
+2023-02-16,Health & Psychology,1,4548.0,-0.5574,590.0
+2023-02-18,Health & Psychology,1,3185.0,0.0,208.0
+2023-02-18,Tech & Programming,1,5473.0,-0.6908,423.0
+2023-02-21,Health & Psychology,1,3060.0,0.0,149.0
+2023-02-23,Tech & Programming,1,4971.0,0.0,302.0
+2023-02-27,Health & Psychology,1,16909.0,-0.7184,6398.0
+2023-02-27,Tech & Programming,1,1112.0,0.5106,23.0
+2023-02-28,General Discussion & Trends,1,18804.0,0.3612,2282.0
+2023-03-01,Finance & Business,1,1430.0,-0.3891,69.0
+2023-03-02,Finance & Business,1,2079.0,0.6542,275.0
+2023-03-03,Tech & Programming,1,7527.0,0.0,1304.0
+2023-03-04,Entertainment & Pop Culture,1,297842.0,0.0,33263.0
+2023-03-07,Tech & Programming,1,4641.0,-0.4019,477.0
+2023-03-08,Entertainment & Pop Culture,1,60517.0,0.0772,4195.0
+2023-03-09,Health & Psychology,1,3125.0,0.7845,131.0
+2023-03-09,News & Politics,1,99201.0,0.0,5994.0
+2023-03-10,Health & Psychology,1,3793.0,-0.5859,232.0
+2023-03-13,Entertainment & Pop Culture,1,109883.0,0.9081,3194.0
+2023-03-15,Tech & Programming,2,2211.5,-0.17959999999999998,465.5
+2023-03-17,Entertainment & Pop Culture,1,93421.0,-0.6486,5174.0
+2023-03-17,Health & Psychology,1,5119.0,-0.5267,648.0
+2023-03-19,Tech & Programming,1,1245.0,0.0,86.0
+2023-03-20,Health & Psychology,1,5254.0,0.0642,389.0
+2023-03-20,Tech & Programming,1,8277.0,0.7845,628.0
+2023-03-23,Tech & Programming,1,1030.0,0.0,252.0
+2023-03-24,Entertainment & Pop Culture,1,128176.0,0.4404,3781.0
+2023-03-25,Tech & Programming,2,3407.0,0.0,114.5
+2023-03-27,Health & Psychology,1,3879.0,0.4767,356.0
+2023-03-27,Tech & Programming,1,8006.0,-0.3182,726.0
+2023-03-28,Tech & Programming,2,1268.5,-0.29564999999999997,111.5
+2023-03-30,Health & Psychology,1,3150.0,0.0,248.0
+2023-03-30,News & Politics,1,160604.0,0.0,15876.0
+2023-04-01,Finance & Business,1,1877.0,-0.3891,144.0
+2023-04-02,Tech & Programming,1,1691.0,0.0,155.0
+2023-04-04,Health & Psychology,1,4154.0,0.0,310.0
+2023-04-04,News & Politics,1,110969.0,-0.4767,7509.0
+2023-04-06,Health & Psychology,1,4534.0,0.2755,552.0
+2023-04-06,News & Politics,2,118955.5,0.1366,4383.0
+2023-04-07,News & Politics,1,90262.0,0.4588,2782.0
+2023-04-10,Health & Psychology,1,2600.0,0.3612,144.0
+2023-04-15,Tech & Programming,1,1277.0,0.9545,174.0
+2023-04-22,Tech & Programming,1,1071.0,0.0,90.0
+2023-04-24,News & Politics,1,128727.0,0.2732,11784.0
+2023-04-25,Entertainment & Pop Culture,1,132548.0,-0.3182,2349.0
+2023-04-26,Entertainment & Pop Culture,2,102409.0,0.0,3400.5
+2023-04-29,Tech & Programming,1,2447.0,0.0,142.0
+2023-05-04,Entertainment & Pop Culture,1,47284.0,0.5719,2530.0
+2023-05-04,Finance & Business,1,1398.0,0.9997,206.0
+2023-05-04,Tech & Programming,1,1190.0,-0.0613,206.0
+2023-05-08,Tech & Programming,1,4940.0,0.0,311.0
+2023-05-15,Tech & Programming,1,1167.0,0.9996,63.0
+2023-05-17,Tech & Programming,1,1516.0,-0.9938,428.0
+2023-05-20,Tech & Programming,1,1530.0,-0.4767,42.0
+2023-05-30,General Discussion & Trends,1,106226.0,0.2023,1941.0
+2023-05-31,Tech & Programming,1,12521.0,0.4019,867.0
+2023-06-03,Tech & Programming,1,1208.0,0.25,58.0
+2023-06-05,Entertainment & Pop Culture,1,88550.0,0.7534,1326.0
+2023-06-05,Tech & Programming,1,13387.0,0.0,541.0
+2023-06-06,Tech & Programming,1,2627.0,0.9665,217.0
+2023-06-07,Finance & Business,1,1409.0,-0.0644,409.0
+2023-06-09,Tech & Programming,1,45036.0,0.0,2397.0
+2023-06-11,Tech & Programming,1,1012.0,0.9715,67.0
+2023-06-14,Health & Psychology,1,820.0,0.7913,137.0
+2023-06-16,Health & Psychology,1,20708.0,0.128,1383.0
+2023-06-28,Tech & Programming,1,1327.0,0.9523,91.0
+2023-07-02,Health & Psychology,1,672.0,-0.9589,127.0
+2023-07-17,Finance & Business,1,1633.0,0.9996,244.0
+2023-07-17,Tech & Programming,1,1238.0,0.0,74.0
+2023-08-14,Finance & Business,1,1446.0,0.0,1927.0
+2023-08-15,Finance & Business,1,5364.0,0.1901,72.0
+2023-08-23,Finance & Business,1,1867.0,0.9993,408.0
+2023-08-30,Finance & Business,1,1413.0,0.7003,1929.0
+2023-08-31,Health & Psychology,1,646.0,-0.872,128.0
+2023-09-08,Finance & Business,1,3349.0,0.9979,357.0
+2023-09-10,Finance & Business,1,3053.0,0.998,317.0
+2023-09-11,Tech & Programming,1,1158.0,0.3612,55.0
+2023-09-13,Finance & Business,1,1665.0,0.296,2020.0
+2023-09-14,Finance & Business,1,4595.0,0.8402,746.0
+2023-09-15,Finance & Business,1,1864.0,0.9986,690.0
+2023-09-27,Health & Psychology,1,3498.0,-0.7096,312.0
+2023-09-29,Finance & Business,1,7536.0,0.9793,939.0
+2023-09-30,Finance & Business,1,1722.0,0.7876,347.0
+2023-10-02,Tech & Programming,1,4653.0,-0.5859,1036.0
+2023-10-08,Finance & Business,1,1454.0,0.4404,1677.0
+2023-10-10,Finance & Business,1,1514.0,0.9999,233.0
+2023-10-16,Tech & Programming,1,1701.0,0.0,110.0
+2023-10-17,Finance & Business,1,2216.0,0.9988,206.0
+2023-11-01,Finance & Business,1,2386.0,0.9337,227.0
+2023-11-10,Health & Psychology,1,835.0,-0.9902,88.0
+2023-11-11,Tech & Programming,1,1461.0,-0.34,131.0
+2023-11-21,Finance & Business,1,1533.0,-0.305,287.0
+2023-11-25,Health & Psychology,1,730.0,0.7234,60.0
+2023-11-27,Health & Psychology,1,2629.0,-0.128,399.0
+2023-11-29,Finance & Business,1,2481.0,0.9918,483.0
+2023-12-01,Health & Psychology,1,3596.0,0.3252,554.0
+2023-12-04,Tech & Programming,1,1136.0,0.3612,641.0
+2023-12-07,Finance & Business,1,1593.0,-0.4767,680.0
+2023-12-09,Health & Psychology,1,926.0,-0.9586,243.0
+2023-12-28,Finance & Business,1,2332.0,0.9986,562.0
+2024-01-16,Tech & Programming,1,917.0,0.6369,123.0
+2024-01-31,Tech & Programming,1,1705.0,0.891,204.0
+2024-02-08,Tech & Programming,1,999.0,-0.4292,327.0
+2024-02-19,Tech & Programming,1,1055.0,0.7841,340.0
+2024-02-20,Tech & Programming,1,1004.0,0.9934,201.0
+2024-02-23,Health & Psychology,1,4846.0,0.4404,643.0
+2024-02-27,Tech & Programming,1,1389.0,-0.9485,368.0
+2024-03-21,Health & Psychology,1,3945.0,0.0,287.0
+2024-03-27,Finance & Business,1,1678.0,0.9545,949.0
+2024-04-07,Health & Psychology,1,3311.0,0.836,307.0
+2024-04-10,Health & Psychology,1,2783.0,0.8442,231.0
+2024-04-16,Entertainment & Pop Culture,1,47554.0,0.5267,1874.0
+2024-04-22,Health & Psychology,1,743.0,-0.9892,55.0
+2024-04-23,Tech & Programming,1,985.0,0.653,257.0
+2024-04-24,Health & Psychology,1,2743.0,-0.2732,290.0
+2024-04-25,Health & Psychology,1,4070.0,-0.3818,151.0
+2024-04-26,Health & Psychology,2,4122.5,0.11535000000000001,605.5
+2024-04-28,Health & Psychology,1,758.0,-0.3324,215.0
+2024-05-02,Finance & Business,1,1583.0,-0.5674,264.0
+2024-05-04,Tech & Programming,1,1313.0,0.0,272.0
+2024-05-05,Tech & Programming,1,913.0,-0.8701,206.0
+2024-05-06,Health & Psychology,1,2611.0,-0.296,177.0
+2024-05-07,Health & Psychology,1,844.0,0.984,114.0
+2024-05-08,Finance & Business,1,1593.0,0.5574,763.0
+2024-05-09,Health & Psychology,1,2550.0,-0.4404,459.0
+2024-05-17,Finance & Business,1,2606.0,0.9962,380.0
+2024-05-24,Tech & Programming,1,6375.0,-0.4767,816.0
+2024-05-27,Health & Psychology,1,2894.0,-0.0521,443.0
+2024-05-30,Health & Psychology,1,691.0,0.6605,511.0
+2024-06-15,Health & Psychology,1,637.0,0.4939,215.0
+2024-06-21,Health & Psychology,1,2463.0,-0.4215,164.0
+2024-06-22,Health & Psychology,1,948.0,-0.9828,213.0
+2024-07-01,Tech & Programming,1,1814.0,-0.8135,152.0
+2024-07-05,Finance & Business,1,1615.0,0.99,519.0
+2024-07-05,Health & Psychology,2,,,
+2024-07-06,Health & Psychology,2,,,
+2024-07-07,Health & Psychology,2,,,
+2024-07-08,Health & Psychology,1,,,
+2024-07-09,Health & Psychology,1,,,
+2024-07-10,Health & Psychology,2,,,
+2024-07-11,Health & Psychology,1,,,
+2024-07-12,Health & Psychology,3,3793.0,0.4588,335.0
+2024-07-13,Health & Psychology,2,,,
+2024-07-14,Health & Psychology,2,,,
+2024-07-15,Health & Psychology,3,,,
+2024-07-16,Health & Psychology,1,,,
+2024-07-17,Health & Psychology,2,,,
+2024-07-18,Health & Psychology,1,,,
+2024-07-19,Health & Psychology,2,,,
+2024-07-20,Health & Psychology,3,,,
+2024-07-21,Health & Psychology,3,891.0,0.9594,183.0
+2024-07-21,News & Politics,1,106701.0,0.0,24912.0
+2024-07-22,Health & Psychology,1,,,
+2024-07-23,Health & Psychology,1,,,
+2024-07-24,Health & Psychology,2,,,
+2024-07-25,Health & Psychology,1,,,
+2024-07-26,Health & Psychology,2,,,
+2024-07-27,Health & Psychology,2,,,
+2024-07-28,Health & Psychology,2,,,
+2024-07-29,Health & Psychology,2,,,
+2024-07-30,Health & Psychology,1,,,
+2024-07-31,Health & Psychology,3,3159.0,0.0,368.0
+2024-08-01,Health & Psychology,2,,,
+2024-08-02,Health & Psychology,2,,,
+2024-08-03,Health & Psychology,2,,,
+2024-08-04,Health & Psychology,3,,,
+2024-08-05,Health & Psychology,1,,,
+2024-08-06,Health & Psychology,1,,,
+2024-08-07,Health & Psychology,2,,,
+2024-08-08,Health & Psychology,1,,,
+2024-08-08,Tech & Programming,1,1191.0,0.0,310.0
+2024-08-09,Health & Psychology,2,,,
+2024-08-10,Health & Psychology,2,,,
+2024-08-11,Health & Psychology,2,,,
+2024-08-12,Health & Psychology,1,,,
+2024-08-13,Health & Psychology,1,,,
+2024-08-14,Health & Psychology,2,,,
+2024-08-15,Entertainment & Pop Culture,1,52261.0,0.4019,1812.0
+2024-08-15,Health & Psychology,3,6031.0,0.3612,1086.0
+2024-08-16,Health & Psychology,2,,,
+2024-08-17,Health & Psychology,2,,,
+2024-08-18,Health & Psychology,2,,,
+2024-08-19,Health & Psychology,2,,,
+2024-08-20,Health & Psychology,1,,,
+2024-08-21,Finance & Business,1,1866.0,-0.997,540.0
+2024-08-21,Health & Psychology,2,,,
+2024-08-22,Entertainment & Pop Culture,1,50706.0,0.4767,1039.0
+2024-08-22,Health & Psychology,2,2607.0,0.4019,846.0
+2024-08-23,Health & Psychology,2,,,
+2024-08-24,Entertainment & Pop Culture,1,42793.0,0.25,1673.0
+2024-08-24,Health & Psychology,2,,,
+2024-08-25,Health & Psychology,2,,,
+2024-08-26,Health & Psychology,1,,,
+2024-08-27,Health & Psychology,2,4034.0,0.4958,142.0
+2024-08-28,Health & Psychology,2,,,
+2024-08-29,Entertainment & Pop Culture,1,60022.0,-0.2263,3128.0
+2024-08-29,Health & Psychology,1,,,
+2024-08-30,Health & Psychology,2,,,
+2024-08-31,Health & Psychology,2,,,
+2024-09-01,Health & Psychology,3,,,
+2024-09-02,Health & Psychology,1,,,
+2024-09-02,Tech & Programming,1,3179.0,-0.296,71.0
+2024-09-03,Health & Psychology,1,,,
+2024-09-04,Health & Psychology,2,,,
+2024-09-05,Health & Psychology,1,,,
+2024-09-06,Health & Psychology,2,,,
+2024-09-07,Health & Psychology,2,,,
+2024-09-08,Health & Psychology,2,,,
+2024-09-09,Entertainment & Pop Culture,1,74682.0,0.7184,2596.0
+2024-09-09,Health & Psychology,1,,,
+2024-09-09,Tech & Programming,1,956.0,0.0,126.0
+2024-09-10,Health & Psychology,1,,,
+2024-09-11,Entertainment & Pop Culture,1,72651.0,0.4767,3375.0
+2024-09-11,Health & Psychology,3,1096.0,-0.9933,118.0
+2024-09-12,Health & Psychology,1,,,
+2024-09-12,Tech & Programming,1,2841.0,0.0,103.0
+2024-09-13,Entertainment & Pop Culture,2,45470.0,0.51705,5414.0
+2024-09-13,Health & Psychology,2,,,
+2024-09-14,Health & Psychology,2,,,
+2024-09-15,Entertainment & Pop Culture,1,43869.0,-0.4215,4219.0
+2024-09-15,Health & Psychology,4,7739.0,-0.5719,495.0
+2024-09-16,Health & Psychology,1,,,
+2024-09-17,Entertainment & Pop Culture,1,47940.0,0.5423,2539.0
+2024-09-17,Health & Psychology,1,,,
+2024-09-18,Health & Psychology,2,,,
+2024-09-19,Health & Psychology,1,,,
+2024-09-20,Entertainment & Pop Culture,1,43672.0,-0.6705,5994.0
+2024-09-20,Health & Psychology,3,2836.0,-0.2732,270.0
+2024-09-21,Health & Psychology,2,,,
+2024-09-22,Health & Psychology,2,,,
+2024-09-23,Health & Psychology,1,,,
+2024-09-24,Health & Psychology,1,,,
+2024-09-25,Health & Psychology,3,1191.0,-0.9344,193.0
+2024-09-26,Health & Psychology,1,,,
+2024-09-27,Health & Psychology,3,,,
+2024-09-28,Health & Psychology,2,,,
+2024-09-29,Health & Psychology,2,,,
+2024-09-30,Health & Psychology,1,,,
+2024-10-01,Entertainment & Pop Culture,1,42051.0,-0.5859,2975.0
+2024-10-01,Health & Psychology,2,,,
+2024-10-02,Health & Psychology,3,2694.0,-0.2732,145.0
+2024-10-03,Health & Psychology,1,,,
+2024-10-04,Entertainment & Pop Culture,1,57961.0,0.2263,6368.0
+2024-10-04,Health & Psychology,2,,,
+2024-10-05,Entertainment & Pop Culture,1,41833.0,-0.3875,667.0
+2024-10-05,Health & Psychology,2,,,
+2024-10-06,Health & Psychology,3,6372.0,-0.079,339.0
+2024-10-07,Health & Psychology,1,,,
+2024-10-08,Finance & Business,1,1425.0,0.9981,112.0
+2024-10-08,Health & Psychology,1,,,
+2024-10-08,Tech & Programming,2,1120.5,0.9896499999999999,210.5
+2024-10-09,Health & Psychology,2,,,
+2024-10-10,Health & Psychology,1,,,
+2024-10-11,Health & Psychology,3,7117.0,0.6232,357.0
+2024-10-12,Entertainment & Pop Culture,1,45599.0,-0.6486,3359.0
+2024-10-12,Health & Psychology,2,,,
+2024-10-13,Health & Psychology,2,,,
+2024-10-14,Health & Psychology,1,,,
+2024-10-14,Tech & Programming,1,1382.0,0.0,27.0
+2024-10-15,Health & Psychology,2,,,
+2024-10-16,Health & Psychology,3,,,
+2024-10-17,Health & Psychology,1,,,
+2024-10-18,Health & Psychology,2,,,
+2024-10-18,Tech & Programming,1,982.0,0.1901,386.0
+2024-10-19,Health & Psychology,3,3012.0,-0.3612,1680.0
+2024-10-19,Tech & Programming,1,1108.0,0.7838,275.0
+2024-10-20,Health & Psychology,2,,,
+2024-10-21,Health & Psychology,2,2482.0,0.0,172.0
+2024-10-22,Health & Psychology,1,,,
+2024-10-23,Entertainment & Pop Culture,1,65144.0,-0.1027,3562.0
+2024-10-23,Health & Psychology,2,,,
+2024-10-24,Finance & Business,1,2932.0,0.978,106.0
+2024-10-24,Health & Psychology,1,,,
+2024-10-25,Health & Psychology,2,,,
+2024-10-26,Health & Psychology,2,,,
+2024-10-27,Health & Psychology,2,,,
+2024-10-28,Health & Psychology,1,,,
+2024-10-29,Entertainment & Pop Culture,1,57741.0,0.0,2425.0
+2024-10-29,Health & Psychology,1,,,
+2024-10-30,Health & Psychology,2,,,
+2024-10-31,Health & Psychology,1,,,
+2024-11-01,Health & Psychology,3,,,
+2024-11-02,Health & Psychology,2,,,
+2024-11-03,Health & Psychology,2,,,
+2024-11-04,Finance & Business,1,3457.0,-0.4735,232.0
+2024-11-04,Health & Psychology,1,,,
+2024-11-05,Entertainment & Pop Culture,1,54441.0,0.4019,646.0
+2024-11-05,Health & Psychology,2,2678.0,0.9201,851.0
+2024-11-06,Health & Psychology,2,,,
+2024-11-07,Health & Psychology,1,,,
+2024-11-08,Health & Psychology,2,,,
+2024-11-09,Health & Psychology,2,,,
+2024-11-10,Health & Psychology,2,,,
+2024-11-11,Health & Psychology,1,,,
+2024-11-12,Finance & Business,1,1901.0,0.9081,1424.0
+2024-11-12,Health & Psychology,1,,,
+2024-11-13,Health & Psychology,2,,,
+2024-11-14,Health & Psychology,1,,,
+2024-11-15,Health & Psychology,3,,,
+2024-11-16,Health & Psychology,2,,,
+2024-11-17,Health & Psychology,2,,,
+2024-11-18,Health & Psychology,1,,,
+2024-11-19,Health & Psychology,1,,,
+2024-11-20,Health & Psychology,2,,,
+2024-11-21,Health & Psychology,1,,,
+2024-11-22,Health & Psychology,2,,,
+2024-11-23,Health & Psychology,2,,,
+2024-11-24,Health & Psychology,2,,,
+2024-11-25,Health & Psychology,1,,,
+2024-11-26,Health & Psychology,1,,,
+2024-11-27,Health & Psychology,2,,,
+2024-11-28,Health & Psychology,1,,,
+2024-11-29,Health & Psychology,2,,,
+2024-11-30,Health & Psychology,2,,,
+2024-12-01,Health & Psychology,4,5709.0,-0.6369,296.0
+2024-12-02,Health & Psychology,1,,,
+2024-12-03,Finance & Business,1,1939.0,0.7579,342.0
+2024-12-03,Health & Psychology,2,10922.0,0.0,2653.0
+2024-12-04,Health & Psychology,2,,,
+2024-12-05,Health & Psychology,1,,,
+2024-12-06,Health & Psychology,2,,,
+2024-12-07,Health & Psychology,2,,,
+2024-12-08,Health & Psychology,3,,,
+2024-12-09,Entertainment & Pop Culture,1,52217.0,-0.5423,1686.0
+2024-12-09,Health & Psychology,1,,,
+2024-12-09,Tech & Programming,1,914.0,0.6808,196.0
+2024-12-10,Health & Psychology,1,,,
+2024-12-11,Health & Psychology,2,,,
+2024-12-12,Health & Psychology,1,,,
+2024-12-13,Health & Psychology,2,,,
+2024-12-14,Health & Psychology,3,5944.0,-0.2748,802.0
+2024-12-15,Health & Psychology,4,2463.0,0.9551,155.0
+2024-12-16,Health & Psychology,1,,,
+2024-12-17,Health & Psychology,1,,,
+2024-12-18,Health & Psychology,2,,,
+2024-12-19,Health & Psychology,1,,,
+2024-12-20,Health & Psychology,3,2695.0,-0.2263,110.0
+2024-12-20,Tech & Programming,3,,,
+2024-12-21,Health & Psychology,2,,,
+2024-12-21,Tech & Programming,3,,,
+2024-12-22,Health & Psychology,2,,,
+2024-12-22,Tech & Programming,8,,,
+2024-12-23,Health & Psychology,2,,,
+2024-12-23,Tech & Programming,1,,,
+2024-12-24,Health & Psychology,1,,,
+2024-12-24,Tech & Programming,1,,,
+2024-12-25,Health & Psychology,2,,,
+2024-12-25,Tech & Programming,4,,,
+2024-12-26,Health & Psychology,1,,,
+2024-12-26,Tech & Programming,5,,,
+2024-12-27,Entertainment & Pop Culture,1,43993.0,0.1531,1825.0
+2024-12-27,Health & Psychology,2,,,
+2024-12-27,Tech & Programming,4,,,
+2024-12-28,Health & Psychology,2,,,
+2024-12-28,Tech & Programming,2,,,
+2024-12-29,Health & Psychology,2,,,
+2024-12-29,News & Politics,1,111550.0,0.0,4075.0
+2024-12-29,Tech & Programming,6,2054.0,0.9995,178.0
+2024-12-30,Health & Psychology,1,,,
+2024-12-30,Tech & Programming,4,,,
+2024-12-31,Health & Psychology,1,,,
+2024-12-31,Tech & Programming,2,,,
+2025-01-01,Health & Psychology,3,,,
+2025-01-01,Tech & Programming,1,,,
+2025-01-02,Health & Psychology,1,,,
+2025-01-02,Tech & Programming,1,,,
+2025-01-03,Health & Psychology,2,,,
+2025-01-03,Tech & Programming,7,,,
+2025-01-04,Health & Psychology,3,884.0,0.7598,79.0
+2025-01-04,Tech & Programming,7,,,
+2025-01-05,Health & Psychology,2,,,
+2025-01-05,Tech & Programming,4,,,
+2025-01-06,Finance & Business,1,1390.0,0.3415,615.0
+2025-01-06,Health & Psychology,1,,,
+2025-01-06,Tech & Programming,7,,,
+2025-01-07,Health & Psychology,2,,,
+2025-01-07,Tech & Programming,7,,,
+2025-01-08,Finance & Business,1,2414.0,0.7717,205.0
+2025-01-08,Health & Psychology,2,,,
+2025-01-08,Tech & Programming,2,,,
+2025-01-09,Health & Psychology,2,5016.0,-0.6901,99.0
+2025-01-09,Tech & Programming,6,1576.0,0.91,133.0
+2025-01-10,Health & Psychology,2,,,
+2025-01-10,Tech & Programming,6,,,
+2025-01-11,Health & Psychology,2,,,
+2025-01-11,Tech & Programming,3,,,
+2025-01-12,Health & Psychology,2,,,
+2025-01-12,Tech & Programming,1,,,
+2025-01-13,Health & Psychology,2,3696.0,0.0,365.0
+2025-01-13,Tech & Programming,7,,,
+2025-01-14,Health & Psychology,1,,,
+2025-01-14,Tech & Programming,6,,,
+2025-01-15,Health & Psychology,3,,,
+2025-01-15,Tech & Programming,6,,,
+2025-01-16,Health & Psychology,1,,,
+2025-01-16,Tech & Programming,6,,,
+2025-01-17,Health & Psychology,2,,,
+2025-01-17,Tech & Programming,7,,,
+2025-01-18,Health & Psychology,2,,,
+2025-01-18,Tech & Programming,5,,,
+2025-01-19,Entertainment & Pop Culture,1,56042.0,0.6124,4993.0
+2025-01-19,Health & Psychology,3,4091.0,0.34,212.0
+2025-01-19,Tech & Programming,3,,,
+2025-01-20,Health & Psychology,1,,,
+2025-01-20,Tech & Programming,3,,,
+2025-01-21,Entertainment & Pop Culture,1,47343.0,-0.7269,1580.0
+2025-01-21,Health & Psychology,2,2933.0,-0.128,270.0
+2025-01-21,Tech & Programming,3,,,
+2025-01-22,Health & Psychology,2,,,
+2025-01-22,Tech & Programming,4,,,
+2025-01-23,Health & Psychology,2,8899.0,0.4767,257.0
+2025-01-23,Tech & Programming,5,,,
+2025-01-24,Health & Psychology,2,,,
+2025-01-24,Tech & Programming,5,,,
+2025-01-25,Health & Psychology,2,,,
+2025-01-25,Tech & Programming,5,6084.0,0.0,675.0
+2025-01-26,Health & Psychology,2,,,
+2025-01-26,Tech & Programming,3,,,
+2025-01-27,Health & Psychology,3,9631.0,0.4741,1677.0
+2025-01-27,Tech & Programming,8,952.0,0.9493,331.0
+2025-01-28,Health & Psychology,2,4435.0,-0.5267,269.0
+2025-01-28,Tech & Programming,2,,,
+2025-01-29,Finance & Business,1,1905.0,-0.4588,349.0
+2025-01-29,Health & Psychology,2,,,
+2025-01-29,Tech & Programming,2,,,
+2025-01-30,Health & Psychology,1,,,
+2025-01-30,Tech & Programming,7,,,
+2025-01-31,Health & Psychology,2,,,
+2025-01-31,Tech & Programming,8,,,
+2025-02-01,Health & Psychology,3,,,
+2025-02-01,Tech & Programming,4,,,
+2025-02-02,Health & Psychology,2,,,
+2025-02-02,Tech & Programming,3,,,
+2025-02-03,Entertainment & Pop Culture,1,48353.0,0.0,2681.0
+2025-02-03,Health & Psychology,1,,,
+2025-02-03,Tech & Programming,4,,,
+2025-02-04,Health & Psychology,2,4615.0,0.1531,152.0
+2025-02-04,Tech & Programming,4,,,
+2025-02-05,Health & Psychology,2,,,
+2025-02-05,Tech & Programming,4,,,
+2025-02-06,Health & Psychology,4,,,
+2025-02-06,Tech & Programming,3,,,
+2025-02-07,Entertainment & Pop Culture,1,46173.0,-0.5106,2621.0
+2025-02-07,Finance & Business,1,2496.0,0.983,771.0
+2025-02-07,Health & Psychology,12,,,
+2025-02-07,Tech & Programming,5,,,
+2025-02-08,Health & Psychology,7,,,
+2025-02-08,Tech & Programming,1,,,
+2025-02-09,Health & Psychology,4,3841.0,-0.7003,313.0
+2025-02-09,Tech & Programming,1,,,
+2025-02-10,Entertainment & Pop Culture,2,134481.0,-0.11594999999999997,3616.0
+2025-02-10,Health & Psychology,10,,,
+2025-02-10,News & Politics,1,109188.0,-0.34,2988.0
+2025-02-10,Tech & Programming,4,,,
+2025-02-11,Entertainment & Pop Culture,1,66406.0,0.5423,1681.0
+2025-02-11,Finance & Business,1,3248.0,0.965,313.0
+2025-02-11,Health & Psychology,7,3875.0,0.1779,174.0
+2025-02-12,Health & Psychology,6,,,
+2025-02-12,Tech & Programming,3,,,
+2025-02-13,Health & Psychology,5,26111.0,0.0,1801.0
+2025-02-13,Tech & Programming,5,,,
+2025-02-14,Health & Psychology,11,3150.0,0.4951,407.0
+2025-02-14,Tech & Programming,3,,,
+2025-02-15,Entertainment & Pop Culture,1,58641.0,0.0,1015.0
+2025-02-15,Health & Psychology,7,,,
+2025-02-15,Tech & Programming,3,887.0,0.4118,245.0
+2025-02-16,Health & Psychology,8,4053.0,-0.85635,227.0
+2025-02-16,Tech & Programming,3,,,
+2025-02-17,Health & Psychology,6,,,
+2025-02-17,Tech & Programming,6,,,
+2025-02-18,Health & Psychology,9,,,
+2025-02-18,Tech & Programming,6,,,
+2025-02-19,Health & Psychology,9,3208.0,0.8957,563.0
+2025-02-19,Tech & Programming,1,,,
+2025-02-20,Entertainment & Pop Culture,1,42596.0,-0.3818,873.0
+2025-02-20,Health & Psychology,4,,,
+2025-02-20,Tech & Programming,6,,,
+2025-02-21,Health & Psychology,6,,,
+2025-02-21,Tech & Programming,5,,,
+2025-02-22,Health & Psychology,3,,,
+2025-02-22,Tech & Programming,5,,,
+2025-02-23,Health & Psychology,6,2926.0,-0.223,243.0
+2025-02-23,Tech & Programming,1,,,
+2025-02-24,Health & Psychology,3,5181.0,-0.4404,236.0
+2025-02-24,Tech & Programming,8,,,
+2025-02-25,Health & Psychology,6,,,
+2025-02-25,Tech & Programming,6,,,
+2025-02-26,Health & Psychology,13,8797.0,0.3182,1173.0
+2025-02-26,Tech & Programming,3,925.0,0.9574,101.0
+2025-02-27,Finance & Business,1,2362.0,0.2274,450.0
+2025-02-27,Health & Psychology,6,3647.0,-0.9423,109.0
+2025-02-27,Tech & Programming,3,,,
+2025-02-28,Health & Psychology,10,,,
+2025-02-28,News & Politics,1,133509.0,-0.7579,8449.0
+2025-02-28,Tech & Programming,8,,,
+2025-03-01,Health & Psychology,6,,,
+2025-03-01,Tech & Programming,5,,,
+2025-03-02,Health & Psychology,10,,,
+2025-03-02,Tech & Programming,1,,,
+2025-03-03,Entertainment & Pop Culture,1,42884.0,0.3412,1055.0
+2025-03-03,Health & Psychology,10,5272.0,-0.7184,399.0
+2025-03-03,Tech & Programming,3,,,
+2025-03-04,Entertainment & Pop Culture,1,44241.0,0.0,1398.0
+2025-03-04,Health & Psychology,6,,,
+2025-03-04,News & Politics,1,124568.0,-0.2263,2886.0
+2025-03-04,Tech & Programming,6,,,
+2025-03-05,Health & Psychology,6,3676.0,-0.6249,1008.0
+2025-03-05,Tech & Programming,2,,,
+2025-03-06,Health & Psychology,5,,,
+2025-03-06,Tech & Programming,2,,,
+2025-03-07,Health & Psychology,7,,,
+2025-03-07,Tech & Programming,2,,,
+2025-03-08,Health & Psychology,8,,,
+2025-03-09,Health & Psychology,7,,,
+2025-03-09,Tech & Programming,2,,,
+2025-03-10,Health & Psychology,5,,,
+2025-03-10,Tech & Programming,6,,,
+2025-03-11,Health & Psychology,7,,,
+2025-03-11,Tech & Programming,3,,,
+2025-03-12,Health & Psychology,6,,,
+2025-03-13,Health & Psychology,5,,,
+2025-03-13,Tech & Programming,2,,,
+2025-03-14,Entertainment & Pop Culture,1,91914.0,0.0,1786.0
+2025-03-14,Health & Psychology,5,2499.0,0.2263,166.0
+2025-03-14,Tech & Programming,15,,,
+2025-03-15,Health & Psychology,12,3036.5,0.73605,388.0
+2025-03-15,Tech & Programming,14,,,
+2025-03-16,Health & Psychology,7,927.0,0.9444,93.0
+2025-03-16,Tech & Programming,14,,,
+2025-03-17,Health & Psychology,6,870.0,0.664,54.0
+2025-03-17,Tech & Programming,22,,,
+2025-03-18,Entertainment & Pop Culture,1,69823.0,-0.7269,3962.0
+2025-03-18,Finance & Business,1,1974.0,0.8494,177.0
+2025-03-18,Health & Psychology,6,,,
+2025-03-18,Tech & Programming,14,,,
+2025-03-19,Health & Psychology,6,,,
+2025-03-19,Tech & Programming,8,,,
+2025-03-20,Health & Psychology,5,,,
+2025-03-20,Tech & Programming,8,,,
+2025-03-21,Health & Psychology,10,,,
+2025-03-21,Tech & Programming,13,,,
+2025-03-22,Health & Psychology,8,,,
+2025-03-22,Tech & Programming,18,,,
+2025-03-23,Health & Psychology,9,,,
+2025-03-23,Tech & Programming,13,,,
+2025-03-24,Health & Psychology,7,,,
+2025-03-24,Tech & Programming,16,1231.0,0.0,43.0
+2025-03-25,Entertainment & Pop Culture,1,43029.0,-0.3818,1590.0
+2025-03-25,Health & Psychology,9,,,
+2025-03-25,Tech & Programming,13,,,
+2025-03-26,Health & Psychology,9,,,
+2025-03-26,Tech & Programming,17,,,
+2025-03-27,Health & Psychology,6,,,
+2025-03-27,Tech & Programming,17,,,
+2025-03-28,Health & Psychology,7,,,
+2025-03-28,Tech & Programming,16,,,
+2025-03-29,Entertainment & Pop Culture,11,,,
+2025-03-29,Finance & Business,10,,,
+2025-03-29,General Discussion & Trends,10,,,
+2025-03-29,Health & Psychology,9,,,
+2025-03-29,News & Politics,15,,,
+2025-03-29,Tech & Programming,13,,,
+2025-03-30,Entertainment & Pop Culture,5,,,
+2025-03-30,Finance & Business,12,,,
+2025-03-30,General Discussion & Trends,18,,,
+2025-03-30,Health & Psychology,11,,,
+2025-03-30,News & Politics,12,,,
+2025-03-30,Tech & Programming,15,,,
+2025-03-31,Entertainment & Pop Culture,18,,,
+2025-03-31,Finance & Business,10,1583.0,0.9979,527.0
+2025-03-31,General Discussion & Trends,16,,,
+2025-03-31,Health & Psychology,20,,,
+2025-03-31,News & Politics,24,,,
+2025-03-31,Tech & Programming,29,1281.0,0.2023,50.0
+2025-04-01,Entertainment & Pop Culture,24,,,
+2025-04-01,Finance & Business,13,,,
+2025-04-01,General Discussion & Trends,17,,,
+2025-04-01,Health & Psychology,17,,,
+2025-04-01,News & Politics,20,,,
+2025-04-01,Tech & Programming,19,,,
+2025-04-02,Entertainment & Pop Culture,21,,,
+2025-04-02,Finance & Business,16,,,
+2025-04-02,General Discussion & Trends,21,,,
+2025-04-02,Health & Psychology,12,2568.0,0.6124,153.0
+2025-04-02,News & Politics,22,,,
+2025-04-02,Tech & Programming,23,,,
+2025-04-03,Entertainment & Pop Culture,22,,,
+2025-04-03,Finance & Business,21,,,
+2025-04-03,General Discussion & Trends,21,,,
+2025-04-03,Health & Psychology,17,,,
+2025-04-03,News & Politics,23,,,
+2025-04-03,Tech & Programming,23,,,
+2025-04-04,Entertainment & Pop Culture,16,,,
+2025-04-04,Finance & Business,23,,,
+2025-04-04,General Discussion & Trends,17,,,
+2025-04-04,Health & Psychology,18,,,
+2025-04-04,News & Politics,19,93216.0,0.0,6625.0
+2025-04-04,Tech & Programming,24,1679.0,0.4939,136.0
+2025-04-05,Entertainment & Pop Culture,14,,,
+2025-04-05,Finance & Business,10,,,
+2025-04-05,General Discussion & Trends,15,,,
+2025-04-05,Health & Psychology,18,795.0,-0.993,44.0
+2025-04-05,News & Politics,20,,,
+2025-04-05,Tech & Programming,19,,,
+2025-04-06,Entertainment & Pop Culture,11,,,
+2025-04-06,Finance & Business,15,,,
+2025-04-06,General Discussion & Trends,18,,,
+2025-04-06,Health & Psychology,18,,,
+2025-04-06,News & Politics,14,,,
+2025-04-06,Tech & Programming,13,,,
+2025-04-07,Entertainment & Pop Culture,21,,,
+2025-04-07,Finance & Business,18,,,
+2025-04-07,General Discussion & Trends,19,,,
+2025-04-07,Health & Psychology,15,,,
+2025-04-07,News & Politics,15,,,
+2025-04-07,Tech & Programming,20,,,
+2025-04-08,Entertainment & Pop Culture,15,,,
+2025-04-08,Finance & Business,13,,,
+2025-04-08,General Discussion & Trends,14,,,
+2025-04-08,Health & Psychology,10,,,
+2025-04-08,News & Politics,16,,,
+2025-04-08,Tech & Programming,17,,,
+2025-04-09,Entertainment & Pop Culture,20,,,
+2025-04-09,Finance & Business,37,1825.0,0.9507,312.0
+2025-04-09,General Discussion & Trends,16,,,
+2025-04-09,Health & Psychology,15,1166.0,0.8756,119.0
+2025-04-09,News & Politics,22,,,
+2025-04-09,Tech & Programming,16,,,
+2025-04-10,Entertainment & Pop Culture,26,,,
+2025-04-10,Finance & Business,19,,,
+2025-04-10,General Discussion & Trends,19,,,
+2025-04-10,Health & Psychology,17,,,
+2025-04-10,News & Politics,15,,,
+2025-04-10,Tech & Programming,20,,,
+2025-04-11,Entertainment & Pop Culture,14,,,
+2025-04-11,Finance & Business,17,,,
+2025-04-11,General Discussion & Trends,54,,,
+2025-04-11,Health & Psychology,20,,,
+2025-04-11,News & Politics,18,,,
+2025-04-11,Tech & Programming,19,,,
+2025-04-12,Entertainment & Pop Culture,12,,,
+2025-04-12,Finance & Business,18,,,
+2025-04-12,General Discussion & Trends,57,,,
+2025-04-12,Health & Psychology,15,,,
+2025-04-12,News & Politics,12,,,
+2025-04-12,Tech & Programming,16,,,
+2025-04-13,Entertainment & Pop Culture,16,,,
+2025-04-13,Finance & Business,24,,,
+2025-04-13,General Discussion & Trends,44,,,
+2025-04-13,Health & Psychology,18,638.0,0.9832,105.0
+2025-04-13,News & Politics,15,,,
+2025-04-13,Tech & Programming,26,,,
+2025-04-14,Entertainment & Pop Culture,13,,,
+2025-04-14,Finance & Business,45,,,
+2025-04-14,General Discussion & Trends,70,,,
+2025-04-14,Health & Psychology,17,,,
+2025-04-14,News & Politics,30,,,
+2025-04-14,Tech & Programming,66,,,
+2025-04-15,Entertainment & Pop Culture,21,,,
+2025-04-15,Finance & Business,35,,,
+2025-04-15,General Discussion & Trends,69,,,
+2025-04-15,Health & Psychology,13,,,
+2025-04-15,News & Politics,35,,,
+2025-04-15,Tech & Programming,61,,,
+2025-04-16,Entertainment & Pop Culture,19,,,
+2025-04-16,Finance & Business,62,,,
+2025-04-16,General Discussion & Trends,62,,,
+2025-04-16,Health & Psychology,9,,,
+2025-04-16,News & Politics,38,,,
+2025-04-16,Tech & Programming,55,,,
+2025-04-17,Entertainment & Pop Culture,14,,,
+2025-04-17,Finance & Business,57,,,
+2025-04-17,General Discussion & Trends,59,,,
+2025-04-17,Health & Psychology,14,2723.0,0.0,231.0
+2025-04-17,News & Politics,29,,,
+2025-04-17,Tech & Programming,51,,,
+2025-04-18,Entertainment & Pop Culture,45,,,
+2025-04-18,Finance & Business,29,,,
+2025-04-18,General Discussion & Trends,79,,,
+2025-04-18,Health & Psychology,19,,,
+2025-04-18,News & Politics,26,,,
+2025-04-18,Tech & Programming,57,,,
+2025-04-19,Entertainment & Pop Culture,47,,,
+2025-04-19,Finance & Business,25,,,
+2025-04-19,General Discussion & Trends,74,,,
+2025-04-19,Health & Psychology,12,,,
+2025-04-19,News & Politics,21,,,
+2025-04-19,Tech & Programming,29,,,
+2025-04-20,Entertainment & Pop Culture,38,,,
+2025-04-20,Finance & Business,18,,,
+2025-04-20,General Discussion & Trends,57,,,
+2025-04-20,Health & Psychology,10,,,
+2025-04-20,News & Politics,14,,,
+2025-04-20,Tech & Programming,36,,,
+2025-04-21,Entertainment & Pop Culture,61,,,
+2025-04-21,Finance & Business,131,,,
+2025-04-21,General Discussion & Trends,77,,,
+2025-04-21,Health & Psychology,24,,,
+2025-04-21,News & Politics,39,,,
+2025-04-21,Tech & Programming,60,,,
+2025-04-22,Entertainment & Pop Culture,162,,,
+2025-04-22,Finance & Business,153,,,
+2025-04-22,General Discussion & Trends,93,,,
+2025-04-22,Health & Psychology,30,,,
+2025-04-22,News & Politics,105,,,
+2025-04-22,Tech & Programming,57,,,
+2025-04-23,Entertainment & Pop Culture,208,126495.0,0.4404,1067.0
+2025-04-23,Finance & Business,177,,,
+2025-04-23,General Discussion & Trends,87,,,
+2025-04-23,Health & Psychology,34,,,
+2025-04-23,News & Politics,129,,,
+2025-04-23,Tech & Programming,57,,,
+2025-04-24,Entertainment & Pop Culture,180,42561.0,-0.4215,4214.0
+2025-04-24,Finance & Business,211,,,
+2025-04-24,General Discussion & Trends,79,,,
+2025-04-24,Health & Psychology,26,,,
+2025-04-24,News & Politics,134,,,
+2025-04-24,Tech & Programming,60,,,
+2025-04-25,Entertainment & Pop Culture,264,45145.0,-0.4588,1481.0
+2025-04-25,Finance & Business,255,,,
+2025-04-25,General Discussion & Trends,82,,,
+2025-04-25,Health & Psychology,36,,,
+2025-04-25,News & Politics,133,,,
+2025-04-25,Tech & Programming,46,,,
+2025-04-26,Entertainment & Pop Culture,273,,,
+2025-04-26,Finance & Business,180,,,
+2025-04-26,General Discussion & Trends,73,,,
+2025-04-26,Health & Psychology,124,,,
+2025-04-26,News & Politics,222,,,
+2025-04-26,Tech & Programming,54,,,
+2025-04-27,Entertainment & Pop Culture,244,,,
+2025-04-27,Finance & Business,212,,,
+2025-04-27,General Discussion & Trends,120,,,
+2025-04-27,Health & Psychology,283,,,
+2025-04-27,News & Politics,222,,,
+2025-04-27,Tech & Programming,27,,,
+2025-04-28,Entertainment & Pop Culture,134,,,
+2025-04-28,Finance & Business,57,,,
+2025-04-28,General Discussion & Trends,476,,,
+2025-04-28,Health & Psychology,129,,,
+2025-04-28,News & Politics,260,,,
+2025-04-28,Tech & Programming,7,,,
