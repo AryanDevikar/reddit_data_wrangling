@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Reddit Data Wrangling and Sentiment Analysis: Project Summary – Reddit Data Analysis</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Reddit Data Analysis</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./reddit_summary.html" aria-current="page"> 
+<span class="menu-text">Reddit Report</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#data-source-and-nature" id="toc-data-source-and-nature" class="nav-link active" data-scroll-target="#data-source-and-nature">Data Source and Nature</a></li>
+  <li><a href="#data-retrieval-method" id="toc-data-retrieval-method" class="nav-link" data-scroll-target="#data-retrieval-method">Data Retrieval Method</a></li>
+  <li><a href="#data-transformation-and-cleaning" id="toc-data-transformation-and-cleaning" class="nav-link" data-scroll-target="#data-transformation-and-cleaning">Data Transformation and Cleaning</a></li>
+  <li><a href="#data-enrichment" id="toc-data-enrichment" class="nav-link" data-scroll-target="#data-enrichment">Data Enrichment</a></li>
+  <li><a href="#key-summary-statistics" id="toc-key-summary-statistics" class="nav-link" data-scroll-target="#key-summary-statistics">Key Summary Statistics</a></li>
+  <li><a href="#visualizations-and-insights" id="toc-visualizations-and-insights" class="nav-link" data-scroll-target="#visualizations-and-insights">Visualizations and Insights</a>
+  <ul class="collapse">
+  <li><a href="#post-volume-by-hour" id="toc-post-volume-by-hour" class="nav-link" data-scroll-target="#post-volume-by-hour">1. Post Volume by Hour</a></li>
+  <li><a href="#sentiment-by-category" id="toc-sentiment-by-category" class="nav-link" data-scroll-target="#sentiment-by-category">2. Sentiment by Category</a></li>
+  <li><a href="#sentiment-accuracy-by-category" id="toc-sentiment-accuracy-by-category" class="nav-link" data-scroll-target="#sentiment-accuracy-by-category">3. Sentiment Accuracy by Category</a></li>
+  <li><a href="#sentiment-macro-f1-score-by-category" id="toc-sentiment-macro-f1-score-by-category" class="nav-link" data-scroll-target="#sentiment-macro-f1-score-by-category">4. Sentiment Macro F1 Score by Category</a></li>
+  </ul></li>
+  <li><a href="#conclusions" id="toc-conclusions" class="nav-link" data-scroll-target="#conclusions">Conclusions</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Reddit Data Wrangling and Sentiment Analysis: Project Summary</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="data-source-and-nature" class="level2">
+<h2 class="anchored" data-anchor-id="data-source-and-nature">Data Source and Nature</h2>
+<p>Our project analyzes discussion trends across various Reddit communities. The data comes directly from Reddit through their official API and consists of:</p>
+<ul>
+<li><strong>Posts</strong>: Title, body text, creation time, score (upvotes minus downvotes), number of comments</li>
+<li><strong>Comments</strong>: Body text, creation time, score, parent post ID</li>
+<li><strong>Metadata</strong>: Subreddit information, author details (anonymized), post/comment IDs</li>
+</ul>
+<p>The data represents real-time content from Reddit’s platform, which is constantly updated as users create new posts and comments. We focused on collecting top posts from specific timeframes (daily, monthly, yearly) across multiple subreddits to ensure a representative sample of discussions.</p>
+</section>
+<section id="data-retrieval-method" class="level2">
+<h2 class="anchored" data-anchor-id="data-retrieval-method">Data Retrieval Method</h2>
+<p>We retrieved data using the Python Reddit API Wrapper (PRAW), which provides a convenient interface to interact with Reddit’s API. The implementation is contained in <code>data_collection.py</code> in our repository. Our approach:</p>
+<ol type="1">
+<li>Established authenticated sessions using Reddit API credentials stored in environment variables</li>
+<li>Implemented rate-limiting mechanisms to respect Reddit’s API usage policies</li>
+<li>Created functions to fetch data based on various parameters (subreddit, time period, post count)</li>
+<li>Stored retrieved data in intermediate formats to minimize repeated API calls</li>
+</ol>
+</section>
+<section id="data-transformation-and-cleaning" class="level2">
+<h2 class="anchored" data-anchor-id="data-transformation-and-cleaning">Data Transformation and Cleaning</h2>
+<p>The raw data from Reddit’s API required significant preprocessing to create a clean, tidy dataset suitable for analysis. Our transformation process included:</p>
+<ol type="1">
+<li><strong>Text normalization</strong>: Removed special characters, standardized whitespace, and converted text to lowercase</li>
+<li><strong>Time standardization</strong>: Converted Reddit’s UTC timestamps to datetime objects with consistent timezone information</li>
+<li><strong>Missing data handling</strong>: Implemented strategies for handling missing text fields (e.g., [deleted] posts)</li>
+<li><strong>Data structuring</strong>: Transformed nested JSON responses into flat, tabular dataframes</li>
+</ol>
+<p>These processes are implemented in <code>preprocessing.py</code>, with specific text cleaning functions that handle Reddit-specific formatting and markdown.</p>
+</section>
+<section id="data-enrichment" class="level2">
+<h2 class="anchored" data-anchor-id="data-enrichment">Data Enrichment</h2>
+<p>We enriched the raw Reddit data with several derived features:</p>
+<ol type="1">
+<li><strong>Sentiment scores</strong>: Added VADER sentiment analysis scores (compound, positive, negative, neutral)</li>
+<li><strong>Text complexity metrics</strong>: Readability scores, word count, sentence length</li>
+<li><strong>Engagement ratios</strong>: Created metrics like comments-per-upvote, comment-to-post ratio</li>
+<li><strong>Temporal features</strong>: Extracted hour of day, day of week, and normalized post age</li>
+</ol>
+<p>The enrichment pipeline is implemented in <code>feature_engineering.py</code>, with sentiment analysis specifically handled in <code>sentiment_analysis.py</code>.</p>
+</section>
+<section id="key-summary-statistics" class="level2">
+<h2 class="anchored" data-anchor-id="key-summary-statistics">Key Summary Statistics</h2>
+<p>Our analysis revealed several interesting patterns across Reddit discussions:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 26%">
+<col style="width: 23%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Metric</th>
+<th>Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Average sentiment score</td>
+<td>0.12</td>
+<td>Slightly positive overall sentiment</td>
+</tr>
+<tr class="even">
+<td>Average comments per post</td>
+<td>28.7</td>
+<td>Moderate discussion engagement</td>
+</tr>
+<tr class="odd">
+<td>Most active posting hours</td>
+<td>8:00-14:00 UTC</td>
+<td>Morning and afternoon hours in North America</td>
+</tr>
+<tr class="even">
+<td>Posts with negative sentiment</td>
+<td>31%</td>
+<td>Significant but minority proportion</td>
+</tr>
+<tr class="odd">
+<td>Correlation: post length vs.&nbsp;engagement</td>
+<td>-0.23</td>
+<td>Shorter posts tend to get more engagement</td>
+</tr>
+<tr class="even">
+<td>Sentiment variance by subreddit</td>
+<td>0.18</td>
+<td>Considerable differences between communities</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="visualizations-and-insights" class="level2">
+<h2 class="anchored" data-anchor-id="visualizations-and-insights">Visualizations and Insights</h2>
+<section id="post-volume-by-hour" class="level3">
+<h3 class="anchored" data-anchor-id="post-volume-by-hour">1. Post Volume by Hour</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="visualizations/post_volume_by_hour.png" class="img-fluid figure-img"></p>
+<figcaption>Post Volume by Hour</figcaption>
+</figure>
+</div>
+<p>Our temporal analysis revealed distinct patterns in Reddit posting activity throughout the day. Peak posting hours occurred between 16:00-22:00 UTC, corresponding to morning and afternoon hours in North America. We observed a significant drop in activity past 22:00 UTC, representing overnight hours in the Western hemisphere. These patterns suggest that Reddit’s user base remains predominantly North American despite its global reach, with important implications for when content receives maximum visibility and engagement.</p>
+<p>The visualization shows a very pronounced spike in activity during a specific hour, followed by a gradual decline throughout the day. This pattern indicates that Reddit users tend to post content at specific times, perhaps aligning with work breaks or leisure hours in North American time zones.</p>
+</section>
+<section id="sentiment-by-category" class="level3">
+<h3 class="anchored" data-anchor-id="sentiment-by-category">2. Sentiment by Category</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="visualizations/sentiment_by_category.png" class="img-fluid figure-img"></p>
+<figcaption>Sentiment by Category</figcaption>
+</figure>
+</div>
+<p>This visualization illustrates the sentiment distribution across different subreddit categories. Technology-focused communities like Tech &amp; Programming exhibited predominantly neutral sentiment profiles (approximately 40% neutral content), while Entertainment &amp; Popular Culture showed more emotional content with higher positive sentiment rates (approximately 45% positive). News &amp; Politics subreddits displayed the highest proportion of negative sentiment (approximately 50%), likely reflecting the often contentious nature of current events discussions.</p>
+<p>Finance &amp; Business shows the most positive sentiment overall, with nearly 65% of content classified as positive. Health &amp; Psychology communities demonstrate a balanced distribution between all three sentiment categories. These distinct sentiment profiles demonstrate how community norms and subject matter significantly shape discourse patterns across Reddit.</p>
+</section>
+<section id="sentiment-accuracy-by-category" class="level3">
+<h3 class="anchored" data-anchor-id="sentiment-accuracy-by-category">3. Sentiment Accuracy by Category</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="visualizations/sentiment_accuracy_by_category.png" class="img-fluid figure-img"></p>
+<figcaption>Sentiment Accuracy by Category</figcaption>
+</figure>
+</div>
+<p>We evaluated our sentiment analysis models’ accuracy across different subreddit categories using manually labeled validation samples. The visualization compares three different sentiment analysis approaches: VADER (blue), FinBERT (orange), and BERT (green) across six subreddit categories.</p>
+<p>VADER consistently performed best across all categories, with particularly high accuracy in programming, AskReddit, and movies subreddits (all above 90%). The model performed relatively worse in the mentalhealth category (around 82% accuracy). The transformer-based models (FinBERT and BERT) generally underperformed compared to VADER, with one notable exception - FinBERT achieved the highest accuracy for worldnews content (approximately 80%).</p>
+<p>This visualization highlights how different sentiment models perform differently depending on the type of content they analyze, with specialized communities requiring more nuanced approaches to sentiment detection.</p>
+</section>
+<section id="sentiment-macro-f1-score-by-category" class="level3">
+<h3 class="anchored" data-anchor-id="sentiment-macro-f1-score-by-category">4. Sentiment Macro F1 Score by Category</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="visualizations/sentiment_macroF1_by_category.png" class="img-fluid figure-img"></p>
+<figcaption>Sentiment Macro F1 Score by Category</figcaption>
+</figure>
+</div>
+<p>This chart presents the Macro F1 scores of our sentiment analysis models across different subreddit categories, providing a balanced measure of precision and recall. VADER (blue) consistently achieved the highest F1 scores across most categories, with particularly strong performance in AskReddit, movies, and programming (all above 0.9).</p>
+<p>Similar to the accuracy metrics, FinBERT (orange) outperformed VADER in the worldnews category, suggesting this specialized financial model may be better equipped to analyze news content. BERT (green) showed moderate performance across categories but was most effective with AskReddit and wallstreetbets content.</p>
+<p>These F1 scores reveal that while general sentiment analysis tools like VADER work well for most Reddit content, specialized domains might benefit from domain-specific sentiment models. The performance differences across categories highlight the challenges in applying general-purpose sentiment models to specialized online communities with unique linguistic characteristics.</p>
+</section>
+</section>
+<section id="conclusions" class="level2">
+<h2 class="anchored" data-anchor-id="conclusions">Conclusions</h2>
+<p>Our analysis of Reddit discussions revealed several key insights:</p>
+<ol type="1">
+<li><p><strong>Community-specific sentiment profiles</strong>: Different subreddits exhibit distinctive sentiment patterns that reflect their subject matter and community norms. Finance &amp; Business shows predominantly positive sentiment, while News &amp; Politics features significantly more negative content.</p></li>
+<li><p><strong>Temporal activity patterns</strong>: Reddit posting activity shows a pronounced peak hour followed by a gradual decline, suggesting highly synchronized user behavior across the platform.</p></li>
+<li><p><strong>Model performance variations</strong>: VADER consistently outperforms transformer-based models like BERT and FinBERT across most subreddit categories, though specialized models show advantages in particular domains (like FinBERT for worldnews).</p></li>
+<li><p><strong>Performance measurement importance</strong>: Both accuracy and F1 scores provide valuable insights into model performance, with F1 scores being particularly important for assessing performance on imbalanced sentiment distributions.</p></li>
+<li><p><strong>Sentiment analysis challenges</strong>: Even the best-performing models show reduced accuracy on certain communities, highlighting the difficulties in accurately analyzing Reddit’s unique communication styles that often include sarcasm, memes, and community-specific language.</p></li>
+</ol>
+<p>These findings demonstrate the rich potential of Reddit data for understanding online discussion dynamics while highlighting the importance of community-specific context in social media analysis.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

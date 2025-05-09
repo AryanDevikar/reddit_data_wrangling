@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "reddit_summary.html",
+    "href": "reddit_summary.html",
+    "title": "Reddit Data Wrangling and Sentiment Analysis: Project Summary",
+    "section": "",
+    "text": "Our project analyzes discussion trends across various Reddit communities. The data comes directly from Reddit through their official API and consists of:\n\nPosts: Title, body text, creation time, score (upvotes minus downvotes), number of comments\nComments: Body text, creation time, score, parent post ID\nMetadata: Subreddit information, author details (anonymized), post/comment IDs\n\nThe data represents real-time content from Reddit’s platform, which is constantly updated as users create new posts and comments. We focused on collecting top posts from specific timeframes (daily, monthly, yearly) across multiple subreddits to ensure a representative sample of discussions."
+  },
+  {
+    "objectID": "reddit_summary.html#data-source-and-nature",
+    "href": "reddit_summary.html#data-source-and-nature",
+    "title": "Reddit Data Wrangling and Sentiment Analysis: Project Summary",
+    "section": "",
+    "text": "Our project analyzes discussion trends across various Reddit communities. The data comes directly from Reddit through their official API and consists of:\n\nPosts: Title, body text, creation time, score (upvotes minus downvotes), number of comments\nComments: Body text, creation time, score, parent post ID\nMetadata: Subreddit information, author details (anonymized), post/comment IDs\n\nThe data represents real-time content from Reddit’s platform, which is constantly updated as users create new posts and comments. We focused on collecting top posts from specific timeframes (daily, monthly, yearly) across multiple subreddits to ensure a representative sample of discussions."
+  },
+  {
+    "objectID": "reddit_summary.html#data-retrieval-method",
+    "href": "reddit_summary.html#data-retrieval-method",
+    "title": "Reddit Data Wrangling and Sentiment Analysis: Project Summary",
+    "section": "Data Retrieval Method",
+    "text": "Data Retrieval Method\nWe retrieved data using the Python Reddit API Wrapper (PRAW), which provides a convenient interface to interact with Reddit’s API. The implementation is contained in data_collection.py in our repository. Our approach:\n\nEstablished authenticated sessions using Reddit API credentials stored in environment variables\nImplemented rate-limiting mechanisms to respect Reddit’s API usage policies\nCreated functions to fetch data based on various parameters (subreddit, time period, post count)\nStored retrieved data in intermediate formats to minimize repeated API calls"
+  },
+  {
+    "objectID": "reddit_summary.html#data-transformation-and-cleaning",
+    "href": "reddit_summary.html#data-transformation-and-cleaning",
+    "title": "Reddit Data Wrangling and Sentiment Analysis: Project Summary",
+    "section": "Data Transformation and Cleaning",
+    "text": "Data Transformation and Cleaning\nThe raw data from Reddit’s API required significant preprocessing to create a clean, tidy dataset suitable for analysis. Our transformation process included:\n\nText normalization: Removed special characters, standardized whitespace, and converted text to lowercase\nTime standardization: Converted Reddit’s UTC timestamps to datetime objects with consistent timezone information\nMissing data handling: Implemented strategies for handling missing text fields (e.g., [deleted] posts)\nData structuring: Transformed nested JSON responses into flat, tabular dataframes\n\nThese processes are implemented in preprocessing.py, with specific text cleaning functions that handle Reddit-specific formatting and markdown."
+  },
+  {
+    "objectID": "reddit_summary.html#data-enrichment",
+    "href": "reddit_summary.html#data-enrichment",
+    "title": "Reddit Data Wrangling and Sentiment Analysis: Project Summary",
+    "section": "Data Enrichment",
+    "text": "Data Enrichment\nWe enriched the raw Reddit data with several derived features:\n\nSentiment scores: Added VADER sentiment analysis scores (compound, positive, negative, neutral)\nText complexity metrics: Readability scores, word count, sentence length\nEngagement ratios: Created metrics like comments-per-upvote, comment-to-post ratio\nTemporal features: Extracted hour of day, day of week, and normalized post age\n\nThe enrichment pipeline is implemented in feature_engineering.py, with sentiment analysis specifically handled in sentiment_analysis.py."
+  },
+  {
+    "objectID": "reddit_summary.html#key-summary-statistics",
+    "href": "reddit_summary.html#key-summary-statistics",
+    "title": "Reddit Data Wrangling and Sentiment Analysis: Project Summary",
+    "section": "Key Summary Statistics",
+    "text": "Key Summary Statistics\nOur analysis revealed several interesting patterns across Reddit discussions:\n\n\n\n\n\n\n\n\nMetric\nValue\nInterpretation\n\n\n\n\nAverage sentiment score\n0.12\nSlightly positive overall sentiment\n\n\nAverage comments per post\n28.7\nModerate discussion engagement\n\n\nMost active posting hours\n8:00-14:00 UTC\nMorning and afternoon hours in North America\n\n\nPosts with negative sentiment\n31%\nSignificant but minority proportion\n\n\nCorrelation: post length vs. engagement\n-0.23\nShorter posts tend to get more engagement\n\n\nSentiment variance by subreddit\n0.18\nConsiderable differences between communities"
+  },
+  {
+    "objectID": "reddit_summary.html#visualizations-and-insights",
+    "href": "reddit_summary.html#visualizations-and-insights",
+    "title": "Reddit Data Wrangling and Sentiment Analysis: Project Summary",
+    "section": "Visualizations and Insights",
+    "text": "Visualizations and Insights\n\n1. Post Volume by Hour\n\n\n\nPost Volume by Hour\n\n\nOur temporal analysis revealed distinct patterns in Reddit posting activity throughout the day. Peak posting hours occurred between 16:00-22:00 UTC, corresponding to morning and afternoon hours in North America. We observed a significant drop in activity past 22:00 UTC, representing overnight hours in the Western hemisphere. These patterns suggest that Reddit’s user base remains predominantly North American despite its global reach, with important implications for when content receives maximum visibility and engagement.\nThe visualization shows a very pronounced spike in activity during a specific hour, followed by a gradual decline throughout the day. This pattern indicates that Reddit users tend to post content at specific times, perhaps aligning with work breaks or leisure hours in North American time zones.\n\n\n2. Sentiment by Category\n\n\n\nSentiment by Category\n\n\nThis visualization illustrates the sentiment distribution across different subreddit categories. Technology-focused communities like Tech & Programming exhibited predominantly neutral sentiment profiles (approximately 40% neutral content), while Entertainment & Popular Culture showed more emotional content with higher positive sentiment rates (approximately 45% positive). News & Politics subreddits displayed the highest proportion of negative sentiment (approximately 50%), likely reflecting the often contentious nature of current events discussions.\nFinance & Business shows the most positive sentiment overall, with nearly 65% of content classified as positive. Health & Psychology communities demonstrate a balanced distribution between all three sentiment categories. These distinct sentiment profiles demonstrate how community norms and subject matter significantly shape discourse patterns across Reddit.\n\n\n3. Sentiment Accuracy by Category\n\n\n\nSentiment Accuracy by Category\n\n\nWe evaluated our sentiment analysis models’ accuracy across different subreddit categories using manually labeled validation samples. The visualization compares three different sentiment analysis approaches: VADER (blue), FinBERT (orange), and BERT (green) across six subreddit categories.\nVADER consistently performed best across all categories, with particularly high accuracy in programming, AskReddit, and movies subreddits (all above 90%). The model performed relatively worse in the mentalhealth category (around 82% accuracy). The transformer-based models (FinBERT and BERT) generally underperformed compared to VADER, with one notable exception - FinBERT achieved the highest accuracy for worldnews content (approximately 80%).\nThis visualization highlights how different sentiment models perform differently depending on the type of content they analyze, with specialized communities requiring more nuanced approaches to sentiment detection.\n\n\n4. Sentiment Macro F1 Score by Category\n\n\n\nSentiment Macro F1 Score by Category\n\n\nThis chart presents the Macro F1 scores of our sentiment analysis models across different subreddit categories, providing a balanced measure of precision and recall. VADER (blue) consistently achieved the highest F1 scores across most categories, with particularly strong performance in AskReddit, movies, and programming (all above 0.9).\nSimilar to the accuracy metrics, FinBERT (orange) outperformed VADER in the worldnews category, suggesting this specialized financial model may be better equipped to analyze news content. BERT (green) showed moderate performance across categories but was most effective with AskReddit and wallstreetbets content.\nThese F1 scores reveal that while general sentiment analysis tools like VADER work well for most Reddit content, specialized domains might benefit from domain-specific sentiment models. The performance differences across categories highlight the challenges in applying general-purpose sentiment models to specialized online communities with unique linguistic characteristics."
+  },
+  {
+    "objectID": "reddit_summary.html#conclusions",
+    "href": "reddit_summary.html#conclusions",
+    "title": "Reddit Data Wrangling and Sentiment Analysis: Project Summary",
+    "section": "Conclusions",
+    "text": "Conclusions\nOur analysis of Reddit discussions revealed several key insights:\n\nCommunity-specific sentiment profiles: Different subreddits exhibit distinctive sentiment patterns that reflect their subject matter and community norms. Finance & Business shows predominantly positive sentiment, while News & Politics features significantly more negative content.\nTemporal activity patterns: Reddit posting activity shows a pronounced peak hour followed by a gradual decline, suggesting highly synchronized user behavior across the platform.\nModel performance variations: VADER consistently outperforms transformer-based models like BERT and FinBERT across most subreddit categories, though specialized models show advantages in particular domains (like FinBERT for worldnews).\nPerformance measurement importance: Both accuracy and F1 scores provide valuable insights into model performance, with F1 scores being particularly important for assessing performance on imbalanced sentiment distributions.\nSentiment analysis challenges: Even the best-performing models show reduced accuracy on certain communities, highlighting the difficulties in accurately analyzing Reddit’s unique communication styles that often include sarcasm, memes, and community-specific language.\n\nThese findings demonstrate the rich potential of Reddit data for understanding online discussion dynamics while highlighting the importance of community-specific context in social media analysis."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "doc",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
